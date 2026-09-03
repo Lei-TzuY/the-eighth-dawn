@@ -3,8 +3,8 @@
 ## Current drafting state
 
 - Status: active drafting.
-- Latest completed正文：`chapters/001.md`〈不可能的影像〉。
-- Completed writing slices since last audit: 1。
+- Latest completed正文：`chapters/002.md`〈沒有收據的隔離〉。
+- Completed writing slices since last audit: 2。
 - Audit cadence: 約每 4 個 writing slices 優先安排 continuity / plot / prose audit。
 
 ## Slice 001
@@ -16,6 +16,17 @@
 - 新增伏筆：「你看過了。」、空白授權來源、`PURGE LOCAL DERIVATIVES`。
 - 正文約 1900 個中文字（約 2300+ 字元，含標點與 Markdown）。
 
+## Slice 002
+
+- 新增 `chapters/002.md`〈沒有收據的隔離〉。
+- 隔離倒數真正完成；案件歷程被改寫為「處理完成：無可恢復內容」，沒有隔離物件或中央收件編號。
+- 林澈收到正常的維修模式稽核通知，選擇提交一份技術上為真但刻意不完整的說明，增加後續制度風險。
+- 以離線分析器驗證 412 幀中的感測器固定噪聲；有效 387 幀中有 379 幀共享同一模式，暫時降低簡單拼接的可能性。
+- 找到更具體的城市異常：影像中的東側支撐塔包含 2161 年施工後才形成的 1.6 公尺塔基偏移，且與公開竣工偏差圖在測量誤差內吻合。
+- 新增低層級格式伏筆：未解析檔案頭每隔 64 位元重複相同 4 位前綴，共 8 次；正文未賦予其文明循環意義。
+- Chapter 002 結尾，林澈決定在早班前前往中央轉運環進行實地查看。
+- 正文約 2100 個繁體中文字（約 2600 字元，含標點與 Markdown）。
+
 ## Next-slice handoff
 
-下一輪應先重新讀 live repo 與最近正文。若無外部變更，可從 Chapter 001 結尾直接延續：處理隔離倒數、未授權匯出的稽核風險，以及林澈如何對手上離線證據做第一輪獨立驗證。不要提前揭露 ARK 或文明循環真相。
+下一輪先重新讀 live repo 與最近 2–3 個正文。若無外部變更，可從林澈離開歷史資料局、前往中央轉運環開始：讓他檢查 1.6 公尺塔基偏差及周邊可觀察的物理證據，同時保留稽核與未授權匯出的後續風險。可以推進「城市是否在重複」這一層 mystery，但不要提前揭露 ARK、文明循環機制或影像男子的真實身份。
