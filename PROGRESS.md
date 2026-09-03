@@ -3,8 +3,8 @@
 ## Current drafting state
 
 - Status: active drafting.
-- Latest completed正文：`chapters/002.md`〈沒有收據的隔離〉。
-- Completed writing slices since last audit: 2。
+- Latest completed正文：`chapters/003.md`〈一點六公尺〉。
+- Completed writing slices since last audit: 3。
 - Audit cadence: 約每 4 個 writing slices 優先安排 continuity / plot / prose audit。
 
 ## Slice 001
@@ -27,6 +27,19 @@
 - Chapter 002 結尾，林澈決定在早班前前往中央轉運環進行實地查看。
 - 正文約 2100 個繁體中文字（約 2600 字元，含標點與 Markdown）。
 
+## Slice 003
+
+- 新增 `chapters/003.md`〈一點六公尺〉。
+- 林澈步行前往中央轉運環，以離線光學測距三次確認塔基北緣偏移約 1.60 公尺，將資料庫中的施工偏差轉化為現場物理證據。
+- 新增第二項後期細節：塔基存在 `2174-09 / E-3` 維修接縫，具有長期氧化／熱脹冷縮痕跡，且同樣出現在影像第 209 幀。
+- 林澈因此把「近期偽造／掃描後做舊」提升為優先假設，但發現偽造者若存在，似乎精確保留微小現代維修痕跡、同時刪除顯眼現代元素。
+- 制度風險升級：資料完整性室要求林澈在 08:00 前到場，並攜帶本次診斷所使用的本地媒介。
+- 林澈以三點幾何反推鏡頭位置，將拍攝點縮到中央轉運環東北側上層約 11 公尺半徑；公共導引圖從 42 層跳到 44 層，未列出 43 層。
+- Chapter 003 結尾，林澈朝垂直電梯入口前進，準備先確認推定拍攝空間。
+- 正文約 1900 個繁體中文字（約 2300 字元，含標點與 Markdown）。
+
 ## Next-slice handoff
 
-下一輪先重新讀 live repo 與最近 2–3 個正文。若無外部變更，可從林澈離開歷史資料局、前往中央轉運環開始：讓他檢查 1.6 公尺塔基偏差及周邊可觀察的物理證據，同時保留稽核與未授權匯出的後續風險。可以推進「城市是否在重複」這一層 mystery，但不要提前揭露 ARK、文明循環機制或影像男子的真實身份。
+下一輪先重新讀 live repo 與最近 2–3 個正文。若無外部變更，可從林澈嘗試確認中央轉運環東北側上層封閉空間開始，讓他優先檢驗「近期偽造／現代拍攝」假設，並同步推進 08:00 稽核壓力。不要把缺少 43 層直接寫成陰謀證據，也不要提前揭露 ARK、文明循環機制或影像男子的真實身份。
+
+目前累積 3 個 writing slices；完成下一個 bounded writing slice 後，優先安排一輪 continuity / plot / prose audit。
