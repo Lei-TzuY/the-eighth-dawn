@@ -3,15 +3,15 @@
 ## Current drafting state
 
 - Status: active drafting.
-- Latest completed正文：`chapters/061.md`〈不去追的人〉。
-- Completed writing slices since last audit: **1**。
+- Latest completed正文：`chapters/062.md`〈不是一塊平面〉。
+- Completed writing slices since last audit: **2**。
 - Audit cadence: 約每 4 個 writing slices 優先安排 continuity / plot / prose audit。
 - Last audit: **Audit 015 completed after Slice 060.**
 - Next normal audit target: after roughly 4 new writing slices, unless a structural problem requires an earlier audit.
 - Architecture status: Architecture Checkpoint 003 completed after Chapter 044. Part I〈錯誤年代〉completed Ch.001–029; Part II〈被修補的歷史〉completed Ch.030–044; Part III〈沒有前史的人〉active from Ch.045. An **interim architecture calibration after Ch.060** has updated `ARCHITECTURE.md`, `OUTLINE.md`, and `STYLE_GUIDE.md`; this is not Checkpoint 004.
 - Next macro stop: Architecture Checkpoint 004 around Chapter 063–065 **or after the next 8-run batch**, whichever comes first.
 
-## Part III current state after Chapter 061
+## Part III current state after Chapter 062
 
 ### Identity / subject separation
 
@@ -41,14 +41,18 @@
 - Chapter 059：2162 年普通來源端模擬／回放可以直接生成沒有父影像的第一代媒體與穩定合成人物；但 A-2162-03 留下 `LIVE-SENSOR`、模擬／驗收注入關閉、模擬時鐘未啟用等來源級狀態，因此普通制度內來源端回放／模擬注入支持下降。
 - Chapter 060：A-2162-03 同一事故事件中的門區占位與月台邊緣測距兩套非影像設備，在人物影像所在位置／時間保存成人尺度、可側移的物理占位軌跡，與影像人物軌跡時空相容。
 - Chapter 060 正式只支持：**非影像現場物理占位存在；純視覺投影／完全無物理載體模型支持低。**
-- 仍未建立：占位是自然人／人體、影像中的臉真實長在占位主體上、該物理主體就是 H-2162-U01 的真實身體。
+- Chapter 062：第一階段「影像外觀—物理占位綁定」不逐項盤點所有載體，而只測最簡單的剛性平面／單一前置顯示面模型。單幀可擬合，但跨低頭／抬頭姿態時，下顎—衣領遮擋與頭部相對肩線的多姿態幾何無法由同一剛性平面完整解釋。
+- Chapter 062 正式只支持：**剛性平面／單一前置顯示面物理載體支持低；人物頭頸—軀幹多姿態幾何連續受支持。**
+- 仍未建立：占位是自然人／人體、影像中的臉真實長在占位主體上、該物理主體就是 H-2162-U01 的真實身體。三維可動載體、穿戴式外觀、物理替身等模型仍未排除。
+- Chapter 062 後案件端主動暫停 `physical-carrier` 子類逐項擴張；若沒有新的區辨證據，不再以「再查一種當時做不做得到」作為下一章骨架。
 
 ### Human consequence / privacy boundary
 
-- Chapter 061 不新增案件證據，也沒有核准「影像外觀—物理占位綁定完整性」。
+- Chapter 061 不新增案件證據，也沒有核准新的身份／交通資料擴張。
 - 林澈在正常通勤、工作與母親晚餐中消化 Chapter 060 的結果，第一次把「那裡有物理占位」從程序語言轉成私人重量。
 - 他明確承認自己想追 H-2162-U01 的後續路徑，但仍不要求重啟匿名乘車序列；理由是目前問題不需要知道對方去哪裡、住哪裡或如何付款。
 - 林澈的角色弧進一步從「那個人是不是我」轉成「即使他可能與我高度相關，我也不能先把他的生活當成我的資料」。母親用非案件語言強化這條界線，但沒有提供新資料或新增家庭原件授權。
+- Chapter 062 沒有撤回這個選擇；相反地，最簡單的「只是帶著一張臉的平面載體」被削弱後，林澈承認自己主觀上又更難把 H-2162-U01 只當成技術物件，但仍不把這種感受升格成身份結論或資料必要性。
 
 ## Audit history
 
@@ -159,6 +163,7 @@ Revision decision:
 - **055–056**：subjects separated; independent rail-safety public context adds A-2162-03.
 - **057–060**：simple 2D reuse weak; privacy substitution and first-generation simulation abilities fairly tested; A-2162-03 normal simulation path weakened; camera-independent physical occupancy established.
 - **061**：human-consequence slice; normal commute/work/mother scene turns the physical-occupancy result into a privacy choice, with anonymous transit expansion deliberately left paused.
+- **062**：bounded appearance-binding slice; existing multi-pose geometry weakens the simplest rigid planar/front-display carrier without excluding 3D carriers, wearable appearance, physical stand-ins or natural humans; carrier subtype checklist is deliberately stopped.
 
 ## Next-slice handoff
 
@@ -166,11 +171,10 @@ Revision decision:
 
 Next priorities:
 
-1. Chapter 061 已完成 Beat A 的人物／城市／關係後果。下一個正文最多選一個 bounded ordinary model family，測試「有實體載體，但影像外觀未必屬於載體」；不要把 screen / robot / mannequin / wearable / stand-in 各拆成一章。
-2. 若 ordinary mechanism 再次只得到「能力存在，但指定來源缺正常痕跡」的同型態結果，必須壓縮處理，不要重演 Chapter 058–060 的完整程序骨架。
-3. 若 physical-carrier / appearance-binding 模型因此真正縮窄，下一個升級應改變問題類型：優先從既有資料自然導出 legacy class / system identifier / preservation concept，或取得能建立 H-2162-U01 跨時間持續活動的新獨立證據。
-4. 第一個 legacy breadcrumb 只有在證據自然導出時才允許登場；初次含義須局部／操作性，不得因作者知道真相就直接塞入 `ARK`。
-5. T-04C 人物繫結、匿名乘車序列、家庭資料、左眉、327 年、64-bit/8-prefix 均維持現有 gate，除非新的獨立證據改變可問問題。
-6. Audit 015 後目前完成 **1** 個 writing slice；正常 audit 約再 3 個 slices 後。Architecture Checkpoint 004 仍以 Chapter 063–065 或本批 8-run 邊界為 stop gate。
+1. Chapter 061 已完成 Beat A；Chapter 062 已完成 Beat B 的 bounded physical-carrier test。**下一個正常升級應改變問題類型，不要再跑 screen / robot / mannequin / wearable / stand-in 子類清單。**
+2. 若有既存資料自然提供查詢正當性，優先尋找一個此前無必要展開的 legacy class / system identifier / preservation concept；初次含義必須局部、操作性且仍有普通解釋，不得因作者知道真相就直接塞入 `ARK`。
+3. 另一條可接受路徑，是取得能建立 H-2162-U01 **跨時間持續活動**的新獨立證據，而不是第四支相似攝影機、匿名交通追蹤或新的身份百分比。
+4. 若以上兩者都沒有現有證據橋接，就停，不要硬創 breadcrumb。T-04C 人物繫結、匿名乘車序列、家庭資料、左眉、327 年、64-bit/8-prefix 均維持現有 gate。
+5. Audit 015 後目前完成 **2** 個 writing slices；正常 audit 約再 2 個 slices 後。Architecture Checkpoint 004 仍以 Chapter 063–065 或本批 8-run 邊界為 stop gate；若 Chapter 063–064 出現真正 structural turn，可在其後提早做 checkpoint。
 
 保持限制：林澈是人物關聯覆核的受影響當事人，不是查詢設計者；沒有完整案件影像副本、封存媒介操作權、來源鏈／政策調查權或跨機關擴查主導權。
