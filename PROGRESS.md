@@ -3,12 +3,12 @@
 ## Current drafting state
 
 - Status: active drafting.
-- Latest completed正文：`chapters/044.md`〈從今天開始〉。
-- Completed writing slices since last audit: 4（Slice 041–044）。
+- Latest completed正文：`chapters/045.md`〈把我移出去〉。
+- Completed writing slices since last audit: 1（Slice 045）。
 - Audit cadence: 約每 4 個 writing slices 優先安排 continuity / plot / prose audit。
-- Last audit: Slice 040 後／Slice 041 前完成第十次 continuity / plot / prose audit。
-- Next audit target: **下一輪優先 Audit 011**；先重讀 Chapter 041–044 與 live bible，再決定是否同輪續寫。
-- Architecture status: **Architecture Checkpoint 002 已完成**。Part I〈錯誤年代〉正式結束於 Chapter 029；Part II〈被修補的歷史〉自 Chapter 030 起開始。Part II 前段 ordinary false-resolution 已被公平建立；Chapter 039 首次建立 2158 水務原件與 2160 金鑰生成史的歷史時間一致性衝突，Chapter 040 以實體一次寫入封存匣與外部年度交接清冊強化 2158 側，Chapter 041 再以獨立設備認證院年度封存、退役安全模組與製造商裝置證明強化 2160 側，案件可正式稱為「跨系統歷史時間不一致／已確認；成因未定」。Chapter 042 讓此 discontinuity 首次產生正式制度後果：案件轉入有限歷史完整性覆核，原「單一媒介來源不明」結案路徑停止適用，同時拒絕將 437 個同類現役節點全域凍結；並公平測試「追補年度歸屬」ordinary repair，確認制度本身存在，但指定 2158 物件缺乏依法應有的追補／結算外層痕跡。Chapter 043 再測試「災後信任延續復原」：制度確實允許較晚生成的新錨接續較早服務年代，但必須透過外部 continuity receipt 或新根摘要的衍生重建包建立映射，不能直接改寫既有原始封存 payload；指定 2158 物件目前無上述必要痕跡。金鑰中心因此只對該精確簽章索引／信任錨加註「歷史信任狀態：未解」，不全面停發 437 節點的 lineage 證明。Chapter 044 讓這個未解狀態首次改變真正在役維運決策：R-12 舊控制閘道原定汰換時無法取得爭議 lineage 的連續性背書，維運端選擇在有限封存舊閘道狀態後，以 2187 現行信任根乾淨重新註冊新控制器，不繼承舊歷史沿革；服務正常，但新節點的 lineage 起點永久記為 2187。ordinary false-resolution 作為後期製作能力鏈仍未被排除；失效的是「政策歷史可由單一普通連續遷移鏈完整解釋」這一部分。
+- Last audit: Slice 044 後／Slice 045 前完成第十一次 continuity / plot / prose audit。
+- Next audit target: 再完成約 3 個正常 writing slices 後優先 Audit 012。
+- Architecture status: **Architecture Checkpoint 003 已完成**。Part I〈錯誤年代〉完成於 Chapter 029；Part II〈被修補的歷史〉完成於 Chapter 044；Part III〈沒有前史的人〉自 Chapter 045 起開始。Part II 的 endpoint 由 Chapter 039–044 公平達成：2158／2160 cross-system discontinuity 通過雙側外部驗證，兩項具體 ordinary repair 對指定物件均缺必要痕跡，案件結案條件與精確 lineage 背書已改變，且 `R-12` 在正常汰換中作出不可逆的 2187 乾淨重新註冊。這仍不證明刻意改史、ARK、文明循環或 327 年真實年代。Chapter 045 正式把已可獨立成立的歷史完整性支線與林澈的人物關聯問題分開：歷史支線不再以林澈為必要技術陳述來源；林澈在人物關聯覆核中改列「受影響當事人」，並自願同意一項受限、盲式的 2162 未命名人物群集 ↔ 本人直接比較。家庭原件、姓名、T-04C、327 年與跨機關自由搜尋均不進入該比較；結果尚未產生。
 
 ## Audit history
 
@@ -82,6 +82,15 @@
 - 節奏上 Chapter 039 偏遠端比對、Chapter 040 為實體封存現地；Slice 041 繼續採退役安全模組／設備認證見證室的實體場景完成右側對稱驗證。下一 slice 不應再堆硬體微鑑識，應轉向制度／人物後果或一項可被證偽的正常修復流程。
 - 不需重寫穩定正文；不提前回收影像男子身份、左眉、64-bit／8 前綴、327 年或 ARK。
 
+### Audit 011 — after Slice 044 / before Slice 045
+- 重讀 Chapter 041–044；第七天時間線 `15:46 金鑰見證室 → 17:21 歷史完整性轉介 → 18:27 lineage 營運異議 → 19:12 R-12 汰換阻塞 → 20:18 工單結案` 自洽。
+- Chapter 041 只確認「2158／2160 互斥歷史各自通過外部驗證」；Chapter 042–043 的兩項 ordinary repair 均被公平保留為真實制度，只因指定物件缺必要痕跡而不足以消解不一致，沒有被誇大成邏輯上不可能。
+- Chapter 044 的 `R-12` 始終是正常現役節點與營運案例，不是案件關聯節點或第二個 discontinuity；90 天有限保全也只涵蓋指定狀態，不擴張其餘 436 個節點。
+- Part II endpoint 已達成：已確認 discontinuity 撐過普通修復測試，並改變正式結案條件、指定 lineage 背書與一項不可逆現役維運決策。這些是制度／行動後果，不是刻意改史或 ARK 證明。
+- ordinary later-fabrication 能力仍技術上成立；Part II 關閉的是「政策歷史能被單一普通連續遷移鏈完整解釋」與「案件仍只是媒體鑑識問題」兩個模型。
+- `CHARACTERS.md` current-state 標題仍停在 Chapter 041；本輪同步 Chapter 042–045 的持久角色／權限變化。
+- 不需重寫穩定正文。宏觀轉入 Part III 時應重新把人物身份拉到前景，但不得因 Part II 的歷史 discontinuity 直接推論林澈是重建個體、複製人、歷史人物本人或 ARK 產物。
+
 ## Architecture audit history
 
 ### Architecture Audit 001 — after Chapter 026
@@ -97,6 +106,14 @@
 - Part II 第一個 false-resolution arc：測試「2164 市政舊資料基準整併，使後期製作者可透過共同正常索引取得城市幾何、設備目錄、舊式來源處理背景與歷史媒體素材」的普通假說。
 - 這個假說只是可被驗證／證偽的工作模型；不得把 2164 整併寫成秘密計畫、ARK 痕跡或已證實的偽造來源。
 - Part II 真正任務仍是逐步確認至少一項 discontinuity 屬於歷史系統本身，而不只屬於原始媒介。
+
+### Architecture Checkpoint 003 — after Chapter 044 / before Chapter 045
+- Chapter 039–041 讓第一個 cross-system historical discontinuity 通過雙側獨立／實體驗證；Chapter 042–043 再讓兩項具體 ordinary repair 接受公平測試，指定物件均缺制度要求的必要痕跡。
+- Chapter 042 使原「單一媒介來源不明」完整結案路徑停止適用；Chapter 043 使精確 lineage 被加註「歷史信任狀態：未解」；Chapter 044 又讓正常現役 `R-12` 在必要汰換時選擇不可逆的 2187 乾淨重新註冊。
+- 因此 Part II endpoint 已達成：案件已成為歷史問題，且 discontinuity 已強到真正改變機構行動；仍沒有證據證明刻意改史、ARK、文明循環或 327 年絕對年代。
+- **Part II〈被修補的歷史〉正式結束於 Chapter 044。**
+- **Part III〈沒有前史的人〉自 Chapter 045 起開始。**
+- Part III 起手原則：把已能獨立成立的歷史完整性支線與林澈本人的身份問題分離，避免讓歷史 discontinuity 替身份結論背書。重新檢視 2162 未命名人物、封存影像人物與林澈之間的關係時，必須採用新的獨立比較／同意／利益衝突邊界。
 
 ## Slice log
 
@@ -144,18 +161,18 @@
 - **042〈補作會留下痕跡〉**：已確認 discontinuity 自動轉入有限歷史完整性覆核；公平測試合法「追補年度歸屬」ordinary repair。該制度可讓較晚重建包保留較早服務年度，但自 2153 起要求接收端追補／實際接收年度／結算補記；指定 2158 物件目前顯示年度正常交接、無追補／補充結算／年度重開，因此此 candidate 目前不足以消解 2158／2160 不一致。原「單一媒介來源不明」結案路徑停止適用，但仍不凍結 437 個同類現役節點。約1816字。
 - **043〈它應該在外面〉**：測試合法「災後信任延續復原」；較晚生成的新錨可接續較早服務年代，但必須以原始 payload 外的 continuity receipt／衍生重建包建立映射。指定 2158 原件已直接含 2160 才生成的公鑰指紋，且未命中必要映射／重建繫結，因此此 ordinary repair 目前不適用。精確 lineage 加註「歷史信任狀態：未解」，但不全面影響 437 節點；林澈既有行政違規也被正式與本時間不一致的必要證據切開。約1954字。
 - **044〈從今天開始〉**：`R-12` 正常舊控制閘道原定汰換，因爭議 lineage 無法取得連續性背書；維運端不延後有健康風險的硬體汰換，而在只讀封存舊閘道有限狀態後，讓新控制器以 2187 現行信任根乾淨重新註冊、不繼承歷史 lineage。服務正常，新節點沿革起點永久記為 2187；舊閘道僅保全 90 天且不因此成為案件關聯節點。約1993字。
+- **045〈把我移出去〉**：Audit 011／Checkpoint 003 後正式進入 Part III。歷史完整性支線可完全依獨立證據繼續，不再以林澈為必要技術陳述來源；人物關聯問題另立受控覆核，林澈改列「受影響當事人」。他自願同意只使用既有 2162 未命名群集兩份人物影像與本人現行市民身份模板做盲式直接比較；排除姓名、家庭原件、T-04C、327 年與左眉主評分，且本人不得參與查詢／閾值設定／中間結果。結果待定。約2300字。
 
 ## Next-slice handoff
 
-下一輪先重新讀 live repo、七份固定設定／進度檔、`ARCHITECTURE.md` 與最近 2–3 個正文。若無外部變更，目前距 Audit 010 累積 **4 個 writing slices（041–044）**，因此**優先執行 Audit 011**；audit 若沒有 blocker，可再判斷是否同輪續寫。
+下一輪先重新讀 live repo、七份固定設定／進度檔、`ARCHITECTURE.md` 與最近 2–3 個正文。若無外部變更，目前距 Audit 011 累積 **1 個 writing slice（045）**，正常情況不需立即再 audit。
 
-Audit 011 優先檢查：
-- Chapter 041–044 是否把「兩側歷史見證各自成立」越界成「任一側已證明遭偽造／改史」；目前禁止。
-- Chapter 042–043 的兩個 ordinary repair 是否真的被公平測試：制度存在，但指定物件缺乏必要外層痕跡；不得誤寫成所有合法恢復機制皆已排除。
-- Chapter 044 的 `R-12` 必須維持為**正常現役節點／營運案例，不是案件關聯節點或第二個 discontinuity**。乾淨重新註冊只是停止替舊 lineage 連續性背書，不表示舊 lineage 為偽。
-- 90 天有限狀態保全只針對 R-12 舊閘道的 lineage 摘要、政策索引、硬體序號與當代驗收狀態；不得擴成政策內容、人員、使用者或其餘 436 個節點。
-- 評估 Part II endpoint 是否開始接近：歷史 discontinuity 已確認、兩個具體 ordinary repair 對指定物件均缺必要痕跡，且已造成正式結案限制、精確 lineage 狀態標記與第一個不可逆現役維運選擇；但仍不能提前宣布 Part II 完成，需由 Audit 011／後續 architecture checkpoint 判定。
-- ordinary false-resolution 的「後期製作能力／素材取得」仍然可行；目前被破壞的是政策歷史的單一普通連續遷移解釋，兩者必須保持分開。
-- 暫不回收影像男子身份、左眉、64-bit／8 前綴、327 年或 ARK，除非 Audit 011 判定 Part II 已達足夠轉折條件。
+Part III 起手優先：
+- Chapter 045 已把「歷史完整性問題」與「林澈人物關聯問題」制度上分離。歷史支線可以沒有林澈繼續，因此不得再讓 2158／2160 discontinuity 直接替任何身份結論背書。
+- 2162 未命名人物群集 ↔ 林澈本人之受限直接比較已排程；下一輪可以產生結果，但結果只能回答是否達到「需進一步身份覆核」門檻，不直接判定同一人、血緣、複製、重建或 ARK。
+- 比較只允許既有兩份 2162 人物影像與林澈現行市民身份模板；姓名、職務、327 年、T-04C、家庭資料與左眉局部特徵都不得進主評分。林澈不能參與查詢執行、閾值調整或中間分數。
+- Chapter 013 私人家庭影像的用途限制仍有效；未重新同意前，不得把四張家庭原件拿去做身份建模或家族推論。
+- Part III 應逐步讓「林澈的完整當代行政前史」與「2162 人物高度相容」形成更精確的身份問題，但不得因文學段落切換就提前得出 clone／reconstruction 結論。
+- 節奏上 Chapter 045 是制度分案＋個人選擇；下一 slice 若給出比較結果，最好同時加入人物反應／關係壓力，而不是只讀一張分數表。
 
-保持限制：林澈一般外接媒介職務權限已恢復，但沒有完整案件影像副本、沒有封存媒介操作權、沒有來源鏈／政策調查權或跨機關擴查主導權。
+保持限制：林澈一般外接媒介職務權限已恢復，但沒有完整案件影像副本、沒有封存媒介操作權、沒有來源鏈／政策調查權或跨機關擴查主導權。人物關聯覆核中，他是受影響當事人，不是查詢設計者。
