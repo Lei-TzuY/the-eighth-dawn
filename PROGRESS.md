@@ -4,193 +4,117 @@
 
 - Status: active drafting.
 - Latest completed正文：`chapters/064.md`〈我們也會先消失〉。
-- Completed writing slices since last audit: **4**。
-- Audit cadence: 約每 4 個 writing slices 優先安排 continuity / plot / prose audit。
-- Last audit: **Audit 015 completed after Slice 060.**
-- Next normal audit target: **now — Audit 016 + Architecture Checkpoint 004 should run before further normal drafting.**
-- Architecture status: Architecture Checkpoint 003 completed after Chapter 044. Part I〈錯誤年代〉completed Ch.001–029; Part II〈被修補的歷史〉completed Ch.030–044; Part III〈沒有前史的人〉active from Ch.045. An **interim architecture calibration after Ch.060** updated `ARCHITECTURE.md`, `OUTLINE.md`, and `STYLE_GUIDE.md`; this is not Checkpoint 004.
-- Next macro stop: **triggered after Chapter 064**. Run Architecture Checkpoint 004 before opening a new investigation beat.
+- Completed writing slices since last audit: **0**。
+- Last audit: **Audit 016 completed after Chapter 064.**
+- Architecture status: **Architecture Checkpoint 004 completed after Chapter 064. Part III〈沒有前史的人〉continues; Part IV is not open.**
+- Next normal audit target: after roughly 4 new writing slices, unless a structural problem requires an earlier stop.
+- Current phase: late-middle Part III, shifting from source/mechanism testing toward person-relationship / preservation-architecture / evidence-earned legacy bridge.
 
-## Part III current state after Chapter 064
+## Part III state after Chapter 064
 
 ### Identity / subject separation
 
-- B-CURRENT／林澈的當代身份來源鏈可獨立重建；完整當代行政／醫療／家庭人生仍是正面證據，不得因 mystery 升級而自動當成偽造。
-- A-2162-01／02 已支持建立暫定歷史人物節點 `H-2162-U01`。
-- Chapter 054 的獨立教育封存鏈支持 2162 年林澈仍為**兒童年齡階段**；同年 H-2162-U01 在既有市政媒體中為成年年齡階段。
-- 正式結論只到：**普通單一人生之同一人物解釋不相容；人物關係與原因機制未建立。**
-- Chapter 055 起 B-CURRENT／林澈與 H-2162-U01 在程序上分成不可自動合併／回填的兩個主體，關係維持「未定」。這是證據治理，不是已證明兩個物理人物。
+- B-CURRENT／林澈的當代身份來源鏈可獨立重建；完整當代行政／醫療／家庭人生仍是正面證據。
+- A-2162-01／02／03 support the provisional historical-person node `H-2162-U01`; it still has no name, legal identity, kinship, title, or same-identity conclusion with Lin Che.
+- Chapter 054 independently supports child-age Lin Che in 2162 while H-2162-U01 is adult-age in the same year. Formal conclusion remains: **one ordinary linear-life same-person explanation is incompatible; relationship and mechanism are unknown.**
+- Chapter 055 subject separation remains evidence governance, not ontology.
 
-### Work-context line
+### Work-context / public-context holds
 
-- Chapter 050–053 把 H-2162-U01 的情境縮窄到 `V-17-4` 影像驗證／媒介來源鏈交接、`來源鏈獨立見證／二級` 與 `T-04C` 責任指派世代 `03`。
-- `T-04C` 六月／八月責任指派連續性受支持，但沒有 H-2162-U01 ↔ T-04C 的直接人物橋接。
-- T-04C 人物繫結擴張自 Chapter 053 暫停；不得因其他線索變強而自動重啟。
+- `T-04C` June/August responsibility continuity is supported, but direct person binding is absent and remains paused.
+- A-2162-03 establishes an independent public-context presence for H-2162-U01 outside the V-17-4 / T-04C work chain.
+- Anonymous transit sequence, payment identity, address, routine-life expansion and family-data expansion remain paused.
 
-### Independent public-context line
+### Ordinary source / synthesis mechanisms
 
-- Chapter 056 的第三份來源 `A-2162-03` 來自市政軌道安全事故原始保存，保存理由與工程／驗證工作無關。
-- A-2162-03 的人物候選達 H-2162-U01 節點納入門檻，正式可說：**H-2162-U01 的獨立公共情境存在受支持。**
-- 匿名乘車序列、支付身份、住址、生活圈擴張仍暫停。
-- Chapter 061 將這個暫緩從程序偏好轉成林澈的明確選擇：他承認自己想知道 H-2162-U01 月台之後去了哪裡，但不把「外觀高度像自己」當成足以重啟匿名交通／生活資料擴張的必要性。
-
-### Ordinary source / synthesis mechanisms tested
-
-- Chapter 057：三來源人物區域未找到共同像素祖先、共享時間片段或可追二維裁切變換鏈；共同二維人物素材／同一片段重用支持低。這不等於三次真實物理拍攝。
-- Chapter 058：2162 年普通制度具有穩定人物替代／跨場景外觀重建能力；但 A-2162-01／02／03 用來建立人物節點的區域都位於正常隱私衍生層之前，因此 ordinary privacy-substitution 對指定來源支持下降。
-- Chapter 059：2162 年普通來源端模擬／回放可以直接生成沒有父影像的第一代媒體與穩定合成人物；但 A-2162-03 留下 `LIVE-SENSOR`、模擬／驗收注入關閉、模擬時鐘未啟用等來源級狀態，因此普通制度內來源端回放／模擬注入支持下降。
-- Chapter 060：A-2162-03 同一事故事件中的門區占位與月台邊緣測距兩套非影像設備，在人物影像所在位置／時間保存成人尺度、可側移的物理占位軌跡，與影像人物軌跡時空相容。
-- Chapter 060 正式只支持：**非影像現場物理占位存在；純視覺投影／完全無物理載體模型支持低。**
-- Chapter 062：第一階段「影像外觀—物理占位綁定」不逐項盤點所有載體，而只測最簡單的剛性平面／單一前置顯示面模型。單幀可擬合，但跨低頭／抬頭姿態時，下顎—衣領遮擋與頭部相對肩線的多姿態幾何無法由同一剛性平面完整解釋。
-- Chapter 062 正式只支持：**剛性平面／單一前置顯示面物理載體支持低；人物頭頸—軀幹多姿態幾何連續受支持。**
-- 仍未建立：占位是自然人／人體、影像中的臉真實長在占位主體上、該物理主體就是 H-2162-U01 的真實身體。三維可動載體、穿戴式外觀、物理替身等模型仍未排除。
-- Chapter 062 後案件端主動暫停 `physical-carrier` 子類逐項擴張；若沒有新的區辨證據，不再以「再查一種當時做不做得到」作為下一章骨架。
+- Chapter 057: simple shared 2D-person-image / same-time-slice reuse is low support across A-2162-01/02/03.
+- Chapter 058: 2162 stable privacy substitution / cross-scene appearance reconstruction existed, but the designated person regions sit before the normal privacy-derived layer.
+- Chapter 059: 2162 source-side simulation / replay could generate first-generation media and stable synthetic persons, but A-2162-03 retains `LIVE-SENSOR`, disabled injection and inactive simulation-clock states against the normal path.
+- Chapter 060: two camera-independent sensors establish adult-scale mobile physical occupancy at the same place/time as the image person; pure light-only / no-physical-carrier models are low support.
+- Chapter 062: the simplest rigid planar/front-display physical carrier is low support; multi-pose head-neck-torso geometry is supported. 3D carriers, wearable appearance, physical stand-ins and natural humans remain unresolved.
+- `physical-carrier` subtype checklist expansion is deliberately stopped unless new discriminating evidence appears.
 
 ### Human consequence / privacy boundary
 
-- Chapter 061 不新增案件證據，也沒有核准新的身份／交通資料擴張。
-- 林澈在正常通勤、工作與母親晚餐中消化 Chapter 060 的結果，第一次把「那裡有物理占位」從程序語言轉成私人重量。
-- 他明確承認自己想追 H-2162-U01 的後續路徑，但仍不要求重啟匿名乘車序列；理由是目前問題不需要知道對方去哪裡、住哪裡或如何付款。
-- 林澈的角色弧進一步從「那個人是不是我」轉成「即使他可能與我高度相關，我也不能先把他的生活當成我的資料」。母親用非案件語言強化這條界線，但沒有提供新資料或新增家庭原件授權。
-- Chapter 062 沒有撤回這個選擇；相反地，最簡單的「只是帶著一張臉的平面載體」被削弱後，林澈承認自己主觀上又更難把 H-2162-U01 只當成技術物件，但仍不把這種感受升格成身份結論或資料必要性。
-- Chapter 064 把 Chapter 063 的保存概念落到當代日常：林澈擔任例行個人操作歸屬映射到期的第二人見證，親眼看見一名主管認識的退休前組員姓名依正常保存期退出，而修復結果、工具版本、角色、覆核與決策證據仍可重驗。
-- Chapter 064 的持久人物選擇：即使「歷史價值」可以被拿來申請人工延長，林澈仍不因自己此刻對名字消失特別敏感而製造例外，也沒有私留姓名副本。這直接回扣第一夜「怕東西消失所以多留一份」的違規：他現在能接受**保留足夠回答問題的證據，不等於永久保留每一個人的身份綁定。**
-- Chapter 064 結尾他仍想知道「市政連續性服務」完整索引，但明確拒絕只因好奇或可能找到名字就申請展開；下一次展開必須先有一個由既有證據產生的實際問題。
+- Chapter 061 converts the physical-occupancy result into a durable privacy choice: Lin Che admits he wants to know where H-2162-U01 went, but refuses to treat resemblance as sufficient purpose to open anonymous travel/life data.
+- Chapter 064 converts the preservation question into a present-day retention choice: Lin Che watches a former worker's name mapping expire while verifiable work evidence remains, refuses to manufacture a historical-value exception, and does not keep a private copy.
+- Character arc now explicitly includes: **wanting truth does not automatically create a right to retain or open every personal mapping.**
 
 ### Preservation-architecture turn
 
-- Chapter 063 把問題類型從「再排除一種人物／載體模型」轉成「為什麼三份既有 2162 來源在二十五年後仍保有足夠低層證據可重驗」。
-- 三份來源的起始業務與保存理由仍互相獨立，但進入長期保存層後都帶有舊式**持續可驗證保存／CONTINUITY-WITNESS RETENTION**策略。
-- 該策略的普通功能是：在來源設備、承包商系統或業務平台退役後，保留足以重走來源形成、交接與獨立見證的最小證據；它不延長姓名、人員名冊或個人憑證映射的保存期。
-- 因此「來源／事件證據長期完整」與「人物姓名映射已正常消失」可以同時成立。這削弱了「沒有名字本身代表遭刻意刪除／秘密處理」的直覺，但不新增 H-2162-U01 身份證據。
-- A-2162-01／02／03 各自有普通理由進入該策略；**H-2162-U01 被特別指定保存未建立。**
-- 首次出現舊策略所有者：**市政連續性服務**。目前只知道它曾是跨部門保存協調服務，2164 市政資料整併後由各業務保存體系分別承接；舊制度索引存在但尚未展開。
-- 此 breadcrumb 目前不得與 `MUNI-LEGACY/INGEST`、Part II discontinuity、B-17、327 年或 ARK 自動合併。它的初始作用只是解釋「為什麼證據能活得比名字久」。
-- Chapter 064 證明上述「證據存續／姓名到期可分離」不是只存在於 2162 舊制度文本中的抽象概念；2187 的普通修復管理仍有相同方向的資料最小化實務。這是制度後果與主題回聲，**不是 H-2162-U01 或舊服務的新 lineage 證據。**
+- Chapter 063 establishes the ordinary legacy strategy `持續可驗證保存 / CONTINUITY-WITNESS RETENTION`: preserve enough provenance/witness evidence to re-verify events after systems retire, while personal identity mappings may expire independently.
+- Three independent 2162 sources each have ordinary reasons to enter that strategy; H-2162-U01 being specially preserved is not established.
+- First local legacy name: **市政連續性服務**. It is an already-retired cross-department preservation-strategy owner; 2164 municipal consolidation later distributed functions back to business preservation systems.
+- The old service index exists but is unopened. It is not yet linked to `MUNI-LEGACY/INGEST`, B-17, the Part II discontinuity, 327 years, 8-prefix, ARK, or civilization cycles.
+- Chapter 064's 2187 retention practice is thematic / institutional echo only, not lineage evidence.
 
-## Audit history
+## Audit 016 — after Chapter 064
 
-### Audit 001 — after Slice 004
-- 2160–2179 工程時間線自洽；「43 層」正常解釋為 `42M`。
-
-### Audit 002 — after Slice 008
-- 林澈「違規保留 → 承認 → 稽核 → 技術陳述人」角色弧連續；身份、年代、工程異常分層。
-
-### Audit 003 — after Slice 012
-- 97.6% 當代近似、後天眉傷、歷史命名身份索引 0 候選維持三層；B-17 只約束 2184 實體媒介情境。
-
-### Audit 004 — after Slice 016
-- 清理政策家族正常化與早期正文相容；身份、媒介、政策不互相偷換。
-
-### Audit 005 — after Slice 020
-- 42M、2162 未命名人物、`V-17-4`、B-17 設備家族保持不同證據層；普通後期重建開始被公平測試。
-
-### Audit 006 — after Slice 024
-- 72 小時外接媒介限制時間線自洽；三組 327 年讀值修正為共享同一絕對紀元基準。
-
-### Audit 007 — after Slice 028
-- `T-04C` 仍只是責任憑證、`CIM-4R-7714` 仍只是外部校正模組；外部成像鏈前史首次成立。
-
-### Audit 008 — after Slice 032
-- Chapter 030–032 只證明普通後期製作能力／授權存在；沒有找到實際製作者。
-
-### Audit 009 — after Slice 036
-- 能力、素材入口、案件特定政策索引分離；ordinary false-resolution 已公平建立。
-
-### Audit 010 — after Slice 040
-- 2158 水務側被強化但未自動判 2160 側錯；失效的是單一普通政策歷史連續性解釋。
-
-### Audit 011 — after Slice 044
-- Chapter 041–044 無 blocker；Part II endpoint 達成，歷史 discontinuity 已改變結案、lineage 背書與 `R-12` 現役決策；正式轉入 Part III。
-
-### Audit 012 — after Slice 048
-- 第八天身份流程時間線自洽；A/B 兩端來源完整性均建立，但仍不證明同一身份。
-- 家庭原件、左眉、Part II discontinuity、T-04C、327 年未偷渡進身份分數。
-- Chapter 046–048 技術密度過高；Slice 049 轉為母子關係與自我認知後果。
-
-### Audit 013 — after Slice 052 / before Slice 053
-- H-2162-U01 人物節點、工作情境、角色資格、T-04C 責任憑證維持分層。
-- 林澈只有範圍偏好，沒有查詢設計權；家庭原件、血緣、左眉與 Part II discontinuity 未被加入。
-- T-04C 非人事責任鏈到達可驗上限；無需重寫穩定正文。
-
-### Audit 014 — after Slice 056 / before Slice 057
-- Chapter 053–056 時間線與證據層級自洽。
-- Chapter 054 只排除普通單一人生；Chapter 055 只做身份治理；Chapter 056 只建立第三條獨立公共來源。
-- ordinary source reuse／合成模型仍活著；下一步應測來源／人物生成機制，而不是找第四支監視器。
-
-### Audit 015 — after Slice 060
-
-**Result: PASS; no stable chapter requires rewrite before continuing.**
+**Result: PASS. No stable正文 requires rewrite before continuing.**
 
 Continuity / logic:
-- Chapter 057–060 沒有把「能力存在」偷換成「指定來源使用」。
-- Chapter 059 的 `LIVE-SENSOR` 保持為來源狀態，不等於自然人／真人。
-- Chapter 060 的非影像占位保持為物理占位，不等於人體；影像外觀與占位軌跡相容仍不等於外觀必然屬於占位主體。
-- Chapter 054 的同年兒童／成人不相容仍只排除普通單一線性人生模型。
-- Part II discontinuity 沒有被拿來替身份證據加權。
-- T-04C 人物繫結、匿名乘車序列、家庭資料擴張仍保持暫停。
+- Chapter 061–064 preserve all existing evidence boundaries.
+- Chapter 062 does not turn physical occupancy into a human body or the image face into the occupant's true appearance.
+- Chapter 063 does not turn ordinary long-term preservation into special preservation of H-2162-U01.
+- Chapter 064 does not retroactively establish lineage between present-day retention practice and the retired municipal service.
+- Part II historical discontinuity still does not inflate identity evidence.
+- T-04C, anonymous transit, family originals, left-brow reuse and physical-carrier subtype expansion remain gated.
 
 Pacing / prose:
-- Chapter 057–060 的邏輯品質高，但已形成連續「ordinary mechanism → technical verification → narrower model」節奏；若立即再用相同骨架續寫，會開始傷害可讀性。
-- Chapter 056 與 060 的月台／現地元素有效，但技術結果仍佔主要戲劇位置。
-- 下一個正文 slice 必須優先承擔**人物／關係／城市日常後果**；不要立刻把「影像外觀—物理占位綁定」寫成另一個完整機構查核章。
-- `STYLE_GUIDE.md` 已補 anti-procedural guardrails：避免連續「時間戳＋通知＋新機構＋報告」、避免重複「不是 A 只能證明 B」句型、技術結果後優先以人物反應承接。
-
-Architecture:
-- Part III 尚未達 endpoint，**不開 Architecture Checkpoint 004**。
-- 下一批可以公平測試一個 bounded「有物理載體但外觀不屬於載體」model family，但不逐項測 screen / robot / mannequin / wearable / stand-in。
-- 若下一個 ordinary mechanism 仍只是「能力存在但指定來源缺正常痕跡」，應壓縮；真正值得的大轉折應改變問題類型。
-- 第一個 legacy/system breadcrumb 只能在現有證據自然提供查詢正當性時出現；不得硬塞 `ARK`、clone、reconstruction、time travel 或 civilization-cycle 解釋。
+- The procedural density problem identified by Audit 015 is improved, not solved by rewriting.
+- Chapter 061 and Chapter 064 are embodied consequence slices; Chapter 062 is one bounded mechanism test; Chapter 063 changes the question type instead of repeating the same forensic ladder.
+- No need to retroactively compress 061–064. Future technical scenes should remain bounded and must change a relationship, risk, choice or model.
 
 Revision decision:
-- **目前不回頭全面重寫 Chapter 001–060。** 沒有發現需要 retroactive repair 的 hard contradiction。
-- Chapter 046–060 的程序密度是 prose/pacing debt，不是 canon/logic corruption。先靠後續節奏校正，等 Part III checkpoint 或整部完成後再做 dedicated prose-compression pass。
-- 未來若進行回修，優先是「壓縮重複程序解說、增加具身細節與角色聲音差異」，而不是改動已穩定證據結論。
+- No stable chapter rewrite.
+- Management docs are checkpoint-compressed to remove obsolete Ch.060 handoff text and align current state.
 
-## Architecture audit history
+## Architecture Checkpoint 004 — after Chapter 064
 
-### Architecture Audit 001 — after Chapter 026
-- 建立五部長篇架構：Part I〈錯誤年代〉、Part II〈被修補的歷史〉、Part III〈沒有前史的人〉、Part IV〈第七座墓〉、Part V〈第八次黎明〉。
+**Decision: Part III continues. Do not enter Part IV.**
 
-### Architecture Checkpoint 002 — after Chapter 029
-- Part I completed; Part II opened.
+Checkpoint answers:
+- Part III has moved beyond pure source/mechanism testing into person-relationship / preservation-architecture / legacy-bridge territory: **yes**.
+- At least one ordinary appearance/physical-carrier family has been fairly tested without a catalogue loop: **yes** (Chapter 062).
+- Chapter 060 produced real human consequence rather than only stronger evidence: **yes** (Chapters 061 and 064).
+- An evidence-earned legacy identifier exists: **yes, but only locally** (`市政連續性服務`). It is not yet a reliable bridge toward ARK.
+- The left-brow anomaly has a new independent use condition: **no**. Keep it held.
+- Part III should be allowed to extend beyond Chapter 070 if the endpoint conditions are not earned: **yes**. Chapter numbers are pacing ranges, not quotas.
 
-### Architecture Checkpoint 003 — after Chapter 044
-- Part II completed; Part III opened.
-- 已確認歷史 discontinuity 不得替林澈身份結論加權；身份問題在新的 consent / conflict-of-interest 邊界下獨立處理。
-
-### Interim architecture calibration — after Chapter 060
-- 更新 `ARCHITECTURE.md` / `OUTLINE.md` / `STYLE_GUIDE.md`。
-- Part III 留在中段，不進 Part IV。
-- 下一個 full checkpoint 定在約 Ch.063–065 或下一批 8 runs 後。
+Why Part III is not finished:
+- Lin Che's complete ordinary present-day biography and the adult 2162 historical-person node still are not forced into one larger explanatory question by direct evidence.
+- Ordinary source/synthesis explanations have been narrowed, but not exhausted into a new cosmological layer.
+- A personally costly truth-vs-rights choice has occurred, but the reliable system-level bridge is still missing.
+- No character has evidence for ARK, reconstruction, clone, time travel or civilization cycles.
 
 ## Slice log — compressed
 
 - **001–008**：327 年影像、城市／工程時間衝突、原媒介清除與完整性稽核。
 - **009–016**：當代身份高近似、後天眉傷、歷史命名身份 0 候選、清理政策家族分層。
-- **017–024**：42M、2162 未命名人物、`V-17-4`、B-17、後期重建可行性、盲式文字、`T-04C`。
+- **017–024**：42M、2162 未命名人物、`V-17-4`、B-17、盲式文字、`T-04C`。
 - **025–029**：327 年共同紀元基準修正、行政警示、`CIM-4R-7714` 外部校正見證；Part I complete.
-- **030–038**：ordinary later-fabrication / municipal consolidation false-resolution built fairly.
-- **039–044**：2158／2160 historical inconsistency confirmed; ordinary repairs tested; `R-12` clean re-registration; Part II complete.
-- **045–049**：identity branch separated; H-2162-U01 established; mother relationship scene.
-- **050–054**：work-context / T-04C continuity bounded; independent education chain establishes 2162 child Lin Che vs adult historical person incompatibility.
-- **055–056**：subjects separated; independent rail-safety public context adds A-2162-03.
-- **057–060**：simple 2D reuse weak; privacy substitution and first-generation simulation abilities fairly tested; A-2162-03 normal simulation path weakened; camera-independent physical occupancy established.
-- **061**：human-consequence slice; normal commute/work/mother scene turns the physical-occupancy result into a privacy choice, with anonymous transit expansion deliberately left paused.
-- **062**：bounded appearance-binding slice; existing multi-pose geometry weakens the simplest rigid planar/front-display carrier without excluding 3D carriers, wearable appearance, physical stand-ins or natural humans; carrier subtype checklist is deliberately stopped.
-- **063**：structural preservation slice; three independent sources are shown to share an ordinary long-term verifiability strategy that preserves provenance/witness evidence without extending personal identity mappings; first local legacy breadcrumb `市政連續性服務` appears but remains unopened and non-identity-bearing.
-- **064**：embodied retention-consequence slice; Lin Che witnesses ordinary contemporary identity-mapping expiry, refuses to manufacture an exception or private copy, and accepts that verifiable work may properly outlive the name of the person who performed it.
+- **030–044**：ordinary later-fabrication / municipal-consolidation false-resolution → confirmed 2158/2160 historical inconsistency → `R-12` clean re-registration; Part II complete.
+- **045–054**：identity branch separated; H-2162-U01 established; work-context bounded; independent education archive breaks ordinary single-life model.
+- **055–060**：subjects separated; third public-context source; simple 2D reuse weak; privacy substitution and source-side simulation tested; camera-independent physical occupancy established.
+- **061**：privacy-choice human consequence.
+- **062**：bounded rigid-planar carrier test.
+- **063**：preservation-architecture problem-type shift; first local legacy breadcrumb.
+- **064**：embodied retention consequence; no private retention exception.
 
 ## Next-slice handoff
 
-下一輪先重新讀 live repo、固定 bible / continuity / architecture / outline / style / progress 與最近 2–3 個正文。**不要再直接新增 Chapter 065。**
+Next run must again re-read live repo, fixed bible/continuity/progress and the latest 2–3正文.
 
-Next priorities:
+Priorities after Checkpoint 004:
 
-1. Audit 015 後已完成 **4** 個 writing slices（061–064）。下一輪優先執行 **Audit 016 + Architecture Checkpoint 004**，檢查 continuity、角色弧、程序密度、Part III 結構與是否具備轉段條件。
-2. Audit 016 必須特別檢查：Chapter 063 的保存架構 breadcrumb 是否保持局部普通解釋；Chapter 064 的當代 retention scene 是否只是主題／制度後果，而沒有偷偷替舊服務建立 lineage。
-3. Checkpoint 004 必須決定 Part III 應繼續、接近 endpoint，或準備轉入下一宏觀階段；在 checkpoint 前不得因「市政連續性服務」名稱新鮮就展開完整索引。
-4. `市政連續性服務／持續可驗證保存` 目前只具普通保存意義。除非新的直接 lineage／制度證據自己出現，不得連到 `MUNI-LEGACY/INGEST`、Part II discontinuity、B-17、327 年、8-prefix、ARK 或文明循環。
-5. T-04C 人物繫結、匿名乘車序列、家庭資料、左眉與 physical-carrier 子類清單繼續維持 gate。
+1. Chapter 065 may resume normal drafting. Do **not** open the full `市政連續性服務` index merely because it exists.
+2. The next meaningful investigation beat needs an actual question produced by established evidence. Best-value directions are:
+   - a direct, independently justified relation between the preservation concept and one already-established evidence layer; or
+   - a new independent fact showing H-2162-U01 has cross-time continuity / activity that cannot be reduced to another camera or another carrier catalogue.
+3. If no such evidence exists naturally, write a bounded human/institutional consequence or stop; do not manufacture a breadcrumb.
+4. Keep `市政連續性服務` separate from `MUNI-LEGACY/INGEST`, B-17, Part II discontinuity, 327 years, 8-prefix and ARK until direct evidence links them.
+5. T-04C person binding, anonymous transit/payment/address, family originals, left-brow reuse and physical-carrier subtype expansion remain held.
+6. Do not reveal ARK / reconstruction / clone / time-travel / civilization-cycle explanations.
+7. Keep Lin Che as an affected person, not a query designer. His agency remains consent, refusal, boundaries, interpretation and personally costly choices.
 
-保持限制：林澈是人物關聯覆核的受影響當事人，不是查詢設計者；沒有完整案件影像副本、封存媒介操作權、來源鏈／政策調查權或跨機關擴查主導權。
+Next audit target: after roughly 4 new writing slices, unless a structural problem requires an earlier audit.
