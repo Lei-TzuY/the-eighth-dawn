@@ -3,12 +3,12 @@
 ## Current drafting state
 
 - Status: active drafting.
-- Latest completed正文：`chapters/037.md`〈它進來時已經存在〉。
-- Completed writing slices since last audit: 1（Slice 037）。
+- Latest completed正文：`chapters/038.md`〈先不要凍結全部〉。
+- Completed writing slices since last audit: 2（Slice 037–038）。
 - Audit cadence: 約每 4 個 writing slices 優先安排 continuity / plot / prose audit。
 - Last audit: Slice 036 後／Slice 037 前完成第九次 continuity / plot / prose audit。
-- Next audit target: 再完成約 3 個正常 writing slices 後優先 Audit 010。
-- Architecture status: **Architecture Checkpoint 002 已完成**。Part I〈錯誤年代〉正式結束於 Chapter 029；Part II〈被修補的歷史〉自 Chapter 030 起開始。Part II 前段 ordinary false-resolution 已被公平強化：2164 整併＋正常授權＋個體級設備衍生服務可形成普通後期製作能力鏈；Chapter 034 排除 2181 已知訓練專案存在額外模型呼叫的便利猜測；Chapter 035 證明普通四類素材交集確實存在；Chapter 036 確認 2182 正常回放專案保存與 2187 清理事件一致的精確政策簽章索引；Chapter 037 再確認同一索引最晚於 2164 整併時已對應一份可執行、簽章有效的過渡相容政策封套。ordinary false-resolution 因此更強，但問題被推向「2164 繼承基準的首次來源」與「2164 → 2187 本地快取遷移鏈」。
+- Next audit target: 再完成約 2 個正常 writing slices 後優先 Audit 010。
+- Architecture status: **Architecture Checkpoint 002 已完成**。Part I〈錯誤年代〉正式結束於 Chapter 029；Part II〈被修補的歷史〉自 Chapter 030 起開始。Part II 前段 ordinary false-resolution 已被公平強化：2164 整併＋正常授權＋個體級設備衍生服務可形成普通後期製作能力鏈；Chapter 034 排除 2181 已知訓練專案存在額外模型呼叫的便利猜測；Chapter 035 證明普通四類素材交集確實存在；Chapter 036 確認 2182 正常回放專案保存與 2187 清理事件一致的精確政策簽章索引；Chapter 037 再確認同一索引最晚於 2164 整併時已對應一份可執行、簽章有效的過渡相容政策封套；Chapter 038 則找到 2158 年水務備援系統的獨立正常使用見證，證明該索引在 2164 整併以前已被當成「既有市政相容性基準」使用，且該 2158 原件不是 2164 後回填。ordinary false-resolution 仍成立，但「2164 是這條政策歷史的起點」已被排除；真正問題進一步縮成 2158 以前的首次來源，以及 2187 本地快取如何取得同一可執行內容。
 
 ## Audit history
 
@@ -127,17 +127,18 @@
 - **035〈正常的交集〉**：找到 2182 正常市政回放專案，實際交會中央轉運環歷史幾何、2162 市政媒體、一般 legacy-ingest 背景與 `CIM-4R` 家族級成像模擬；沒有案件特定個體模型。約1942字。
 - **036〈只有引用，沒有本體〉**：2182 正常回放專案的 legacy-ingest 驗收夾具保存與 2187 清理事件完全一致的政策簽章索引；只有引用、沒有政策本體。約1856字。
 - **037〈它進來時已經存在〉**：Audit 009 後進入第七天；市政舊系統相容性基準服務確認，同一精確簽章索引在 2164 整併匯入時已對應一份具執行能力、內容校驗／沙箱／簽章鏈驗證通過的 `MUNI-LEGACY/INGEST` 過渡相容政策封套。封套以「繼承基準」登錄，原始制定單位／首次發行時間未隨匯入見證保存；完整本體於 2183 依正常退役保存規則銷毀。沒有建立 2164 → 2187 本地快取直接遷移鏈。約1909字。
+- **038〈先不要凍結全部〉**：第七天返局後，現役舊系統維運中心提出類別級來源追溯將影響 437 個現役相容節點；林澈支持只查指定簽章索引的最早現存使用見證。命中 2158 年南區水務備援資料庫：同一正規化簽章索引當時已被標為「既有市政相容性基準」，水務年度封存清冊與摘要雜湊證明該見證不是 2164 後回填。2158 仍非首次建立點。約1873字。
 
 ## Next-slice handoff
 
-下一輪先重新讀 live repo、七份固定設定／進度檔、`ARCHITECTURE.md` 與最近 2–3 個正文。若無外部變更，目前距 Audit 009 累積 1 個 writing slice，可正常續寫 Part II。
+下一輪先重新讀 live repo、七份固定設定／進度檔、`ARCHITECTURE.md` 與最近 2–3 個正文。若無外部變更，目前距 Audit 009 累積 2 個 writing slices，可正常續寫 Part II。
 
 Part II 下一階段優先：
-- ordinary false-resolution 仍然成立，而且已經從「理論上可組裝」推進到：普通素材交集真實存在、案件精確政策索引有正常 2182 引用、同一索引最晚 2164 確實對應過歷史可執行政策本體。
-- Chapter 037 沒有證明 2187 事件封套直接來自 2164 基準服務；更沒有證明 2164 封套的原始作者／首次發行。下一個高價值問題應沿「繼承基準」往 2164 以前追一層，而不是再增加更多後期正常專案。
-- 若繼續追政策歷史，優先找 **2164 匯入時的前身命名空間／仍在役使用端／匯入批次來源**；一次只選一個，並保持「缺欄位 ≠ 刻意刪史」。
-- 若要開始真正打破 false-resolution，必須由一個獨立來源精確否定普通遷移的必要前提；單純「原始作者欄未保存」仍不足以構成歷史系統 discontinuity。
-- 節奏上 Chapter 036–037 仍偏政策／歷史來源；下一 slice 宜安排更具體的人際、現地或制度成本，不要再做第三章純目錄查詢。
+- Chapter 038 已排除「2164 整併是精確政策基準首次存在點」；同一簽章索引在 2158 獨立水務保存鏈中已被當成既存基準使用，且不是後來回填。
+- 這仍不足以宣布歷史系統 discontinuity：2158 水務端保存的是使用見證／驗證摘要，不是完整政策本體；原始發行單位與首次發行時間仍未建立。
+- 若繼續追政策歷史，優先沿 **2158 直接來源欄是否存在獨立見證** 再前進一層；不要做類別級全域 lineage freeze，也不要展開 437 個現役節點。
+- ordinary false-resolution 仍可成立為「一條很長、保存不完整但正常的舊系統遷移鏈」；真正打破它必須找到一個獨立來源，使某個必要遷移前提在時間／來源／內容上無法同時成立。
+- Chapter 038 已提供制度成本與人物選擇；下一 slice 可以恢復較聚焦的歷史來源驗證，但仍避免連續多章純目錄摘要。
 - 保持 Chapter 026 的程序後果：林澈不自行查人員、不擴張無證據保全，也沒有自由跨機關搜尋權。
 - 不要提前回收影像男子身份、左眉、64-bit／8 前綴或 ARK。
 
