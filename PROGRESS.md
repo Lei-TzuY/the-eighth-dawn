@@ -4,26 +4,43 @@
 
 - Status: active drafting.
 - Latest completed正文：`chapters/060.md`〈那裡有東西〉。
-- Completed writing slices since last audit: 4（Slice 057–060）。
+- Completed writing slices since last audit: **0**。
 - Audit cadence: 約每 4 個 writing slices 優先安排 continuity / plot / prose audit。
-- Last audit: Slice 056 後／Slice 057 前完成第十四次 continuity / plot / prose audit。
-- Next audit target: **下一輪優先 Audit 015**；先 audit，再決定是否同輪續寫下一個 bounded slice。
-- Architecture status: Architecture Checkpoint 003 已完成。Part I〈錯誤年代〉完成於 Chapter 029；Part II〈被修補的歷史〉完成於 Chapter 044；Part III〈沒有前史的人〉自 Chapter 045 起進行中。Audit 014 判定 Part III 已進入「來源／人物機制測試」的中段，但尚未達 Part III endpoint，暫不開 Architecture Checkpoint 004。
-- Part III current state:
-  - Chapter 046–048 分別建立 B-CURRENT 當代模板來源完整性與 A-2162-01／02 歷史媒體人物區域來源完整性；兩側均不能單獨證明同一身份。
-  - Chapter 049 建立案件內部暫定人物節點 `H-2162-U01`。
-  - Chapter 050–053 只用非生物特徵資料，把人物情境縮窄到 `V-17-4` 影像驗證／媒介來源鏈交接、`來源鏈獨立見證／二級` 與 `T-04C` 責任指派世代 `03`；T-04C 人物繫結因缺直接橋接而暫停。
-  - Chapter 054 以完全獨立的教育封存鏈支持 2162 年林澈仍為兒童年齡階段，而 `H-2162-U01` 同年既有市政媒體為成年年齡階段；正式建立：**普通單一人生之同一人物解釋不相容；人物關係與原因機制未建立。**
-  - Chapter 055 讓這個結果產生身份治理後果：B-CURRENT／林澈與 `H-2162-U01` 在程序上拆為兩個不可自動合併、不可跨節點回填的主體，關係維持「未定」。這不是「已證明兩個物理人物」。
-  - Chapter 056 以完全獨立的市政軌道安全封存找到第三份 2162 來源 `A-2162-03`：H-2162-U01 在一段因月台門異常停車而保存的公共安全錄影中達節點納入門檻。正式可說：**H-2162-U01 的獨立公共情境存在受支持，且不再只由工程／驗證作業來源支持。**
-  - Audit 014 確認 Chapter 053–056 的時間線與證據層級自洽；A-2162-03 沒有被偷換成住址／通勤／生活關係或真實物理人物證明；Chapter 054 的單一人生不相容與 Chapter 055 的主體分離仍維持不同層級；T-04C 人物繫結與匿名乘車序列擴張仍暫停。
-  - Chapter 057 公平測試三條來源是否重用同一二維人物素材、同一時間片段或可追共同影像祖先。結果：三來源人物區域各自與本來源的光線、遮擋、運動／壓縮殘差連續；未找到跨來源固定區塊、共享時間片段或可追二維裁切變換鏈。正式可說：**共同二維人物素材／同一時間片段重用支持低；跨來源獨立人物呈現受支持。**
-  - Chapter 058 公平測試 2162 年普通跨系統人物替代／穩定外觀重建能力。能力確實存在，可在公開發布、跨部門展示與非證據型訓練衍生物中，以穩定外觀代碼在不同來源中重新渲染同一替代外觀；但制度要求保留來源父物件、隱私轉換收據與替代外觀代碼識別。
-  - A-2162-01／02／03 目前用來建立 H-2162-U01 的人物區域均位於上述正常隱私衍生層之前：A-2162-01 取自受限原件、A-2162-02 取自原始巡檢碼流、A-2162-03 為營運安全事故原始證據流且來源端匿名標記為否。因此正式可說：**2162 穩定人物替代能力存在；普通制度內隱私替代解釋對三份指定原件支持下降。**
-  - Chapter 059 確認 2162 年普通公共安全模擬系統確實能在**沒有父影像的第一代媒體**中直接生成穩定合成人物，並跨場景維持同一外觀；因此「原件／第一代媒體」本身不能被偷換成實景或真人。
-  - 正常來源端模擬／回放會在第一個簽章封套與硬體側留下來源類別、注入通道與模擬時鐘等痕跡。A-2162-03 最窄來源硬體覆核顯示 `LIVE-SENSOR`、模擬／驗收注入通道關閉、測試／模擬時鐘未啟用，且狀態與事故影像第一個封套一同被季度營運稽核保存。因此正式可說：**A-2162-03 的普通制度內來源端回放／模擬注入支持下降。**
-  - Chapter 060 使用 A-2162-03 同一事故事件中、獨立於攝影機的門區占位封包與月台邊緣測距摘要。兩套非影像設備在人物影像所在位置／時間保存到成人尺度、可側移的現場物理占位，其軌跡與影像人物軌跡在同一月台空間基準下時空相容。因此正式可說：**A-2162-03 非影像現場物理占位受支持；純視覺投影／無對應物理占位模型支持低。**
-  - Chapter 060 仍不得推出 A-2162-03 已證明拍到 H-2162-U01 的真實身體或真人。物理載體／螢幕、機器人、實體人偶、穿戴式設備、物理替身、來源端外觀覆寫或其他「有物理占位但影像外觀未必屬於該占位」的模型仍未排除。下一個候選只到「影像外觀—物理占位綁定完整性」，尚未核准。
+- Last audit: **Audit 015 completed after Slice 060.**
+- Next normal audit target: after roughly 4 new writing slices, unless a structural problem requires an earlier audit.
+- Architecture status: Architecture Checkpoint 003 completed after Chapter 044. Part I〈錯誤年代〉completed Ch.001–029; Part II〈被修補的歷史〉completed Ch.030–044; Part III〈沒有前史的人〉active from Ch.045. An **interim architecture calibration after Ch.060** has updated `ARCHITECTURE.md`, `OUTLINE.md`, and `STYLE_GUIDE.md`; this is not Checkpoint 004.
+- Next macro stop: Architecture Checkpoint 004 around Chapter 063–065 **or after the next 8-run batch**, whichever comes first.
+
+## Part III current state after Chapter 060
+
+### Identity / subject separation
+
+- B-CURRENT／林澈的當代身份來源鏈可獨立重建；完整當代行政／醫療／家庭人生仍是正面證據，不得因 mystery 升級而自動當成偽造。
+- A-2162-01／02 已支持建立暫定歷史人物節點 `H-2162-U01`。
+- Chapter 054 的獨立教育封存鏈支持 2162 年林澈仍為**兒童年齡階段**；同年 H-2162-U01 在既有市政媒體中為成年年齡階段。
+- 正式結論只到：**普通單一人生之同一人物解釋不相容；人物關係與原因機制未建立。**
+- Chapter 055 起 B-CURRENT／林澈與 H-2162-U01 在程序上分成不可自動合併／回填的兩個主體，關係維持「未定」。這是證據治理，不是已證明兩個物理人物。
+
+### Work-context line
+
+- Chapter 050–053 把 H-2162-U01 的情境縮窄到 `V-17-4` 影像驗證／媒介來源鏈交接、`來源鏈獨立見證／二級` 與 `T-04C` 責任指派世代 `03`。
+- `T-04C` 六月／八月責任指派連續性受支持，但沒有 H-2162-U01 ↔ T-04C 的直接人物橋接。
+- T-04C 人物繫結擴張自 Chapter 053 暫停；不得因其他線索變強而自動重啟。
+
+### Independent public-context line
+
+- Chapter 056 的第三份來源 `A-2162-03` 來自市政軌道安全事故原始保存，保存理由與工程／驗證工作無關。
+- A-2162-03 的人物候選達 H-2162-U01 節點納入門檻，正式可說：**H-2162-U01 的獨立公共情境存在受支持。**
+- 匿名乘車序列、支付身份、住址、生活圈擴張仍暫停。
+
+### Ordinary source / synthesis mechanisms tested
+
+- Chapter 057：三來源人物區域未找到共同像素祖先、共享時間片段或可追二維裁切變換鏈；共同二維人物素材／同一片段重用支持低。這不等於三次真實物理拍攝。
+- Chapter 058：2162 年普通制度具有穩定人物替代／跨場景外觀重建能力；但 A-2162-01／02／03 用來建立人物節點的區域都位於正常隱私衍生層之前，因此 ordinary privacy-substitution 對指定來源支持下降。
+- Chapter 059：2162 年普通來源端模擬／回放可以直接生成沒有父影像的第一代媒體與穩定合成人物；但 A-2162-03 留下 `LIVE-SENSOR`、模擬／驗收注入關閉、模擬時鐘未啟用等來源級狀態，因此普通制度內來源端回放／模擬注入支持下降。
+- Chapter 060：A-2162-03 同一事故事件中的門區占位與月台邊緣測距兩套非影像設備，在人物影像所在位置／時間保存成人尺度、可側移的物理占位軌跡，與影像人物軌跡時空相容。
+- Chapter 060 正式只支持：**非影像現場物理占位存在；純視覺投影／完全無物理載體模型支持低。**
+- 仍未建立：占位是自然人／人體、影像中的臉真實長在占位主體上、該物理主體就是 H-2162-U01 的真實身體。
 
 ## Audit history
 
@@ -52,7 +69,7 @@
 - Chapter 030–032 只證明普通後期製作能力／授權存在；沒有找到實際製作者。
 
 ### Audit 009 — after Slice 036
-- 能力、素材入口、案件特定政策索引三層分離；ordinary false-resolution 已公平建立。
+- 能力、素材入口、案件特定政策索引分離；ordinary false-resolution 已公平建立。
 
 ### Audit 010 — after Slice 040
 - 2158 水務側被強化但未自動判 2160 側錯；失效的是單一普通政策歷史連續性解釋。
@@ -63,23 +80,46 @@
 ### Audit 012 — after Slice 048
 - 第八天身份流程時間線自洽；A/B 兩端來源完整性均建立，但仍不證明同一身份。
 - 家庭原件、左眉、Part II discontinuity、T-04C、327 年未偷渡進身份分數。
-- Chapter 046–048 技術密度過高，Slice 049 轉為母子關係與自我認知後果。
+- Chapter 046–048 技術密度過高；Slice 049 轉為母子關係與自我認知後果。
 
 ### Audit 013 — after Slice 052 / before Slice 053
-- Chapter 049–052 時間線自洽。
-- `H-2162-U01` 人物節點、工作情境、角色資格、T-04C 責任憑證維持分層；沒有因「職業鏡像」替身份結論加權。
+- H-2162-U01 人物節點、工作情境、角色資格、T-04C 責任憑證維持分層。
 - 林澈只有範圍偏好，沒有查詢設計權；家庭原件、血緣、左眉與 Part II discontinuity 未被加入。
-- Chapter 050–052 程序密度過高；Slice 053 改以現行資格考核場景承擔程序主題，並讓 T-04C 非人事責任鏈到達可停止的證據上限。
-- 同步修正 `CHARACTERS.md` 文件漂移；無需重寫穩定正文。
+- T-04C 非人事責任鏈到達可驗上限；無需重寫穩定正文。
 
 ### Audit 014 — after Slice 056 / before Slice 057
-- Chapter 053–056 時間線自洽：第九天 15:02–16:48 → 第十天 10:06–19:03 → 第十一天 08:48–11:20。
-- T-04C 責任指派、Chapter 054 教育兒童期、Chapter 055 主體治理、Chapter 056 A-2162-03 公共情境維持不同證據層。
-- Chapter 054 只排除「普通單一人生同一人物」；Chapter 055 只做身份治理；Chapter 056 只建立第三條獨立公共來源。三者均不得合成「已證明兩個真實物理人物」。
-- A-2162-03 未被擴成住址、通勤、支付身份或生活關係；匿名乘車序列仍暫緩。
-- ordinary source reuse／合成模型仍活著，但「只在同一工程素材包重複出現」已明顯變弱；下一步應測來源／人物生成機制，而不是再找第四支監視器。
-- 節奏上 Chapter 054 為模型轉折、055 為制度後果、056 為具身公共場景，沒有需要回頭改寫的程序密度 blocker。
-- Part III 已進入中段機制測試，但尚未達 endpoint：人物關係與可解釋完整當代人生＋歷史人物並存的機制仍未建立；暫不進 Architecture Checkpoint 004。
+- Chapter 053–056 時間線與證據層級自洽。
+- Chapter 054 只排除普通單一人生；Chapter 055 只做身份治理；Chapter 056 只建立第三條獨立公共來源。
+- ordinary source reuse／合成模型仍活著；下一步應測來源／人物生成機制，而不是找第四支監視器。
+
+### Audit 015 — after Slice 060
+
+**Result: PASS; no stable chapter requires rewrite before continuing.**
+
+Continuity / logic:
+- Chapter 057–060 沒有把「能力存在」偷換成「指定來源使用」。
+- Chapter 059 的 `LIVE-SENSOR` 保持為來源狀態，不等於自然人／真人。
+- Chapter 060 的非影像占位保持為物理占位，不等於人體；影像外觀與占位軌跡相容仍不等於外觀必然屬於占位主體。
+- Chapter 054 的同年兒童／成人不相容仍只排除普通單一線性人生模型。
+- Part II discontinuity 沒有被拿來替身份證據加權。
+- T-04C 人物繫結、匿名乘車序列、家庭資料擴張仍保持暫停。
+
+Pacing / prose:
+- Chapter 057–060 的邏輯品質高，但已形成連續「ordinary mechanism → technical verification → narrower model」節奏；若立即再用相同骨架續寫，會開始傷害可讀性。
+- Chapter 056 與 060 的月台／現地元素有效，但技術結果仍佔主要戲劇位置。
+- 下一個正文 slice 必須優先承擔**人物／關係／城市日常後果**；不要立刻把「影像外觀—物理占位綁定」寫成另一個完整機構查核章。
+- `STYLE_GUIDE.md` 已補 anti-procedural guardrails：避免連續「時間戳＋通知＋新機構＋報告」、避免重複「不是 A 只能證明 B」句型、技術結果後優先以人物反應承接。
+
+Architecture:
+- Part III 尚未達 endpoint，**不開 Architecture Checkpoint 004**。
+- 下一批可以公平測試一個 bounded「有物理載體但外觀不屬於載體」model family，但不逐項測 screen / robot / mannequin / wearable / stand-in。
+- 若下一個 ordinary mechanism 仍只是「能力存在但指定來源缺正常痕跡」，應壓縮；真正值得的大轉折應改變問題類型。
+- 第一個 legacy/system breadcrumb 只能在現有證據自然提供查詢正當性時出現；不得硬塞 `ARK`、clone、reconstruction、time travel 或 civilization-cycle 解釋。
+
+Revision decision:
+- **目前不回頭全面重寫 Chapter 001–060。** 沒有發現需要 retroactive repair 的 hard contradiction。
+- Chapter 046–060 的程序密度是 prose/pacing debt，不是 canon/logic corruption。先靠後續節奏校正，等 Part III checkpoint 或整部完成後再做 dedicated prose-compression pass。
+- 未來若進行回修，優先是「壓縮重複程序解說、增加具身細節與角色聲音差異」，而不是改動已穩定證據結論。
 
 ## Architecture audit history
 
@@ -87,50 +127,41 @@
 - 建立五部長篇架構：Part I〈錯誤年代〉、Part II〈被修補的歷史〉、Part III〈沒有前史的人〉、Part IV〈第七座墓〉、Part V〈第八次黎明〉。
 
 ### Architecture Checkpoint 002 — after Chapter 029
-- Part I 完成；Part II 自 Chapter 030 開始。
+- Part I completed; Part II opened.
 
 ### Architecture Checkpoint 003 — after Chapter 044
-- Part II 完成；Part III 自 Chapter 045 開始。
-- 已確認歷史 discontinuity 不得替林澈身份結論加權；身份問題必須在新的同意／利益衝突邊界下獨立處理。
+- Part II completed; Part III opened.
+- 已確認歷史 discontinuity 不得替林澈身份結論加權；身份問題在新的 consent / conflict-of-interest 邊界下獨立處理。
 
-## Slice log
+### Interim architecture calibration — after Chapter 060
+- 更新 `ARCHITECTURE.md` / `OUTLINE.md` / `STYLE_GUIDE.md`。
+- Part III 留在中段，不進 Part IV。
+- 下一個 full checkpoint 定在約 Ch.063–065 或下一批 8 runs 後。
 
-- **001–008**：327 年影像、城市／工程時間衝突與完整性稽核；林澈由違規保存者轉成技術陳述人。
-- **009–016**：當代身份 97.6%、十一歲後天眉傷、歷史命名索引 0 候選、清理政策家族與 `MUNI-LEGACY/INGEST` 分層。
-- **017–024**：42M 封板、2162 未命名人物群集、`V-17-4`、B-17 設備家族、後期重建、盲式文字與 `T-04C` 背景成立。
-- **025–029**：327 年共同絕對紀元基準修正、行政警示、`CIM-4R-7714` 外部校正見證與跨檔案關聯覆核。Part I 完成。
-- **030–038**：公平建立普通後期製作／合法資料整併 false-resolution；精確政策簽章索引前史追到 2158。
-- **039–044**：2158／2160 已確認歷史時間不一致、ordinary repair 測試與 `R-12` 2187 乾淨重註冊。Part II 完成。
-- **045〈把我移出去〉**：歷史與人物支線分案；林澈改列受影響當事人。
-- **046〈先查我這邊〉**：兩份 2162 影像各自跨進一步身份覆核門檻。
-- **047〈這張臉不是借來的〉**：B-CURRENT 來源鏈可獨立重建。
-- **048〈不是後來換上的〉**：兩份 2162 人物面部資訊在各自最早可驗保存狀態即已存在。
-- **049〈不是只有我記得〉**：建立 `H-2162-U01`；林澈告知母親但不索取新證據。
-- **050〈不是名字，是位置〉**：H-2162-U01 兩次位於 `V-17-4` 作業邊界；建立重複作業情境關聯。
-- **051〈他也在看影像〉**：兩工作包均屬影像驗證／媒介來源鏈交接，`T-04C` 掛於驗證責任角色。
-- **052〈不能自己替自己作證〉**：兩工作包均要求 `來源鏈獨立見證／二級`、`交接前最終驗證`；H-2162-U01 為見證角色仍未建立。
-- **053〈同一個指派〉**：Audit 013 後確認 `T-04C` 兩次均屬責任指派世代 `03`；人物繫結暫停。約 2037 個繁體中文字。
-- **054〈同一年〉**：教育封存鏈獨立支持 2162 兒童林澈；同年 `H-2162-U01` 為成年年齡階段；普通單一人生同一人物解釋不相容。約 2450 個繁體中文字。
-- **055〈兩個欄位〉**：將 B-CURRENT／林澈與 `H-2162-U01` 在程序上分為兩個不可自動合併／回填的主體，關係維持未定；林澈選擇暫停再查自己與家人，優先只查歷史人物自己的獨立生活／公共情境。約 2116 個繁體中文字。
-- **056〈他也在等車〉**：市政軌道安全事故封存提供第三份獨立 2162 來源 `A-2162-03`；人物達 `H-2162-U01` 節點納入門檻，建立不依賴工程工作鏈的公共情境存在。匿名乘車序列擴張由林澈暫緩。約 2300 個繁體中文字。
-- **057〈三個不同的光〉**：Audit 014 後公平測試 A-2162-01／02／03 是否重用同一二維人物素材／時間片段；未找到共享像素祖先或可追二維裁切變換鏈，三來源人物區域均與各自場景之光線、遮擋、運動／壓縮殘差連續。簡單共同二維素材重用支持降至低，但獨立重渲染共同人物模型、人物替代／隱私合成與完整場景合成仍未排除。約 2300 個繁體中文字。
-- **058〈原件不替你換臉〉**：確認 2162 年普通制度中已存在穩定人物替代／跨系統外觀重建能力，但正常用途屬公開／展示／非證據型衍生物，必須保留來源父摘要、轉換收據與替代外觀代碼；A-2162-01／02／03 的既有人物區域均位於該衍生層之前，故普通制度內隱私替代解釋支持下降。約 2600 個繁體中文字。
-- **059〈原件也可能是假的〉**：確認 2162 年普通安全模擬／回放系統能直接生成沒有父影像的第一代媒體與穩定合成人物；正常來源端生成須留下來源類別、注入通道與模擬時鐘等來源級痕跡。A-2162-03 的來源硬體摘要為 `LIVE-SENSOR`、模擬／驗收注入關閉、測試／模擬時鐘未啟用，因此普通制度內來源端回放／模擬注入支持下降；真實物理人物仍未建立，A-2162-01／02 未同步升級。約 2070 個繁體中文字。
-- **060〈那裡有東西〉**：A-2162-03 同一事故封包中的獨立門區占位與月台邊緣測距資料，在影像人物所在位置／時間保存到成人尺度、可側移的物理占位軌跡；影像人物軌跡與非影像占位時空相容。純視覺投影／無物理占位模型支持下降，但影像外觀是否屬於該物理占位、是否真人與是否 H-2162-U01 真實身體仍未建立。約 1890 個繁體中文字。
+## Slice log — compressed
+
+- **001–008**：327 年影像、城市／工程時間衝突、原媒介清除與完整性稽核。
+- **009–016**：當代身份高近似、後天眉傷、歷史命名身份 0 候選、清理政策家族分層。
+- **017–024**：42M、2162 未命名人物、`V-17-4`、B-17、後期重建可行性、盲式文字、`T-04C`。
+- **025–029**：327 年共同紀元基準修正、行政警示、`CIM-4R-7714` 外部校正見證；Part I complete.
+- **030–038**：ordinary later-fabrication / municipal consolidation false-resolution built fairly.
+- **039–044**：2158／2160 historical inconsistency confirmed; ordinary repairs tested; `R-12` clean re-registration; Part II complete.
+- **045–049**：identity branch separated; H-2162-U01 established; mother relationship scene.
+- **050–054**：work-context / T-04C continuity bounded; independent education chain establishes 2162 child Lin Che vs adult historical person incompatibility.
+- **055–056**：subjects separated; independent rail-safety public context adds A-2162-03.
+- **057–060**：simple 2D reuse weak; privacy substitution and first-generation simulation abilities fairly tested; A-2162-03 normal simulation path weakened; camera-independent physical occupancy established.
 
 ## Next-slice handoff
 
-下一輪仍先重新讀 live repo、七份固定檔與最近 2–3 個正文。若無外部變更，目前距 Audit 014 累積 **4 個 writing slices（057–060）**；下一輪優先 **Audit 015**，並評估 Part III 是否已接近下一個結構轉折。
+下一輪先重新讀 live repo、固定 bible / continuity / architecture / outline / style / progress 與最近 2–3 個正文。Audit 015 已完成，**不要再重做同一個 audit。**
 
-Part III 目前優先：
-- Chapter 054 已排除「普通單一人生同一人物」；Chapter 055 只做身份治理，不是兩個物理人物結論。
-- Chapter 056 已建立第三條獨立 2162 公共來源；不得擴成住址／通勤／生活圈。
-- Chapter 057 已把「同一張人像／同一段人物素材被貼進三條來源」削弱到低支持；不得因此寫成三次真實物理拍攝。
-- Chapter 058 已公平證明：2162 普通制度確有可跨幀／有限跨系統重建穩定替代外觀的能力，但該能力正常運作於**衍生層**，而 A-2162-01／02／03 目前使用的人物區域都在必要隱私衍生層之前。
-- Chapter 059 已公平證明：來源端生成／場景回放本身可產生沒有父影像的第一代媒體，但正常流程會留下來源類別與硬體注入痕跡。A-2162-03 的正常來源端回放／模擬注入支持下降；這仍不等於真人已證明。
-- Chapter 060 進一步建立 A-2162-03 的**非影像物理占位事件**：影像人物所在位置／時間有成人尺度、可移動的獨立占位軌跡，故純視覺投影／完全無物理載體模型支持下降。但「畫面中的那張臉」與「被非影像感測到的物理占位」是否屬同一實體主體仍未建立。
-- 下一輪 Audit 015 應優先檢查：057–060 是否已把普通來源模型壓縮到足以啟動下一個結構轉折；是否要繼續測 `影像外觀—物理占位綁定`，或改由新的獨立系統概念／識別碼進入 Part III 中後段。
-- T-04C 人物繫結、匿名乘車序列與家庭資料擴張仍暫停。
-- 保持林澈為受影響當事人，不讓他變成查詢設計者。
+Next priorities:
 
-保持限制：林澈一般外接媒介職務權限已恢復，但沒有完整案件影像副本、沒有封存媒介操作權、沒有來源鏈／政策調查權或跨機關擴查主導權。人物關聯覆核中，他是受影響當事人，不是查詢設計者。
+1. **先寫人，不先寫第五套 sensor。** Chapter 060 後第一個正文 slice 應讓「2162 那裡真的有某個成人尺度物理占位」改變林澈的情緒、關係、日常或選擇。
+2. 之後最多選一個 bounded ordinary model family 測試「有實體載體，但影像外觀未必屬於載體」；不要每種 carrier 各寫一章。
+3. 若 ordinary mechanism 再次只得到同型態的制度缺痕結果，壓縮處理，改找能改變問題類型的證據。
+4. 第一個 legacy breadcrumb 只有在證據自然導出時才允許登場；初次含義須局部／操作性，不揭露 ARK 真相。
+5. T-04C 人物繫結、匿名乘車序列、家庭資料、左眉、327 年、64-bit/8-prefix 均維持現有 gate，除非新的獨立證據改變可問問題。
+6. 下一批以 **8 runs** 為 bounded batch；結束後或到 Chapter 063–065 時停止，進 Architecture Checkpoint 004。
+
+保持限制：林澈是人物關聯覆核的受影響當事人，不是查詢設計者；沒有完整案件影像副本、封存媒介操作權、來源鏈／政策調查權或跨機關擴查主導權。
