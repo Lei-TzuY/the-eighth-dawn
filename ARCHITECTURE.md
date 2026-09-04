@@ -1,6 +1,6 @@
 # ARCHITECTURE — Full-novel macro plan
 
-> Status: architecture audit 001 after Chapter 026. This file controls macro pacing; `CONTINUITY.md` controls established facts. If they conflict, established continuity wins unless explicitly revised.
+> Status: Architecture Checkpoint 002 completed after Chapter 029. Part I〈錯誤年代〉is complete; Part II〈被修補的歷史〉is active from Chapter 030. This file controls macro pacing; `CONTINUITY.md` controls established facts. If they conflict, established continuity wins unless explicitly revised.
 
 ## Target shape
 
@@ -22,42 +22,58 @@ A reveal should normally do three things:
 2. preserve epistemic discipline — do not jump beyond the evidence;
 3. create a smaller but more dangerous question.
 
-## Part I — 錯誤年代 (Chapter 001 → roughly 030–034)
+## Part I — 錯誤年代 (Chapter 001–029) — completed
 
 ### Function
 
 Turn one impossible file into an anomaly that survives ordinary forensic explanations and can no longer be contained as “one bad artifact.”
 
-### Already achieved through Chapter 026
+### Achieved
 
-- The 327-year timestamp has been demoted from “three independent dates” to three structure-separated readings sharing one absolute epoch baseline.
+- The 327-year timestamp was demoted from “three independent dates” to three structure-separated readings sharing one absolute epoch baseline.
 - The image can plausibly involve reconstructed geometry plus a real physical capture chain; neither proves fraud nor physical scene reality.
 - The Lin Che likeness survives independent face matching, while the post-acquired brow feature remains an unresolved high-value anomaly.
 - “你看過了。” has stronger blind-review support without yet becoming a fully proven sentence.
 - B-17 / `MUNI-LEGACY/INGEST` / `V-17-4` / `T-04C` form a historically plausible chain without providing a person’s identity.
 - Lin Che has paid a real procedural cost and learned that valuable evidence does not retroactively authorize misconduct.
+- Chapter 028 supplied an external, independently preserved 2162 calibration witness for `CIM-4R-7714` whose defect coordinates are highly compatible with the case capture-chain residuals, without proving direct capture, date, or identity.
+- Chapter 029 formally established cross-file correlation review and suspended the single-object anomaly closure condition.
 
-### Remaining Part-I job
+### Part-I endpoint — achieved at Chapter 029
 
-Do not spend another twenty chapters merely refining the same forensic variables. Over the next several chapters, force one external corroboration or consequence that is not dependent on the original sealed medium’s own metadata/capture chain.
+The reader and Lin Che can now fairly say:
 
-Acceptable forms include, depending on live continuity:
-- an independently sourced physical/archival artifact that shares one highly specific feature;
-- a second institution or district finding a related anomaly through its own chain;
-- an ordinary investigation into `T-04C`, the policy cache, or B-17 yielding a fact that cannot be explained solely by corruption of the original file;
-- an institutional response that demonstrates someone/system recognizes the anomaly class even if nobody explains it.
+> The original file may still be wrong about its absolute date, and a later fabrication may still be possible, but the case is no longer explainable as one isolated corrupted or fabricated object. Any complete explanation must also account for an independently preserved 2162 calibration chain.
 
-### Part-I endpoint
+This does **not** reveal ARK or the seven reconstructions.
 
-The reader and Lin Che should both be able to say: “The original file may still be wrong about its absolute date, but the case is no longer explainable as one isolated corrupted or fabricated object.”
+## Architecture Checkpoint 002 — after Chapter 029
 
-Do **not** reveal ARK or the seven reconstructions here.
+Checkpoint conclusion:
 
-## Part II — 被修補的歷史 (roughly Chapter 031–055)
+- Part I endpoint is satisfied without overclaiming 327 years, direct-camera identity, or the image man’s identity.
+- Part I formally closes at Chapter 029.
+- Part II begins at Chapter 030 rather than delaying transition merely to satisfy an approximate chapter-count range.
+- The Part II opening should **not** immediately escalate to a new impossible artifact. Instead it should build a mundane false-resolution strong enough that Lin Che and the reader can genuinely accept it.
+- The chosen false-resolution model is the public **2164 Municipal Legacy Baseline Consolidation**: a broad municipal indexing project that may have made city geometry, old equipment metadata, legacy-ingest context and historical-media catalog entries discoverable through common later access paths.
+- This model can make a sophisticated later fabrication substantially more ordinary without erasing the independent 2162 calibration witness chain.
+- The model remains a hypothesis, not canon truth. It must be tested fairly before an independent fact breaks one necessary premise.
+
+## Part II — 被修補的歷史 (Chapter 030 → roughly 055) — active
 
 ### Function
 
 Expand the mystery from one case to the historical infrastructure of the city. The question changes from “what is this file?” to “why does normal history repeatedly contain compatible seams?”
+
+### Opening false-resolution arc
+
+For the first several Part II chapters:
+
+- Treat “post-2164 fabrication using consolidated municipal historical data” as the strongest ordinary hypothesis.
+- Let it explain as much as it honestly can: access to historical geometry, equipment catalog pointers, legacy-ingest background and early municipal media series.
+- Preserve the independent nature of the 2162 original calibration witness card: Chapter 030 establishes that the original card did **not** migrate into the 2164 municipal baseline repository; only secondary equipment index / calibration-status information did.
+- Do not immediately break the mundane hypothesis. First determine whether ordinary later access, secondary copies, catalog permissions or equipment records could truly supply the necessary ingredients.
+- When the false resolution eventually fails, one independent fact should break a specific required premise rather than the narrator simply declaring the explanation inadequate.
 
 ### Escalation
 
@@ -65,7 +81,8 @@ Expand the mystery from one case to the historical infrastructure of the city. T
 - Introduce at most one or two new recurring characters at a time; they need independent goals, not just exposition roles.
 - Make institutional resistance heterogeneous: some people protect procedure, some careers, some public stability, some genuinely believe the ordinary explanation.
 - Let Lin Che’s credibility, employment and relationships matter. Mystery progress must have a cost.
-- Use one false-resolution arc: construct a mundane explanation strong enough that both Lin Che and the reader can almost accept it, then break it with one independently sourced fact.
+- Use the current false-resolution arc before escalating toward a historical-system discontinuity.
+- Avoid returning to endless micro-forensic analysis of the original sealed medium.
 
 ### Major reveal target
 
@@ -157,29 +174,28 @@ Resolve the central moral decision and the main identity/cycle mystery. The fina
 
 ## Reader-promise ledger
 
-These are not all equal-priority clues. Their payoff windows prevent infinite deferral.
-
-| Promise | Current status after Ch.026 | Preferred payoff window |
+| Promise | Current status after Ch.030 | Preferred payoff window |
 | --- | --- | --- |
-| 327-year absolute baseline | shared epoch; truth unresolved | Part II–IV, final causal answer by Part V |
-| Lin Che / image-man resemblance | independently high similarity | major reframing Part III; final answer Part V |
-| post-acquired left-brow feature | highly specific unresolved anomaly | Part III |
+| 327-year absolute baseline | shared epoch; truth unresolved; 2164 false-resolution can model deliberate later placement | Part II–IV, final causal answer by Part V |
+| Lin Che / image-man resemblance | independently high similarity; 2164 hypothesis may provide historical-face access but not acquired-brow explanation | major reframing Part III; final answer Part V |
+| post-acquired left-brow feature | highly specific unresolved anomaly; not explained by 2164 consolidation | Part III |
 | “你看過了。” | blind-review 4-position compatibility | Part II–III |
-| 2162 unnamed cluster / `T-04C` | historically plausible, identity absent | Part II–III |
-| missing precise policy revision / local cache | partly normalized, source unresolved | Part II–IV |
+| 2162 unnamed cluster / `T-04C` | historically plausible; secondary catalog access widened after 2164; identity absent | Part II–III |
+| `CIM-4R-7714` independent calibration witness | external 2162 original chain intact; later discovery/access may be ordinary via secondary indexes | Part II |
+| missing precise policy revision / local cache | partly normalized; 2164 adds ordinary legacy-ingest context, exact source unresolved | Part II–IV |
 | B-17 source-object gap | hardware family understood, parent source absent | Part II–IV |
 | 64-bit / 8 fixed prefixes | meaning unknown; not time-related | Part III–IV |
 | ARK | author-only truth; characters unaware | first earned trace Part III, explicit truth Part IV |
 | seven prior reconstructions | author-only truth | Part IV |
 
-## Turbo writing gate after Architecture Audit 001
+## Current writing gate after Checkpoint 002
 
-Turbo may resume after this file and `OUTLINE.md` are on `main`.
-
-For the next 4–8 chapters:
-- prioritize the Part-I endpoint over adding more micro-forensic dimensions;
+For the next several chapters:
+- prioritize the Part II false-resolution arc over adding more micro-forensic dimensions;
 - keep at least one embodied/interpersonal scene for every two procedure-heavy chapters;
-- aim for an independent corroboration/consequence outside the original medium;
+- test whether ordinary post-2164 access can genuinely supply the ingredients needed for a later fabrication;
+- do not break the mundane hypothesis until it has earned credibility;
+- when it breaks, use an independently sourced fact that invalidates a specific necessary premise;
 - do not reveal ARK;
 - do not resolve every clue at once;
-- perform Architecture Checkpoint 002 when Part I reaches its endpoint, even if that occurs before the normal four-slice audit cadence.
+- continue normal continuity / plot / prose audits approximately every four writing slices.
