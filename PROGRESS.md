@@ -3,12 +3,12 @@
 ## Current drafting state
 
 - Status: active drafting.
-- Latest completed正文：`chapters/028.md`〈另一張缺陷圖〉。
-- Completed writing slices since last audit: 4（Slice 025–028）。
+- Latest completed正文：`chapters/029.md`〈不是一個檔案〉。
+- Completed writing slices since last audit: 1（Slice 029）。
 - Audit cadence: 約每 4 個 writing slices 優先安排 continuity / plot / prose audit。
-- Last audit: Slice 025 前完成第六次 continuity / plot / prose audit。
-- Next audit target: 下一輪優先 Audit 007。
-- Architecture status: `ARCHITECTURE.md` / Architecture Audit 001 已在 Chapter 026 後加入；目前 Part I 目標是取得不依賴原封存媒介自身 metadata / capture chain 的外部獨立佐證，避免無限增加同一媒介的微型鑑識維度。
+- Last audit: Slice 028 後／Slice 029 前完成第七次 continuity / plot / prose audit。
+- Next audit target: 再完成約 3 個正常 writing slices 後優先 Audit 008；但下一輪先執行 Architecture Checkpoint 002。
+- Architecture status: Chapter 029 已正式建立「跨檔案關聯覆核」並使單一物件異常結案條件暫不適用；Part I endpoint 已在制度／調查範圍上達成。下一輪優先 Architecture Checkpoint 002，確認 Part II〈被修補的歷史〉進場方式後再續寫。
 
 ## Audit history
 
@@ -42,6 +42,15 @@
 - Chapter 023 只提升「你看過了。」到盲式逐位候選相容，未變成完整句確認。
 - `V-17-4 → T-04C` 仍停在席位／臨時憑證；2177 正常銷毀身份映射降低刻意刪名陰謀感。
 - 發現 Chapter 001「三組彼此獨立時間資訊」過強；採最小修復，由 Chapter 025 正式確認三讀值共享一個絕對紀元基準，不改寫 Chapter 001。
+- 不需重寫穩定正文。
+
+### Audit 007 — after Slice 028 / before Slice 029
+- Chapter 025–028 時間線自洽：第四天 10:42 的時間依賴覆核 → 13:46 行政覆核 → 16:28 B-17 控制器退役重掃 → 第五天 09:16 外部校正中心覆核。
+- 時間、行政、政策設備、外部校正保持四個不同證據層；沒有用其中一層替另一層背書。
+- `T-04C` 仍只是責任憑證；`CIM-4R-7714` 仍只是 2162 外部校正模組；兩者沒有被偷換成人員身份，也沒有把 2162 未命名人物群集直接綁成持有人。
+- Chapter 028 的高缺陷相容只支持「案件成像鏈含與該模組個體缺陷圖高度相容的物理／模擬特徵」，不得升格成同一台相機、直接拍攝或 2162 影像年代證明。
+- Chapter 028 已提供第一條真正不依賴原封存媒介自身 metadata / capture chain 的獨立前史；但為符合 Part I endpoint，Slice 029 應讓此外部佐證產生制度／調查範圍後果，而不是再新增微型鑑識變數。
+- 節奏上 Chapter 027–028 連續偏技術；Slice 029 改用案件協調／權限與責任變化，避免第三章再做實驗室結果摘要。
 - 不需重寫穩定正文。
 
 ## Architecture audit history
@@ -82,15 +91,16 @@
 - **026〈結果不能替程序簽名〉**：第一晚未授權保留正式判定違規；一次書面職務警示、不停職、不自動取消技術陳述資格；建立六個月雙人見證保全要求。約2055字。
 - **027〈只證明它認得〉**：B-17 具體主閘道控制器退役原件重掃，確認2184前啟用本地相容快取與 `MUNI-LEGACY/INGEST` 能力；23個快取項目內容正常抹除，無法證明案件精確修訂曾存在其中或2187快取由其遷移。約1868字。
 - **028〈另一張缺陷圖〉**：第五天跨機關到都市工程影像校正中心；2162 獨立保存的施工影像模組 `CIM-4R-7714` 校正見證卡與案件 379 幀反推出的固定缺陷結構高度相容。只支持案件成像鏈包含與該模組個體缺陷圖高度相容的物理／模擬特徵，不證明同一台模組直接拍攝、場景年代、人物身份或 327 年。約2081字。
+- **029〈不是一個檔案〉**：Chapter 028 的外部佐證觸發正式「跨檔案關聯覆核」；單一物件異常結案條件暫不適用，任何完整解釋都必須同時處理封存媒介與 2162 外部校正見證兩條保存鏈。後期偽造仍可成立，但必須額外解釋 `CIM-4R-7714` 個體缺陷基準的取得／重建路徑；327 年、直接拍攝設備與人物身份均未確認。約1801字。
 
 ## Next-slice handoff
 
-下一輪先重新讀 live repo、七份固定設定／進度檔、`ARCHITECTURE.md` 與最近 2–3 個正文。若無外部變更，距 Audit 006 已累積 4 個 writing slices，**優先執行 Audit 007**。
+下一輪先重新讀 live repo、七份固定設定／進度檔、`ARCHITECTURE.md` 與最近 2–3 個正文。若無外部變更，**優先執行 Architecture Checkpoint 002**：
 
-Audit 007 特別檢查：
-- Chapter 025–028 是否維持「時間／行政／政策設備／外部校正」四種不同證據層，沒有互相偷換。
-- Chapter 028 是否已足以達到 Part I endpoint，或仍需要一個外部 consequence / 第二項佐證後才做 Architecture Checkpoint 002。
-- `CIM-4R-7714` 的高缺陷相容不得升格成「同一台相機」；後期複製／人工模擬該缺陷結構仍未排除。
-- Chapter 028 的 2162 校正見證卡是獨立來源，只證明相容缺陷基準在 2162 已存在；不證明案件、影像內容或 327 年在 2162 即存在。
+- 確認 Chapter 028–029 是否已公平達成 Part I endpoint：案件雖仍可為後期偽造，但不能再只在「一枚孤立壞／假媒介」內完整結案，因為必須同時解釋 2162 獨立校正保存鏈。
+- 若 endpoint 成立，更新 `ARCHITECTURE.md`／`OUTLINE.md` 的 Part I 完成狀態與 Part II 立即目標，再進入 Part II〈被修補的歷史〉；不要在沒有 checkpoint 的情況下直接跳部。
+- Part II 第一批章節應把問題從「這個檔案是什麼」擴到「正常歷史系統為何反覆出現相容接縫」，優先離開單一媒介與單一機構。
+- 不要立即回收影像男子身份、左眉、64-bit／8 前綴或 ARK；Part II 先建立歷史系統本身的斷裂。
+- Chapter 029 已連續兩章處理跨機關證據／程序，下一個正式正文宜有現地、人物或第二機構的具體事件，而不是再做一次會議摘要。
 
-保持限制：林澈一般外接媒介職務權限已恢復，但沒有完整案件影像副本、沒有封存媒介操作權、沒有來源鏈／政策調查權。不要提前揭露 ARK、文明循環機制或影像男子真實身份。
+保持限制：林澈一般外接媒介職務權限已恢復，但沒有完整案件影像副本、沒有封存媒介操作權、沒有來源鏈／政策調查權或跨機關擴查主導權。不要提前揭露 ARK、文明循環機制或影像男子真實身份。
