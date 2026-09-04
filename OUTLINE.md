@@ -8,7 +8,7 @@
 
 - 327 年讀值被修正為三個結構分離、但共享同一絕對紀元基準的讀值；絕對年代仍未證真／證偽。
 - 城市幾何、成像鏈、B-17、`MUNI-LEGACY/INGEST`、`V-17-4`、`T-04C` 均得到普通技術背景，但不能完整解釋案件。
-- 林澈與影像男子高度相似、後天左眉特徵與 2162 未命名人物群集仍未獲普通解釋完整覆蓋。
+- 林澈與影像男子的高外觀相似、後天左眉特徵、2162 未命名人物群集仍未獲普通解釋完整覆蓋。
 - `CIM-4R-7714` 的獨立 2162 校正見證把異常推出單一媒介範圍。
 - Chapter 029 成立跨檔案關聯覆核。Part I endpoint：案件不能再只當成一枚孤立損毀／偽造媒介。
 
@@ -56,10 +56,11 @@
 
 ## Immediate direction — after Chapter 060
 
-### First action: Audit 015
+### Audit 015 — completed
 
-下一輪先做 Audit 015，不必為了 run 數量硬產正文。Audit 至少確認：
+Audit 015 已完成並記錄於 `PROGRESS.md`。結果 PASS，無需在下一個 run 重做；沒有發現需要回頭重寫穩定章節的 hard contradiction。
 
+已確認 guardrails：
 - Chapter 057–060 沒有把「能力存在」偷換成「指定來源使用」。
 - `LIVE-SENSOR` 沒有偷換成「真人」。
 - 非影像物理占位沒有偷換成「人體」或「那張臉一定屬於該占位」。
@@ -69,7 +70,7 @@
 
 ### Next 8-run batch — intended shape, not a quota
 
-下一批以 **Audit 015 + 約 3–5 個正文 slices + 必要文件同步** 為理想形狀。不要為了湊到 Chapter 068 而硬寫；品質與結構優先。
+下一批以 **約 3–5 個正文 slices + 必要 continuity / progress / character 文件同步** 為理想形狀。Audit 015 已完成，不要為了填 run 再做一次。不要為了湊到 Chapter 068 而硬寫；品質與結構優先。
 
 #### Beat A — human consequence first
 
@@ -129,7 +130,6 @@ Checkpoint 004 至少回答：
 ## Part III endpoint
 
 Part III 不能只以「H-2162-U01 好像是真人」結束。至少需要：
-
 - 林澈完整當代人生與 2162 歷史人物必須被同一個更大的問題同時解釋；
 - ordinary identity / source-generation explanations 已被公平測試到足以要求新的概念層；
 - 林澈至少一次在個人真相與證據／他人權利之間做出有代價的選擇；
