@@ -1,6 +1,6 @@
 # ARCHITECTURE — Full-novel macro plan
 
-> Status: Architecture Checkpoint 002 completed after Chapter 029. Part I〈錯誤年代〉is complete; Part II〈被修補的歷史〉is active from Chapter 030. Chapters 039–041 have now established and independently verified the novel’s first **confirmed cross-system historical time inconsistency**, while its cause remains unresolved. This file controls macro pacing; `CONTINUITY.md` controls established facts. If they conflict, established continuity wins unless explicitly revised.
+> Status: Architecture Checkpoint 003 completed after Chapter 044. Part I〈錯誤年代〉is complete through Chapter 029; Part II〈被修補的歷史〉is complete through Chapter 044; Part III〈沒有前史的人〉is active from Chapter 045. The first confirmed cross-system historical time inconsistency remains unresolved in cause, but it has survived ordinary-repair testing strongly enough to change institutional and operational action. This file controls macro pacing; `CONTINUITY.md` controls established facts. If they conflict, established continuity wins unless explicitly revised.
 
 ## Target shape
 
@@ -59,13 +59,13 @@ Checkpoint conclusion:
 - This model can make a sophisticated later fabrication substantially more ordinary without erasing the independent 2162 calibration witness chain.
 - The model remains a hypothesis, not canon truth. It must be tested fairly before an independent fact breaks one necessary premise.
 
-## Part II — 被修補的歷史 (Chapter 030 → roughly 055) — active
+## Part II — 被修補的歷史 (Chapter 030–044) — completed
 
 ### Function
 
 Expand the mystery from one case to the historical infrastructure of the city. The question changes from “what is this file?” to “why does normal history repeatedly contain compatible seams?”
 
-### Opening false-resolution arc — earned through Chapter 038
+### Opening false-resolution arc — Chapters 030–038
 
 - Treat “post-2164 fabrication using consolidated municipal historical data” as the strongest ordinary hypothesis.
 - Let it explain as much as it honestly can: access to historical geometry, equipment catalog pointers, legacy-ingest background and early municipal media series.
@@ -100,46 +100,77 @@ The case may therefore formally state:
 
 “Confirmed” refers to the existence of two independently supported historical claims that cannot directly be true under the ordinary timeline. It does **not** identify which side is wrong, whether either side was deliberately altered, who altered anything, or whether the cause is malicious, secret, ARK-related, temporal, or civilizational.
 
-The later-fabrication capability itself remains technically possible. What has failed is the narrower assumption that the policy’s historical presence can be fully explained by one ordinary, continuous but poorly documented migration lineage.
+The later-fabrication capability itself remains technically possible. What failed is the narrower assumption that the policy’s historical presence can be fully explained by one ordinary, continuous but poorly documented migration lineage.
 
-### Escalation after Chapter 041
+### Ordinary-repair testing and consequence — Chapters 042–044
 
-- Stop adding further hardware/archive micro-forensics merely to restate the same contradiction.
-- Let the confirmed discontinuity create institutional consequence: history-integrity review, cross-agency scope negotiation, changed closure criteria, reputational or operational risk, or a conflict over what must now be preserved.
-- Give any remaining mundane repair a **specific mechanism**. “Maybe data was reconstructed” is no longer sufficient. A candidate repair must explain both the 2158 sealed root and the 2160 `GENERATE_NEW` attestation without simply assuming one of them away.
-- A fair next candidate could be a documented disaster-recovery or trust-state restoration process that permits later trust material to be referenced from an earlier logical validation state without rewriting the original payload. If such a process exists, let it leave independent procedural evidence. If it fails, the failure must be specific and evidenced.
-- Move beyond a single room and a single technical domain. Institutional and human reactions now matter more than another device field.
-- Introduce at most one or two new recurring characters at a time; they need independent goals, not just exposition roles.
-- Make institutional resistance heterogeneous: some people protect procedure, some careers, some public stability, some genuinely believe an ordinary explanation remains possible.
-- Let Lin Che’s credibility, employment and relationships matter. Mystery progress must have a cost.
-- Keep the later-fabrication hypothesis analytically separate from the historical-continuity failure.
-- Do not yet return to the image man, acquired brow, 64-bit/8-prefix structure, 327-year baseline or ARK merely because one historical discontinuity is now confirmed.
+- Chapter 042 tested a documented “retroactive service-year attribution” repair. The mechanism exists, but the designated 2158 object lacks the required external catch-up / actual-receipt / settlement-reopening traces.
+- Chapter 043 tested disaster trust-continuity restoration. A later-generated anchor can legitimately represent an earlier service period, but the mapping must remain outside the original sealed payload through a continuity receipt or a new derived object. The designated 2158 original contains the later public-key fingerprint directly and currently has no required mapping / derived-object linkage.
+- These failures are evidence-bounded. They do **not** prove no other legitimate repair is possible or that either side was maliciously altered.
+- Chapter 042 formally opened limited historical-integrity review and stopped the case from closing as “single media source unknown.”
+- Chapter 043 marked the precise lineage “historical trust status: unresolved” while keeping current operation valid and refusing a blanket 437-node freeze.
+- Chapter 044 forced the first irreversible current-day operational choice: normal node `R-12`, already due for hardware replacement, could not inherit the disputed lineage with a continuity guarantee. Operations chose a clean 2187 registration under the current trust root. Service continued normally, but the new controller’s historical lineage begins at 2187. The old gateway receives only a 90-day limited state hold and is **not** promoted to a case node.
 
-### Major reveal target
+### Part-II endpoint — achieved at Chapter 044
 
-Part II now has its first independently verified historical-system discontinuity at the **existence** level. The next work is not to prove the same contradiction again, but to determine whether a legitimate recovery/migration mechanism can absorb it and to show what institutions must do once it cannot be treated as an unverified anomaly.
+Part II is complete because the historical discontinuity now satisfies all of the intended conditions:
 
-This reveal still does **not** establish deliberate historical rewriting, the true age of the sealed image, the identity of its subject, ARK, or civilization reconstruction.
+1. it exists independently of the original media artifact;
+2. both sides survived external / physical verification;
+3. concrete ordinary repairs were tested fairly and failed to supply the required traces for this object;
+4. institutions changed closure criteria and trust attestations because of it;
+5. a normal current operational decision was irreversibly changed because continuity could no longer be certified.
 
-### Part-II endpoint
+The conclusion is **not** “history was deliberately rewritten.” It is narrower and stronger:
 
-The case becomes a history problem, not merely a media-forensics problem. Reaching the endpoint requires more than a contradictory pair of records: at least one historical-system discontinuity must survive ordinary repair explanations strongly enough to change what institutions and characters must believe or do.
+> At least one piece of the city’s normal historical infrastructure cannot presently be reconciled by the ordinary continuity mechanisms that should explain it, and institutions must now act as if that unresolved discontinuity matters.
 
-Chapters 039–041 satisfy the first half: a discontinuity now survives basic independent verification on both sides. Part II remains active until its ordinary repair space is fairly tested and the discontinuity produces an irreversible institutional or character-level consequence.
+This still does **not** establish deliberate historical rewriting, the true age of the sealed image, the identity of its subject, ARK, or civilization reconstruction.
 
-## Part III — 沒有前史的人 (roughly Chapter 056–080)
+## Architecture Checkpoint 003 — after Chapter 044 / before Chapter 045
+
+Checkpoint conclusion:
+
+- Part II endpoint is satisfied without proving intent, mechanism, ARK, or the 327-year date.
+- Part II formally closes at Chapter 044.
+- Part III begins at Chapter 045 rather than extending the same lineage conflict for pacing quota reasons.
+- The history-integrity branch can now continue entirely on independent evidence. Lin Che is no longer a necessary technical declarant for that branch except when original-case technical context is specifically needed.
+- This separation is important: the confirmed historical discontinuity must **not** become a prior that inflates identity evidence.
+- Part III therefore starts by isolating the identity problem under fresh consent / conflict-of-interest controls.
+- Chapter 045 opens a narrow direct comparison between the existing 2162 unnamed-person cluster and Lin Che’s current civic identity template. Name, occupation, 327-year metadata, `T-04C`, family data and the acquired brow feature are excluded from the primary score; Lin Che is an affected person, not a query designer.
+
+## Part III — 沒有前史的人 (Chapter 045 → roughly 070, flexible) — active
 
 ### Function
 
-Bring the identity mystery to the foreground. The city’s discontinuity and Lin Che’s impossible resemblance begin to look like two aspects of the same problem without permitting an early “clone/reconstruction” conclusion.
+Bring the identity mystery to the foreground. The city’s confirmed historical discontinuity and Lin Che’s impossible resemblance now coexist, but they must remain evidentially separate until a new independent bridge is earned.
 
-### Escalation
+The question changes from “why does history contain a seam?” to:
 
-- Revisit the 2162 unnamed cluster only when new independent evidence changes what can be asked.
+> **Why can Lin Che have a complete, ordinary present-day biography while normal historical records also contain a person who is increasingly difficult to distinguish from him?**
+
+### Opening identity arc — Chapter 045 onward
+
+Chapter 045 establishes the new procedural and emotional baseline:
+
+- the history-integrity branch no longer needs Lin Che at its center;
+- Lin Che remains the original media case’s technical declarant, but becomes an **affected person** in the identity-correlation branch;
+- the first direct 2162 unnamed-person ↔ Lin Che comparison is authorized only by Lin Che’s explicit consent;
+- the comparison may use only the two already-sealed 2162 valid person images and Lin Che’s current civic identity template;
+- it may not use name, occupation, 327-year metadata, `T-04C`, family members / family originals, or the acquired brow feature in the primary score;
+- Lin Che may not run the query, tune thresholds, add candidates or inspect intermediate scores;
+- the initial result may only determine whether a further identity review is warranted. It cannot by itself establish same identity, blood relation, cloning, reconstruction, personality continuity, or ARK.
+
+### Early Part-III priorities
+
+- Let the 2162 direct-comparison result return, but do not make Part III merely another score-reading sequence. The result should immediately matter to Lin Che’s choices, relationships or legal / institutional status.
+- Keep Lin Che’s normal contemporary history as positive evidence. Do not casually treat a complete civic / medical / family biography as fake merely because the mystery has escalated.
+- Revisit the 2162 unnamed cluster only when the result changes what can legitimately be asked.
+- Distinguish several identity explanations instead of collapsing them: extreme appearance convergence, kinship, source-image reuse, biometric-template contamination, historical misassociation, same-person hypothesis, and eventually other possibilities only as evidence earns them.
+- The acquired brow feature remains a high-value promise but should not be promoted to identity proof. Any stronger use needs new independent evidence and, if private family material is involved, new consent.
 - Force Lin Che to choose between personal truth and evidentiary cleanliness at least once; his Chapter 026 lesson should be tested, not merely remembered.
-- Let a close relationship challenge the premise that a perfectly documented biography necessarily proves a continuous self.
-- The brow feature should receive a payoff or decisive reframing in this part; do not leave it as perpetual atmospheric evidence.
-- The 64-bit / 8-prefix mystery may become structurally meaningful here only if evidence earns it. Never infer “eight civilizations” from the number eight alone.
+- A close relationship should eventually challenge the premise that a perfectly documented biography necessarily proves a continuous self, but do not turn family members into hidden-truth insiders without evidence.
+- The 64-bit / 8-prefix mystery may become structurally meaningful in Part III only if evidence earns it. Never infer “eight civilizations” from the number eight alone.
 
 ### Mid/late-Part reveal target
 
@@ -147,9 +178,9 @@ Allow the first reliable appearance of a legacy name, identifier, or system conc
 
 ### Part-III endpoint
 
-Lin Che can no longer treat his own identity as incidental to the case.
+Lin Che can no longer treat his own identity as incidental to the case. At least one independent result must force both him and the institution to explain his complete present-day biography and the historical-person relationship **at the same time**, without yet requiring full knowledge of ARK or civilization cycles.
 
-## Part IV — 第七座墓 (roughly Chapter 081–105)
+## Part IV — 第七座墓 (roughly Chapter 071–100, flexible)
 
 ### Function
 
@@ -173,7 +204,7 @@ The remaining question must then change from “what happened?” to “what sho
 
 Knowledge of the truth itself creates an immediate civilization-level risk or deadline.
 
-## Part V — 第八次黎明 (roughly Chapter 106–125+, flexible)
+## Part V — 第八次黎明 (roughly Chapter 101–125+, flexible)
 
 ### Function
 
@@ -209,27 +240,27 @@ Resolve the central moral decision and the main identity/cycle mystery. The fina
 
 ## Reader-promise ledger
 
-| Promise | Current status after Ch.041 | Preferred payoff window |
+| Promise | Current status after Ch.045 | Preferred payoff window |
 | --- | --- | --- |
-| 327-year absolute baseline | shared epoch; truth unresolved; later fabrication still possible | Part II–IV, final causal answer by Part V |
-| Lin Che / image-man resemblance | independently high similarity; ordinary historical-face access does not explain acquired brow | major reframing Part III; final answer Part V |
-| post-acquired left-brow feature | highly specific unresolved anomaly | Part III |
-| “你看過了。” | blind-review 4-position compatibility | Part II–III |
-| 2162 unnamed cluster / `T-04C` | historically plausible; identity absent | Part II–III |
-| `CIM-4R-7714` independent calibration witness | external 2162 original chain intact; later simulation access can be ordinary | Part II |
-| precise policy revision / local cache | historical existence established; 2158/2160 chronology is now a confirmed cross-system inconsistency; 2187 delivery chain unresolved | Part II–IV |
-| B-17 source-object gap | hardware family understood, parent source absent | Part II–IV |
+| 327-year absolute baseline | shared epoch; truth unresolved; later fabrication still possible | Part III–IV, final causal answer by Part V |
+| Lin Che / image-man resemblance | independently high similarity; now separated into a dedicated identity-correlation branch | major reframing Part III; final answer Part V |
+| post-acquired left-brow feature | highly specific unresolved anomaly; excluded from Ch.045 primary identity score | Part III |
+| “你看過了。” | blind-review 4-position compatibility | Part III |
+| 2162 unnamed cluster / `T-04C` | unnamed cluster now entering direct comparison with Lin Che; `T-04C` remains non-identity credential | Part III |
+| `CIM-4R-7714` independent calibration witness | external 2162 original chain intact; later simulation access can be ordinary | Part III as supporting, not identity proof |
+| precise policy revision / local cache | historical existence established; 2158/2160 chronology confirmed inconsistent; cause unresolved; 2187 delivery chain unresolved | Part III–IV |
+| B-17 source-object gap | hardware family understood, parent source absent | Part III–IV |
 | 64-bit / 8 fixed prefixes | meaning unknown; not time-related | Part III–IV |
-| ARK | author-only truth; characters unaware | first earned trace Part III, explicit truth Part IV |
+| ARK | author-only truth; characters unaware | first earned trace late Part III, explicit truth Part IV |
 | seven prior reconstructions | author-only truth | Part IV |
 
-## Current writing gate after Chapter 041
+## Current writing gate after Chapter 045
 
 For the next several chapters:
-- treat the confirmed 2158/2160 inconsistency as a **fact whose cause is unresolved**, not as proof of deliberate historical rewriting;
-- stop repeating the same hardware/archive verification pattern;
-- prioritize institutional consequence and one specific ordinary recovery mechanism that could make both records internally honest;
-- keep the distinction between “ordinary later fabrication remains technically possible” and “ordinary policy-history continuity has failed as a complete explanation” explicit;
-- do not immediately return to identity, brow, 64-bit/8-prefix, 327-year baseline or ARK;
-- keep Lin Che’s procedural discipline active: no free cross-agency search, no personnel expansion, no 437-node blanket freeze;
-- continue normal continuity / plot / prose audits approximately every four writing slices; Audit 010 has just completed before Chapter 041.
+- keep the Part II historical discontinuity and the Part III identity branch evidentially separate;
+- allow the direct 2162 unnamed-person ↔ Lin Che comparison to return, but treat “further identity review warranted” as the strongest immediate outcome, not same-person proof;
+- do not use private family originals, `T-04C`, 327-year metadata, the acquired brow feature or history-discontinuity status as hidden priors in the primary comparison;
+- keep Lin Che’s complete contemporary biography as positive evidence that must be explained, not casually discarded;
+- give identity results human consequences rather than only more database queries;
+- Lin Che is an affected person in the identity branch, so his agency should come through consent, boundaries and choices, not query control;
+- continue normal continuity / plot / prose audits approximately every four writing slices; Audit 011 has just completed before Chapter 045.
