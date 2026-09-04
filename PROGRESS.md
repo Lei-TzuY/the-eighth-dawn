@@ -3,12 +3,12 @@
 ## Current drafting state
 
 - Status: active drafting.
-- Latest completed正文：`chapters/031.md`〈不是偷來的〉。
-- Completed writing slices since last audit: 3（Slice 029–031）。
+- Latest completed正文：`chapters/032.md`〈可以申請〉。
+- Completed writing slices since last audit: 4（Slice 029–032）。
 - Audit cadence: 約每 4 個 writing slices 優先安排 continuity / plot / prose audit。
 - Last audit: Slice 028 後／Slice 029 前完成第七次 continuity / plot / prose audit。
-- Next audit target: 再完成約 1 個正常 writing slice 後優先 Audit 008。
-- Architecture status: **Architecture Checkpoint 002 已完成**。Part I〈錯誤年代〉正式結束於 Chapter 029；Part II〈被修補的歷史〉自 Chapter 030 起開始。Part II 前段先建立並測試一個可被證偽的普通 false-resolution 假說：2164 市政舊資料基準整併可能讓後來製作者從單一正常索引入口取得多項歷史素材／設備背景。
+- Next audit target: **下一輪優先 Audit 008**；若 audit 無 blocker，可在同一輪續寫下一個 bounded slice。
+- Architecture status: **Architecture Checkpoint 002 已完成**。Part I〈錯誤年代〉正式結束於 Chapter 029；Part II〈被修補的歷史〉自 Chapter 030 起開始。Part II 前段正公平測試可被證偽的普通 false-resolution 假說：2164 市政舊資料基準整併＋正常授權／衍生服務，可能讓後來製作者取得大部分歷史素材與個體化舊成像外觀，而不需入侵多個機關。
 
 ## Audit history
 
@@ -102,16 +102,17 @@
 - **029〈不是一個檔案〉**：Chapter 028 的外部佐證觸發正式「跨檔案關聯覆核」；單一物件異常結案條件暫不適用，任何完整解釋都必須同時處理封存媒介與 2162 外部校正見證兩條保存鏈。約1801字。
 - **030〈一個很好的解釋〉**：Architecture Checkpoint 002 後正式進入 Part II。2164「市政舊資料基準整併」被確認是公開、廣泛的歷史索引整併；B-17、舊式來源處理、部分歷史城市幾何、`CIM-4R-7714` 次級設備目錄與 2162 市政媒體典藏系列均可從整併後索引找到。這讓「後期製作者利用共同正常入口取得多項素材」成為目前最強普通假說，但原始校正見證卡獨立保存鏈、後天眉傷、人物身份與 327 年來源仍未解。約2033字。
 - **031〈不是偷來的〉**：以城市模擬服務處的標準市政工程授權模型回放普通後期存取；一般合法專案可透過整併索引發現歷史城市幾何、2162 市政媒體系列、`CIM-4R-7714` 設備指標與一般 legacy-ingest 背景，不必先知道各原始保存機關。但原始缺陷座標、私人身份映射與案件精確政策修訂仍需額外授權／來源。約1888字。
+- **032〈可以申請〉**：市政模擬資產服務台確認，核准專案可申請「歷史設備外觀模擬衍生包」；個體級模型由校正中心在不交付原始校正卡／原始缺陷座標的情況下產生，可重現來源設備部分固定缺陷行為。此路徑自 2170 年代中期起存在，能由整併後設備索引導向申請；但本章沒有查 `CIM-4R-7714` 是否曾實際建立／核發個體級模型。約1900字。
 
 ## Next-slice handoff
 
-下一輪先重新讀 live repo、七份固定設定／進度檔、`ARCHITECTURE.md` 與最近 2–3 個正文。若無外部變更，目前距 Audit 007 累積 3 個 writing slices，可再完成 1 個正常 Part II slice；之後優先 Audit 008。
+下一輪先重新讀 live repo、七份固定設定／進度檔、`ARCHITECTURE.md` 與最近 2–3 個正文。若無外部變更，**優先執行 Audit 008**，重讀至少 Chapter 029–032 並檢查 Part II false-resolution 的證據分層、時間線、權限與節奏。
 
-Part II 前段優先：
-- **false-resolution 目前已相當可信，不要在下一章用作者方便性直接打破。**
-- Chapter 031 已證明一般市政工程授權可發現大多數素材入口；下一個最有價值的普通問題是：是否存在正常的設備維修／校正次級資料流，讓後期專案在不碰 2162 原始見證卡的情況下取得足以模擬 `CIM-4R-7714` 個體缺陷的資料。
-- 若找到普通路徑，可讓「後期製作」更接近完整解釋；若找不到，也只能縮窄必要前提，不能立刻宣布歷史系統斷裂。
-- 下一章避免再做單純會議摘要；優先現地設備服務、實際工作流程或有獨立職務目標的人物互動。
+Audit 008 特別檢查：
+- Chapter 030–032 是否把「普通後期製作在技術／授權上可行」偷換成「曾有實際製作者或實際專案」；目前應保持前者成立、後者未證。
+- `CIM-4R-7714` 2162 原始校正見證卡的獨立保存鏈仍須完整；設備外觀衍生模型存在，不等於該特定設備曾建立模型，更不等於案件一定由模型生成。
+- Chapter 032 後 false-resolution 已足夠強；若 Audit 008 無 blocker，下一個最有價值的問題是由案件承辦人獨立查「`CIM-4R-7714` 是否曾有個體級衍生模型／核發紀錄」。結果無論有或無，都只能改變普通路徑的成本，不可單獨證明歷史系統斷裂。
+- 下一個正文場景避免單純再做服務台說明；若查核結果需要呈現，優先結合人物／制度後果或另一條獨立保存記錄。
 - 不要提前回收影像男子身份、左眉、64-bit／8 前綴或 ARK。
 
 保持限制：林澈一般外接媒介職務權限已恢復，但沒有完整案件影像副本、沒有封存媒介操作權、沒有來源鏈／政策調查權或跨機關擴查主導權。
