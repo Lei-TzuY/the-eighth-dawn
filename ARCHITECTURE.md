@@ -1,6 +1,6 @@
 # ARCHITECTURE — Full-novel macro plan
 
-> Status: Architecture Checkpoint 002 completed after Chapter 029. Part I〈錯誤年代〉is complete; Part II〈被修補的歷史〉is active from Chapter 030. This file controls macro pacing; `CONTINUITY.md` controls established facts. If they conflict, established continuity wins unless explicitly revised.
+> Status: Architecture Checkpoint 002 completed after Chapter 029. Part I〈錯誤年代〉is complete; Part II〈被修補的歷史〉is active from Chapter 030. Chapter 039 has produced the first formally established historical-system time inconsistency, but Part II remains active because its cause is unresolved. This file controls macro pacing; `CONTINUITY.md` controls established facts. If they conflict, established continuity wins unless explicitly revised.
 
 ## Target shape
 
@@ -65,32 +65,47 @@ Checkpoint conclusion:
 
 Expand the mystery from one case to the historical infrastructure of the city. The question changes from “what is this file?” to “why does normal history repeatedly contain compatible seams?”
 
-### Opening false-resolution arc
-
-For the first several Part II chapters:
+### Opening false-resolution arc — earned through Chapter 038
 
 - Treat “post-2164 fabrication using consolidated municipal historical data” as the strongest ordinary hypothesis.
 - Let it explain as much as it honestly can: access to historical geometry, equipment catalog pointers, legacy-ingest background and early municipal media series.
-- Preserve the independent nature of the 2162 original calibration witness card: Chapter 030 establishes that the original card did **not** migrate into the 2164 municipal baseline repository; only secondary equipment index / calibration-status information did.
-- Do not immediately break the mundane hypothesis. First determine whether ordinary later access, secondary copies, catalog permissions or equipment records could truly supply the necessary ingredients.
-- When the false resolution eventually fails, one independent fact should break a specific required premise rather than the narrator simply declaring the explanation inadequate.
+- Preserve the independent nature of the 2162 original calibration witness card: the original card did **not** migrate into the 2164 municipal baseline repository; only secondary equipment index / calibration-status information did.
+- Chapter 031–035 established that ordinary authorization, historical-asset discovery, individual-equipment appearance modeling and multi-source project workflows can genuinely supply most ingredients needed for a sophisticated later fabrication.
+- Chapter 036–038 established an ordinary historical prehistory for the exact policy signature index: normal 2182 use, a valid executable 2164 inherited baseline, and an independently sealed 2158 water-system use witness.
+- Through Chapter 038, the mundane hypothesis remained fair: a long, poorly documented but otherwise ordinary legacy migration chain could still explain the policy’s presence.
 
-### Escalation
+### First fracture — Chapter 039
 
-- Move beyond a single room and a single agency.
+Chapter 039 is the first structural turn in Part II where an independently sourced fact breaks a necessary premise of that ordinary historical-continuity model:
+
+- the 2158 water-system original witness stores a specific trust-anchor public-key fingerprint in a field sealed as part of the original verification record;
+- independent municipal key-custody history records that exact public-key fingerprint as first hardware-generated and first activated in 2160, with no predecessor-anchor mapping;
+- simple alias renaming cannot explain the conflict because the compared object is the public-key fingerprint itself;
+- 2164 normalization is also insufficient because the water-side annual seal covers the original field and later normalization only added index access.
+
+This creates a formal **historical time-consistency conflict**, but not yet a final explanation. At least one of the following still requires independent verification: the 2158 seal/date, the 2160 hardware-generation history, an undocumented but legitimate reconstruction/recovery process, or some other source-history failure.
+
+**Important:** Chapter 039 weakens the assumption of a fully ordinary and continuous policy-history chain. It does **not** prove deliberate historical rewriting, time travel, ARK, civilization reconstruction, or the true date/authenticity of the sealed image. It also does **not** eliminate the ordinary later-fabrication capability itself.
+
+### Escalation from Chapter 040
+
+- Verify the historical conflict asymmetrically: one side at a time, through a genuinely independent source.
+- Prefer an external seal, hardware attestation, physical custody artifact, legal/audit record, or other evidence that cannot simply inherit the same disputed history.
+- Do not solve the contradiction by adding another unverified older database.
+- If a mundane repair exists, let it work; if it fails, the failure must be specific and evidenced.
+- Move beyond a single room and a single agency when the next verification justifies it.
 - Introduce at most one or two new recurring characters at a time; they need independent goals, not just exposition roles.
 - Make institutional resistance heterogeneous: some people protect procedure, some careers, some public stability, some genuinely believe the ordinary explanation.
 - Let Lin Che’s credibility, employment and relationships matter. Mystery progress must have a cost.
-- Use the current false-resolution arc before escalating toward a historical-system discontinuity.
 - Avoid returning to endless micro-forensic analysis of the original sealed medium.
 
 ### Major reveal target
 
-By the end of Part II, establish that at least one discontinuity belongs to the historical system itself rather than only to the original medium. The evidence may suggest imported baselines, reconstructed records, duplicated urban history, or an impossible break in provenance — but still must not hand the characters the full civilization-cycle answer.
+By the end of Part II, establish that at least one discontinuity belongs to the historical system itself rather than only to the original medium. Chapter 039 is the first formal candidate that satisfies the **shape** of this reveal, but its cause remains unresolved. Part II should continue until independent verification shows that the contradiction cannot be dissolved by ordinary archival, timing, recovery or migration mechanisms.
 
 ### Part-II endpoint
 
-The case becomes a history problem, not merely a media-forensics problem.
+The case becomes a history problem, not merely a media-forensics problem. Reaching the endpoint requires more than a contradictory pair of records: at least one historical-system discontinuity must survive ordinary repair explanations strongly enough to change what institutions and characters must believe or do.
 
 ## Part III — 沒有前史的人 (roughly Chapter 056–080)
 
@@ -174,28 +189,27 @@ Resolve the central moral decision and the main identity/cycle mystery. The fina
 
 ## Reader-promise ledger
 
-| Promise | Current status after Ch.030 | Preferred payoff window |
+| Promise | Current status after Ch.039 | Preferred payoff window |
 | --- | --- | --- |
-| 327-year absolute baseline | shared epoch; truth unresolved; 2164 false-resolution can model deliberate later placement | Part II–IV, final causal answer by Part V |
-| Lin Che / image-man resemblance | independently high similarity; 2164 hypothesis may provide historical-face access but not acquired-brow explanation | major reframing Part III; final answer Part V |
-| post-acquired left-brow feature | highly specific unresolved anomaly; not explained by 2164 consolidation | Part III |
+| 327-year absolute baseline | shared epoch; truth unresolved; later fabrication still possible | Part II–IV, final causal answer by Part V |
+| Lin Che / image-man resemblance | independently high similarity; ordinary historical-face access does not explain acquired brow | major reframing Part III; final answer Part V |
+| post-acquired left-brow feature | highly specific unresolved anomaly | Part III |
 | “你看過了。” | blind-review 4-position compatibility | Part II–III |
-| 2162 unnamed cluster / `T-04C` | historically plausible; secondary catalog access widened after 2164; identity absent | Part II–III |
-| `CIM-4R-7714` independent calibration witness | external 2162 original chain intact; later discovery/access may be ordinary via secondary indexes | Part II |
-| missing precise policy revision / local cache | partly normalized; 2164 adds ordinary legacy-ingest context, exact source unresolved | Part II–IV |
+| 2162 unnamed cluster / `T-04C` | historically plausible; identity absent | Part II–III |
+| `CIM-4R-7714` independent calibration witness | external 2162 original chain intact; later simulation access can be ordinary | Part II |
+| precise policy revision / local cache | historical existence established; 2158/2160 trust-anchor chronology now conflicts; 2187 delivery chain unresolved | Part II–IV |
 | B-17 source-object gap | hardware family understood, parent source absent | Part II–IV |
 | 64-bit / 8 fixed prefixes | meaning unknown; not time-related | Part III–IV |
 | ARK | author-only truth; characters unaware | first earned trace Part III, explicit truth Part IV |
 | seven prior reconstructions | author-only truth | Part IV |
 
-## Current writing gate after Checkpoint 002
+## Current writing gate after Chapter 039
 
 For the next several chapters:
-- prioritize the Part II false-resolution arc over adding more micro-forensic dimensions;
-- keep at least one embodied/interpersonal scene for every two procedure-heavy chapters;
-- test whether ordinary post-2164 access can genuinely supply the ingredients needed for a later fabrication;
-- do not break the mundane hypothesis until it has earned credibility;
-- when it breaks, use an independently sourced fact that invalidates a specific necessary premise;
-- do not reveal ARK;
-- do not resolve every clue at once;
-- continue normal continuity / plot / prose audits approximately every four writing slices.
+- treat the 2158/2160 contradiction as a **question to verify**, not a conclusion to dramatize;
+- verify one side at a time through independent evidence;
+- keep the distinction between “ordinary later fabrication remains technically possible” and “ordinary policy-history continuity is now challenged” explicit;
+- do not immediately return to identity, brow, 64-bit/8-prefix or ARK;
+- do not add another older database unless it independently tests one disputed date/source;
+- keep Lin Che’s procedural discipline active: no free cross-agency search, no personnel expansion, no 437-node blanket freeze;
+- continue normal continuity / plot / prose audits approximately every four writing slices; Audit 010 is due after one more normal slice if live progress remains unchanged.
