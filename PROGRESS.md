@@ -3,14 +3,14 @@
 ## Current drafting state
 
 - Status: active drafting.
-- Latest completed正文：`chapters/070.md`〈不是因為你沒犯過錯〉。
-- Completed writing slices since last audit: **2**。
+- Latest completed正文：`chapters/071.md`〈空掉的那一格〉。
+- Completed writing slices since last audit: **3**。
 - Last audit: **Audit 017 completed after Chapter 068.**
 - Architecture status: **Architecture Checkpoint 004 completed after Chapter 064. Part III〈沒有前史的人〉continues; Part IV is not open.**
-- Next normal audit target: after roughly **2 more** normal writing slices, unless a structural problem or new system-level bridge requires an earlier stop.
+- Next normal audit target: after roughly **1 more** normal writing slice, unless a structural problem or new system-level bridge requires an earlier stop.
 - Current phase: late-middle Part III, moving from source/mechanism testing into person-relationship / preservation-architecture / evidence-earned legacy bridge.
 
-## Part III current state after Chapter 070
+## Part III current state after Chapter 071
 
 ### Identity / subject separation
 
@@ -42,6 +42,7 @@
 - Chapter 068: Lin Che's mother explicitly rejects being protected by a pre-emptive refusal. She submits no new family data and does not reopen any gate, but asks that if a future specific, necessary family-data question genuinely arises, the question and risks be presented to her so **she** can decide whether to consent.
 - Chapter 069: an unrelated heat-network source reaches an imminent-clear / source-state-unknown condition. Lin Che invokes his existing six-month dual-witness rule before touching content, preserves one institution-controlled source-state snapshot with a second restorer, and keeps no private copy. The warning remains in force, but for the first time functions on-page as a useful working control rather than only a punishment marker. The人物案件 remains silent throughout.
 - Chapter 070: a junior restorer shadows Lin Che for a half day on an unrelated public-training transcript. Lin Che teaches scope by refusing to copy volunteer-name mappings or personal shift notes merely because they might be useful later, then answers the junior's direct question about his warning without hiding the original mistake. The warning remains active; the scene changes professional relationship and self-understanding, not case evidence or authority.
+- Chapter 071: the next emergency-intake roster makes the warning produce a concrete but bounded staffing cost. Lin Che remains fully active in ordinary external-media work and emergency support, but cannot serve as the single-person emergency intake lead while his control condition requires a second witness before acting on imminent-clear / unknown-state sources. He can request an exception but declines because he cannot show that the role is presently uniquely necessary for him. Supervisor trust is explicitly non-binary: she can trust him to teach and support while still withholding a role whose normal design requires unilateral first-minute action. No case evidence changes.
 - Character principle now includes both sides of consent: **wanting truth does not create a right to open another person's data, but protecting someone also does not create a right to decide their future answer for them.** It now also has a professional counterpart: independent witnessing can preserve a source without giving one investigator unilateral ownership of the evidence.
 
 ### Preservation-architecture turn
@@ -98,6 +99,7 @@
 - **068**：mother/son consent boundary reverses direction: no family data is submitted, but Lin Che agrees not to pre-emptively refuse a future genuinely necessary question on his mother's behalf.
 - **069**：unrelated imminent-clear media job puts the Chapter 026 dual-witness warning into ordinary practice; source state is preserved with a second restorer, no private copy is made, and the人物案件 remains trigger-only and silent.
 - **070**：junior-restorer shadowing turns Lin Che's warning from a private stigma into openly explainable professional experience; he teaches purpose-limited working copies and admits the prior unauthorized retention without treating later usefulness as retroactive permission.
+- **071**：the next emergency-intake roster excludes Lin Che from single-person first-response lead duty because that role conflicts with his still-active second-witness control; he remains on emergency support, declines to seek an exception without necessity, and learns that trust can be task-specific rather than all-or-nothing.
 
 ## Next-slice handoff
 
@@ -105,15 +107,15 @@ Next run must re-read live repo, fixed bible/continuity/progress and latest 2–
 
 Priorities:
 
-1. Audit 017 remains complete; Chapter 070 is the **second** post-audit writing slice. Normal drafting may continue. Part III remains active; Part IV is not open and Architecture Checkpoint 005 is not yet warranted.
-2. Preserve Chapter 067's trigger-only state. Chapters 069–070 deliberately show different ordinary-life consequences without manufacturing a case alert; do not immediately negate that by converting the heat-network source, cooling-station oral histories or junior-restorer interaction into hidden case evidence.
-3. Avoid another chapter whose main function is teaching / explaining procedure or the warning. Chapter 070 has paid that beat. If no legitimate investigation trigger exists, prefer a different city / relationship / obligation / present-life consequence rather than a third professional-ethics lesson.
-4. The next investigation beat, whenever it occurs, must independently satisfy the trigger rule and **change problem type**. A useful trigger should arise for its own operational reason and alter an established relationship, system architecture or what can legitimately be asked.
-5. Chapter 070 creates no formal mentor role, promotion or new permission for Lin Che. The junior restorer only knows the warning's broad origin and ordinary scope rules, not the人物案件's identity / technical / legacy details.
+1. Audit 017 remains complete; Chapter 071 is the **third** post-audit writing slice. Normal drafting may continue for roughly **one more** slice before Audit 018, unless a structural problem or true system-level bridge requires an earlier stop.
+2. Preserve Chapter 067's trigger-only state. Chapters 069–071 have now paid three different present-life consequences—working control, professional disclosure, staffing cost—without manufacturing a case alert. Do not retroactively convert any of them into hidden case evidence.
+3. **Do not write another warning / procedure / roster lesson next.** Chapter 071 has paid the bounded professional-cost beat. If no legitimate investigation trigger exists, prefer a city / family / public-life / unrelated obligation scene with a genuinely different dramatic function.
+4. The next investigation beat, whenever it occurs, must independently satisfy the trigger rule and **change problem type**. A useful trigger should arise for its own operational reason and alter an established relationship, system architecture or what can legitimately be asked—not just supply another image, sensor, preservation table or carrier subtype.
+5. Chapter 071 does not revoke ordinary external-media permission, create a new disciplinary sanction, or imply permanent untrustworthiness. It only makes an existing staffing-compatibility consequence explicit while the six-month second-witness control remains active.
 6. Chapter 068 still does **not** reopen family data and is not pre-consent. If a future family-data question becomes genuinely necessary, Lin Che's mother must receive the specific question and risks and decide for herself.
 7. T-04C person binding, anonymous transit/payment/address, family originals, left-brow reuse, A-2162-01／02 repeat checks and physical-carrier subtype expansion remain held.
 8. `市政連續性服務` stays separate from `MUNI-LEGACY/INGEST`, B-17, Part II discontinuity, 327 years, 8-prefix and ARK unless direct evidence links them. Full index remains closed.
 9. Do not reveal ARK / reconstruction / clone / time-travel / civilization-cycle explanations. Keep Lin Che as an affected person, not a query designer.
-10. If a true system-level bridge or Part III endpoint condition appears, stop and run an architecture checkpoint before writing through it.
+10. If the next slice produces a true system-level bridge or Part III endpoint condition, stop and run an architecture checkpoint before writing through it. Otherwise, after that fourth post-audit slice, prioritize **Audit 018** on the following run.
 
-Next routine audit target: after roughly **2 more** normal writing slices.
+Next routine audit target: after roughly **1 more** normal writing slice.
