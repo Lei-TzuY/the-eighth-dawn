@@ -1,6 +1,6 @@
 # ARCHITECTURE — Full-novel macro plan
 
-> Status: Architecture Checkpoint 004 completed after Chapter 064. Part I〈錯誤年代〉completed Ch.001–029; Part II〈被修補的歷史〉completed Ch.030–044; Part III〈沒有前史的人〉remains active from Ch.045 and has entered a late-middle person-relationship / preservation-architecture / legacy-bridge stage. `CONTINUITY.md` controls established facts; if this file conflicts with continuity, continuity wins unless explicitly revised.
+> Status: Architecture Checkpoint 004 completed after Chapter 064. Part I〈錯誤年代〉completed Ch.001–029; Part II〈被修補的歷史〉completed Ch.030–044; Part III〈沒有前史的人〉remains active from Ch.045 and has entered a late-middle person-relationship / preservation-architecture / legacy-bridge stage. Chapters 065–066 have now refined the preservation model without opening Part IV. `CONTINUITY.md` controls established facts; if this file conflicts with continuity, continuity wins unless explicitly revised.
 
 ## Target shape
 
@@ -25,6 +25,8 @@
 - `LIVE-SENSOR` ≠ a natural human stood there;
 - physical occupancy ≠ human body;
 - image track and occupancy track are compatible ≠ the face belongs to that physical occupant;
+- one contemporaneous event-object binding ≠ cross-time physical continuity;
+- absence of an equivalent retained relation ≠ deletion, suppression or hidden evidence;
 - 2162 child Lin Che + adult H-2162-U01 incompatible with one ordinary linear life ≠ two physical persons proven;
 - Part II historical discontinuity ≠ identity evidence;
 - resemblance / brow compatibility ≠ same identity;
@@ -64,7 +66,7 @@ Central question:
 
 > **Why can Lin Che have a complete, independently supported ordinary life while 2162 also contains an adult historical person who becomes progressively harder to dismiss as simple media reuse or ordinary synthesis?**
 
-### Achieved through Chapter 064
+### Achieved through Chapter 066
 
 #### 045–049: identity branch becomes independent
 - Lin Che / B-CURRENT and 2162 sources compared under fresh consent and conflict-of-interest controls.
@@ -90,6 +92,13 @@ Central question:
 - `持續可驗證保存 / CONTINUITY-WITNESS RETENTION` provides an ordinary preservation explanation and introduces the local legacy name `市政連續性服務`.
 - Chapter 064 makes preservation personal: Lin Che accepts that verifiable work may properly outlive the worker’s name and refuses to create a private retention exception.
 
+#### 065–066: preservation becomes purpose-specific instead of magical
+- Chapter 065 establishes that A-2162-03’s camera person track, door-zone occupancy and platform-edge ranging were already bound to the same anonymous incident object in 2162; this is not an arbitrary 2187 analytical pairing.
+- The result strengthens event-level physical presence while still not proving a natural human body or that the visible face is the carrier’s natural appearance.
+- Chapter 066 checks A-2162-01／02 under the same preservation concept and finds no equivalent person-region ↔ independent physical-event binding; the absence matches their original equipment/media handoff responsibilities.
+- Therefore the preservation strategy is **purpose-specific, not omniscient**. One source can retain a deep cross-sensor relation while two others legitimately do not.
+- H-2162-U01 cross-time physical-event continuity remains unestablished; no new sensors may be hunted merely to fill that gap.
+
 ## Architecture Checkpoint 004 — after Chapter 064
 
 ### Decision
@@ -105,6 +114,8 @@ Central question:
 - Does the brow anomaly have a new independent use condition? **No. Hold it.**
 - Should Part III be allowed to extend beyond Chapter 070 if needed? **Yes.** Chapter ranges are not quotas.
 
+Chapters 065–066 do not overturn this checkpoint. They sharpen the preservation model but do not yet supply the system-level bridge or identity relation required to close Part III.
+
 ### Why Part III is not at endpoint
 
 Part III should not close merely because H-2162-U01 looks increasingly person-like. It still lacks:
@@ -115,17 +126,20 @@ Part III should not close merely because H-2162-U01 looks increasingly person-li
 
 The personal-cost requirement has begun to be paid: Lin Che has repeatedly chosen evidence/other-person rights over maximal information access. That is necessary but not sufficient for the Part III endpoint.
 
-## Late-Part-III route after Checkpoint 004
+## Late-Part-III route after Chapter 066
 
 ### Immediate priorities
 
-1. **Require a real question before opening legacy material.** The old `市政連續性服務` index may only be expanded when an already-established evidence layer creates a concrete necessity. Its novelty is not sufficient.
-2. **Prefer evidence that changes relationship or architecture, not another camera.** High-value progress is either:
-   - a direct, independently justified relation between the preservation concept and one established evidence layer; or
-   - a new independent fact showing H-2162-U01 has cross-time continuity/activity that cannot be reduced to another source catalogue.
-3. **Keep ordinary explanations fair.** A local legacy term may remain benign. Do not upgrade it into a hidden master system because the reader expects ARK eventually.
-4. **Let human consequence carry pacing.** If no discriminating evidence exists naturally, write a bounded institutional/personal consequence or stop rather than invent a breadcrumb.
-5. **Do not reopen old gates without necessity.** T-04C person binding, anonymous transit/payment/address, family originals, brow reuse and physical-carrier subtype catalogues stay held.
+1. **Chapter 067 should breathe.** Chapters 065–066 are one bounded technical pair; the next chapter should preferentially be embodied human / institutional consequence unless an external event naturally changes the evidence model.
+2. **Change problem type before another technical loop.** Do not repeat a third preservation-relation table, another camera, another sensor or another carrier subtype unless it qualitatively changes what can be asked.
+3. **Require a real question before opening legacy material.** The old `市政連續性服務` index may only be expanded when an already-established evidence layer creates a concrete necessity. Its novelty is not sufficient.
+4. **Prefer evidence that changes relationship or architecture.** High-value progress is either:
+   - a direct, independently justified relation between the preservation concept and one established evidence layer that changes present action; or
+   - a genuinely independent cross-time person fact that cannot be reduced to another source catalogue; or
+   - an institutional consequence that forces the case to operate under a new constraint.
+5. **Keep ordinary explanations fair.** A local legacy term may remain benign. Do not upgrade it into a hidden master system because the reader expects ARK eventually.
+6. **No evidence, no breadcrumb.** If no discriminating evidence exists naturally, write bounded human consequence or true NO-OP rather than inventing a clue.
+7. **Do not reopen old gates without necessity.** T-04C person binding, anonymous transit/payment/address, family originals, brow reuse and physical-carrier subtype catalogues stay held.
 
 ### First reliable legacy bridge target
 
@@ -177,7 +191,7 @@ Final-choice space: preservation vs autonomy, continuity vs truth, guaranteed su
 
 The title *The Eighth Dawn* should ultimately mean not only the eighth reconstruction, but a dawn whose future is no longer fully predetermined by the previous seven.
 
-## Reader-promise ledger — after Chapter 064
+## Reader-promise ledger — after Chapter 066
 
 | Promise | Current state | Preferred payoff |
 | --- | --- | --- |
@@ -185,21 +199,23 @@ The title *The Eighth Dawn* should ultimately mean not only the eighth reconstru
 | Lin Che / historical-person resemblance | high similarity; ordinary single-life model incompatible with same-year child/adult evidence | major reframing Part III; final answer Part V |
 | acquired left-brow feature | unresolved high-value anomaly; no new independent use condition yet | later Part III |
 |「你看過了。」| blind-review positional compatibility only | Part III–IV |
-| H-2162-U01 | three independent 2162 sources; public context; simple 2D reuse weak; A-2162-03 physical occupancy support; rigid planar carrier weak | Part III |
+| H-2162-U01 | three independent 2162 sources; public context; simple 2D reuse weak; A-2162-03 has contemporaneous event-level physical binding; A-2162-01／02 legitimately lack equivalent retained binding; cross-time physical continuity unestablished | Part III |
 | `T-04C` | responsibility continuity supported; direct person binding absent and paused | Part III if new bridge appears |
-| `市政連續性服務` | local ordinary preservation-strategy owner; unopened legacy index | late Part III only if direct evidence earns expansion |
+| `市政連續性服務` | local ordinary purpose-specific preservation-strategy owner; unopened legacy index | late Part III only if direct evidence earns expansion |
 | 2158/2160 discontinuity | independently confirmed, cause unknown | Part III–IV |
 | B-17 source-object gap | hardware family understood, parent source absent | Part III–IV |
 | 64-bit / 8 prefixes | meaning unknown; not evidence of eight civilizations | Part III–IV |
 | ARK | author-only truth; characters unaware | first reliable operational trace late Part III; explicit truth Part IV |
 | seven prior reconstructions | author-only truth | Part IV |
 
-## Current writing gate after Chapter 064
+## Current writing gate after Chapter 066
 
-- Audit 016 and Architecture Checkpoint 004 are complete.
-- Chapter 065 may resume normal drafting.
+- Audit 016 and Architecture Checkpoint 004 remain valid.
+- Chapters 065–066 completed the first post-checkpoint technical pair and did not justify entering Part IV.
+- Chapter 067 should preferentially deliver embodied human / institutional consequence rather than another relation-table proof.
+- Do not repeat the A-2162-01／02 check; do not hunt new sensors, cameras or carrier subtypes to manufacture cross-time continuity.
 - Do not open `市政連續性服務` merely because the name exists.
 - Require a concrete question from established evidence before any legacy-index expansion.
 - Do not reveal ARK / cycles / clone / reconstruction / time-travel explanations.
 - Do not use the brow, T-04C, anonymous transit, family originals or carrier catalogues as convenient escape hatches.
-- Stop again for audit after roughly four new writing slices or earlier if a structural problem emerges.
+- After roughly two more normal writing slices, perform Audit 017; if a Part III endpoint condition or true system-level bridge appears sooner, perform an architecture checkpoint early rather than writing through it.
