@@ -4,11 +4,11 @@
 
 - Status: active drafting.
 - Latest completed正文：`chapters/072.md`〈不高興也可以〉。
-- Completed writing slices since last audit: **4**。
-- Last audit: **Audit 017 completed after Chapter 068.**
+- Completed writing slices since last audit: **0**。
+- Last audit: **Audit 018 completed after Chapter 072.**
 - Architecture status: **Architecture Checkpoint 004 completed after Chapter 064. Part III〈沒有前史的人〉continues; Part IV is not open.**
-- Next gate: **Audit 018 must run before another normal writing slice**, unless a structural problem requires an architecture checkpoint first.
-- Current phase: late-middle Part III, moving from source/mechanism testing into person-relationship / preservation-architecture / evidence-earned legacy bridge.
+- Next normal audit target: after roughly **4** normal writing slices, unless a true system-level bridge or Part III endpoint condition requires Architecture Checkpoint 005 earlier.
+- Current phase: late-middle Part III. The warning/consequence arc is complete; the next investigation turn must change problem type through an independently justified operational trigger.
 
 ## Part III current state after Chapter 072
 
@@ -57,6 +57,18 @@
 - This reduces the risk of accidentally turning `市政連續性服務` into a magic archive. Its full index still lacks a justified opening question.
 
 ## Audit / architecture status
+
+### Audit 018 — after Chapter 072
+
+**PASS.** Chapters 069–072 contain no hard continuity contradiction and require no正文 rewrite.
+
+- Chapters 069–071 remain three distinct professional consequences rather than one repeated ethics lesson: 069 demonstrates that the dual-witness control can materially preserve source verifiability; 070 makes the original mistake openly discussable and professionally transmissible without converting Lin Che into a formal mentor; 071 makes the control impose a bounded staffing cost while preserving ordinary work and support duties.
+- Chapter 072 deliberately changes scene function and setting. The consequence leaves the workplace, and Lin Che can now hold three facts together: his original decision was wrong, the current restriction is fair, and he still dislikes losing the role. This is character movement rather than another procedure lesson.
+- Chapter 067's **【未結／無主動查詢】** state survives the entire block. No alert, unrelated work source, junior-restorer interaction, roster change, family conversation, riverfront repair event or future roof-water-tank check creates a valid case trigger.
+- Evidence and consent gates remain intact: no family originals, anonymous transit/payment/address, T-04C person binding, left-brow reuse, A-2162-01／02 repeat checks or physical-carrier subtype expansion was reopened.
+- Pacing guardrail: the warning/procedure/staffing-cost arc is now **complete**. Do not write a fifth variation. Six chapters of mystery silence have been useful because they let the institutional and personal cost land; after this audit, the next investigation turn—whenever it occurs—must change problem type and arise for its own operational reason.
+- The recurring whole-manuscript `Chapter N` meta-reference convention remains a separate prose debt. Audit 018 does not perform a local cleanup; any future fix should be a deliberate manuscript-wide prose pass.
+- Part III endpoint is **not** reached. There is still no reliable system-level bridge and no evidence forcing Lin Che's complete present-day biography and H-2162-U01 into one larger explanatory model. **Architecture Checkpoint 005 is not required; Architecture Checkpoint 004 remains controlling; Part IV is not open.**
 
 ### Audit 017 — after Chapter 068
 
@@ -109,15 +121,15 @@ Next run must re-read live repo, fixed bible/continuity/progress and latest 2–
 
 Priorities:
 
-1. **Audit 018 is mandatory next.** Chapters 069–072 are now four normal writing slices after Audit 017. Do not write Chapter 073 before completing the audit, unless the audit itself determines that an Architecture Checkpoint 005 is required first.
-2. Audit 018 should review Chapters 069–072 for continuity, plot movement, prose/rhythm and character drift. In particular, verify that 069–071 remain three distinct professional consequences rather than repetitive ethics instruction, and that 072 successfully changes scene function by moving into ordinary family/public life.
-3. Preserve Chapter 067's trigger-only state. None of Chapters 069–072 creates an independent new source, a new differentiating relation, a legal-necessity change or any other valid case trigger.
-4. Audit 018 should explicitly assess late-Part-III pacing. Four post-audit slices have intentionally paid present-life consequence without new mystery evidence. This is not automatically stagnation, but the next investigation turn after the audit—whenever justified—must change problem type and arise for its own operational reason. Do not invent a clue merely because the case has been quiet.
-5. Architecture Checkpoint 004 remains controlling unless Audit 018 finds a true endpoint/system-level bridge condition. Part IV is not open by chapter count alone.
-6. Chapter 072's riverfront repair night, repaired fan and future roof-water-tank check are ordinary family/community life. Do not retroactively turn them into family-data evidence, a municipal legacy breadcrumb or a case trigger.
-7. T-04C person binding, anonymous transit/payment/address, family originals, left-brow reuse, A-2162-01／02 repeat checks and physical-carrier subtype expansion remain held.
-8. `市政連續性服務` stays separate from `MUNI-LEGACY/INGEST`, B-17, Part II discontinuity, 327 years, 8-prefix and ARK unless direct evidence links them. Full index remains closed.
-9. Do not reveal ARK / reconstruction / clone / time-travel / civilization-cycle explanations. Keep Lin Che as an affected person, not a query designer.
-10. If Audit 018 is PASS and finds no necessary protected-document change beyond recording the audit, update only what is semantically necessary. If absolutely no repository change is required, a true NO-OP is allowed under the safe-commit rules.
+1. **Audit 018 is complete. Normal drafting may resume.** Completed writing slices since audit = 0. Part III remains active; Part IV is not open.
+2. **Do not write another warning / procedure / roster / redemption lesson.** Chapters 069–072 have completed that arc. Reusing it as the primary dramatic engine would now be repetition, even in a new setting.
+3. Preserve Chapter 067's trigger-only state. The next mystery beat must satisfy the trigger rule independently: an external operational event that would have occurred without Lin Che's case, or an existing source that produces a new differentiating relation during another legitimate process.
+4. The next investigation beat must **change problem type**. High-value forms include a direct lineage/migration relation involving an established case object, a stable system identifier recurring across truly independent preserved contexts where ordinary municipal reuse is insufficient, an operational behavior connecting an established historical anomaly to a present consequence, or another cross-time person/institution fact that does not depend on new sensors or identity fishing.
+5. A future trigger is not automatically permission to open the full `市政連續性服務` index. First establish the concrete question; then use the narrowest source capable of answering it.
+6. If no evidence-earned trigger exists on the next live-state review, do not manufacture one because the mystery has been quiet. A clean time advance or a bounded scene with a genuinely different dramatic function is acceptable only if it actually advances event/relationship/risk/choice. If nothing substantive is available, a true NO-OP is preferable to a fake breadcrumb.
+7. Chapter 072's repaired fan, riverfront event and future roof-water-tank check remain ordinary family/community life and are **not** latent case hooks.
+8. T-04C person binding, anonymous transit/payment/address, family originals, left-brow reuse, A-2162-01／02 repeat checks and physical-carrier subtype expansion remain held.
+9. `市政連續性服務` stays separate from `MUNI-LEGACY/INGEST`, B-17, Part II discontinuity, 327 years, 8-prefix and ARK unless direct evidence links them. Do not reveal ARK / reconstruction / clone / time-travel / civilization-cycle explanations.
+10. If a true system-level bridge or Part III endpoint condition appears, stop and run **Architecture Checkpoint 005** before writing through it.
 
-Next routine gate: **Audit 018 before further normal drafting.**
+Next routine audit target: after roughly **4 normal writing slices**; earlier only for a structural problem or true system-level bridge.
