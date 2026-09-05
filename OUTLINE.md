@@ -60,6 +60,12 @@
 - Chapter 063：問題類型由「人物／載體究竟是什麼」轉向「為什麼三份來源二十五年後仍能被低層重驗」；普通保存策略 `持續可驗證保存 / CONTINUITY-WITNESS RETENTION` 成立，首次出現策略所有者 `市政連續性服務`。
 - Chapter 064：2187 當代例行 retention scene 讓林澈親眼接受「可重驗工作留下、姓名映射正常到期」，並拒絕因自己對名字消失敏感而製造例外或私留副本。
 
+### Chapter 065–066 — preservation relation becomes more precise
+
+- Chapter 065：只用 A-2162-03 自己既有的 2162 事故封存關係，建立攝影機人物追蹤、門區占位與月台邊緣測距在當時就屬同一匿名事件物件；因此 2187 後設分析任意錯配支持下降，但自然人、人體與影像外觀真實性仍未建立。
+- Chapter 066：A-2162-01／02 沒有保存等價的人物區域 ↔ 獨立物理事件物件關係；缺少符合各自設備交接／媒介來源鏈交接的原始保存責任，不支持刪除、壓制或特別抽離。
+- 結果不是「三來源都變成物理人物證明」，而是保存制度被證明為**目的特定且合理不對稱**；H-2162-U01 的跨時間物理事件連續性仍未建立，且禁止為填空去搜尋新感測來源。
+
 ## Audit 016 + Architecture Checkpoint 004 — completed after Chapter 064
 
 - Audit 016：PASS；061–064 無 hard contradiction，不需回寫正文。
@@ -70,29 +76,29 @@
 - 左眉 promise 尚無新的獨立使用條件。
 - **Part III 繼續，不進 Part IV；可超過 Chapter 070，不能為章數配額硬轉段。**
 
-## Immediate direction — after Chapter 064
+## Immediate direction — after Chapter 066
 
-### Next chapter gate
+### Chapter 067 gate
 
-Chapter 065 可以恢復正常正文，但下一個案件動作必須先回答：
+Chapters 065–066 已形成一組完整的 bounded technical pair。**Chapter 067 優先回到具身的人物／制度後果**，除非有真正外部事件自然改變證據模型。
 
-> **目前已建立的哪一條證據，真正需要一個新的保存／legacy 問題才能往前？**
-
-若沒有這個問題，就不得因 `市政連續性服務` 名稱新鮮而打開完整舊制度索引。
+不得再以「另一張關係表」「另一支感測器」「另一種載體」延長同一證明模式。下一個技術步驟若只是換名詞重演 065–066，應壓縮或停止。
 
 ### Preferred next-beat order
 
-1. **Evidence-earned relation first.** 優先尋找一個由既有來源自己產生的直接關係：保存概念 ↔ 某個既有 evidence layer、交接行為、來源形成或可重驗責任。
-2. **Or cross-time person activity.** 若有新的獨立事實能顯示 H-2162-U01 具有跨時間持續活動，而且不是「再找一支攝影機／再列一種載體」，價值更高。
-3. **No evidence, no breadcrumb.** 如果兩者都沒有正當性，就寫 bounded 人物／制度後果或停，不要硬創 ARK 線索。
+1. **Human / institutional consequence first.** 讓來源不對稱、姓名／證據保存、林澈的界線或案件角色產生可感受到的後果，而不是立刻開新資料表。
+2. **Then change problem type.** 下一個真正調查 beat 必須讓「可以問什麼」發生變化；優先既有證據中的直接關係、跨時間人物事實、或會影響當代行動的制度後果。
+3. **Legacy only when earned.** `市政連續性服務` 完整索引仍關閉。只有已建立證據提出一個具體、無法在目前層級回答的問題時，才有理由展開更深 legacy material。
+4. **No evidence, no breadcrumb.** 沒有 discriminating evidence 時，寧可寫人物／制度場景或真正 NO-OP，也不要硬造 ARK 線索。
 
 ### Explicit holds
 
+- 不重做 A-2162-01／02 physical-event relation；結果已回答。
+- 不搜尋新感測器、攝影機或 carrier subtype 來製造跨時間物理連續性。
 - 不重新開 T-04C 人物繫結，除非有新的直接橋接來源自己出現。
 - 不追匿名乘車序列、支付身份、住址或生活圈，只因「想知道他去哪裡」。
 - 不重新使用家庭原件做身份／血緣模型；若未來需要，必須有新的必要性與同意。
 - 不把左眉當萬能破局鍵；只有新的獨立來源能讓它被問一個不同問題時才回收。
-- 不逐項盤點 physical-carrier 子類。
 - 不因 `市政連續性服務` 同屬舊市政背景就連到 `MUNI-LEGACY/INGEST`、B-17、Part II discontinuity、327 年、8-prefix 或 ARK。
 - 不碰文明循環、七次重建、clone、reconstruction、time travel，除非 evidence bridge 明確出現。
 
@@ -101,6 +107,10 @@ Chapter 065 可以恢復正常正文，但下一個案件動作必須先回答�
 - 技術場景仍應 bounded；若只是同構的能力表／正常留痕缺失，壓縮。
 - 每 1–2 個高密度驗證場景後，優先回到具身後果、正常工作、家庭、公共空間、制度風險或不可逆選擇。
 - 林澈仍是受影響當事人，不是 query designer；他的能動性主要在同意／拒絕、界線、詮釋與代價。
+
+### Next audit gate
+
+目前距 Audit 016 已完成 Chapters 065–066 兩個 writing slices。**再完成約兩個正常 writing slices 後做 Audit 017**；若 Chapter 067–068 提前碰到 Part III endpoint 或新的 system-level bridge，則提早做 architecture checkpoint，不為湊 run 數繼續寫。
 
 ## Part III endpoint
 
