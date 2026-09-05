@@ -27,17 +27,19 @@
 - Chapter 078：第二十三日上午至中午。林澈與第三組較資淺修復員到南堤公共記憶站處理普通居民口述紀錄；一段十九年前錄音有 4.2 秒熱損缺口，前後原始訊號可驗，但缺失內容不可由來源恢復。系統可以依同一說話者聲紋與上下文產生【重建候選／非來源內容】，但不能把生成結果標成找回的原句。原件持有人選擇公共展示採來源修復版、保留缺口並標記【來源缺失／內容未知】，同時保留日後私人紀念性重建的選項。較資淺修復員是主操作員，林澈沒有搶回工作，只在居民直接詢問時確認其判斷。此場景沒有案件警報、新來源、正式相關結果、legacy 名稱或人物案件證據；只推進「修復與明示重建可以各有用途，但證據地位不能混用」的專業／人物關係。
 - Chapter 079：第二十三日下午。南區教育封存中心因舊驗證器將退出維護，對 2160–2164 舊封裝批次做例行 verification-wrapper 轉置；不重算學籍 payload、不讀新影像，只保留既有 wrapper 的制度語意。林澈 2162 教育年度封存外層自然 surfaced 一筆 2164 `subject-separation witness`，issuer 為 `市政連續性服務`。林澈以本人身分對「將此新 surfaced metadata 用於既有人物關聯覆核」給出窄範圍同意後，依 Chapter 076 firewall 不參與 counterpart／candidate interpretation，只接收獨立定案摘要。摘要建立：local side 是 2162 教育封存中的兒童林澈；counterpart preservation root exact-match 到 `A-2162-02` 已封存 subject-region witness；2164 disposition 為 `DO NOT MERGE`，reason class 為同年 chronology／age-state conflict。`candidate-origin basis` 未被最小 witness 保存，因此未知。這筆關係在 2164 已存在，早於 2187 人物案件；正式第一次直接證明兒童林澈的普通當代人生來源與 H-2162-U01 來源曾被同一歷史制度流程放入一個 subject-continuity candidate 後拒絕自動合併。它不建立同一法律身份、同一物理人物、親屬、candidate 起因或任何特定機制。外部新關係 trigger 成立，但 active person search 仍否、scope expansion 暫停，先進入架構級案件覆核。
 - Chapter 080：第二十三日晚上 19:04–20:11。林澈到母親家協助更換客廳窗框密封條，將 Chapter 079 的 identity-convergence 結果以最小可說範圍告知母親：2164 年一筆舊制度紀錄早已把他的兒童教育主體與成年歷史人物的一份來源放進同一 continuity candidate，之後因同年兒童／成年年齡衝突拒絕合併；候選最初為何形成仍未知。林澈沒有告知 `市政連續性服務` 名稱、R-12、Part II discontinuity 或其他技術細節。母親沒有提交家庭資料、照片或要求搜尋自己的資料；她只指出，這筆新關係不會把林澈當年的普通童年變成假的，且 `DO NOT MERGE` 在當時也可能是避免錯誤合併的普通保護動作。林澈接受這是需要由 ordinary 2164 流程本身公平驗證的可能性，而不是對整套制度的好壞結論。此章不新增案件證據、查詢或權限，只讓 Chapter 079 的 landmark 落入母子關係與 Part IV 的 ordinary-explanation gate。
+- Chapter 081：第二十四日上午 09:17–中午前。教育封存 wrapper 轉置的獨立覆核先完成後，林澈只接收一份由 2164 合成 conformance fixtures 組成的 finalized replay package；案件資料未載入，他不能改參數、生成候選或參與 live interpretation。測試建立：`subject-separation witness` 是 merge-safety disposition witness，正常只保留 subject roots、disposition、conflict reason 與 issuer；candidate proposal 的 origin basis **本來就不會複製進 minimal witness**。同一測試又建立 separation stage 接收已形成的 `continuity proposal`，不是這一層首次建立 candidate。故 Chapter 079 的 `candidate-origin basis` 缺失屬正常 schema 行為，不支持刪除／壓制；`DO NOT MERGE` 的 ordinary protective merge-safety 解釋獲支持。真正未解問題上移為：何種上游 continuity proposal 在 2164 把兒童林澈教育主體與 A-2162-02 subject region 送進 merge-safety。現有 witness／replay 無 source-domain direct pointer，因此不擴查 full service index，active person search 仍否。
 
 ## Current location / institutional state
 
-- Chapter 080 結尾仍為第二十三日晚間，林澈 20:11 離開母親家、步行前往車站。Part IV〈第七座墓〉已開始第一個正文 slice。Chapter 080 沒有新正式案件通知、沒有 active person search、沒有 scope expansion；Chapter 079 的 `candidate-origin basis` 仍是 Part IV 開場核心問題。
-- Chapter 076 新增的是**角色／利益衝突邊界**而非案件權限變更：凡直接涉及「市政連續性服務」共同制度節點的後續 live interpretation、候選形成與擴張必要性討論，林澈必須等獨立端先完成；他的 shared-node 即時協作入口已從工作列移除。此限制不等於把他移出全部歷史支線、不撤銷普通修復工作，也不取消他對既有 R-12 封存同一性的技術陳述資格。
-- 林澈已選擇【受影響當事人／正式相關結果通知：保留】；因此若未來有獨立覆核完成、且與其既有技術陳述或本人權益直接相關的結果，他可收到正式摘要。此選擇**不授權他參與查詢、中間候選、未定案推論或擴張必要性設計**。Chapter 079 正常執行了此規則：他只決定自己的新資料用途，未參與 independent candidate interpretation。
-- `市政連續性服務` 完整舊制度索引仍未展開。Chapter 073 首次以 R-12 已封存 lineage 摘要自身的 2164 migration receipt，直接建立 Part II 歷史 discontinuity 營運鏈 ↔ 該服務的 migration lineage；Chapter 075 進一步證明在 R-12 這一條線上，該服務是 2163-Q4 checkpoint 的**保存／交接見證**，不是已證明的內容形成者。Chapter 079 再以教育封存自身例行 wrapper 轉置自然 surfaced 的既存 witness，直接建立該服務曾在 2164 對兒童林澈教育主體 ↔ A-2162-02 匿名 subject region 做過 `DO NOT MERGE` 的 subject-separation 決定；這仍不證明它是 identity/content originator 或隱藏 master system。
+- Chapter 081 結尾為第二十四日上午、接近中午，第六修復室。林澈已關閉 finalized conformance replay，回到普通地下防災標示圖修復；Part IV〈第七座墓〉已完成前兩個正文 slices。人物案件 active person search 仍為否，沒有新增資料調取或 scope expansion；核心問題已從「separation witness 為何形成 candidate」收窄為「何種上游 continuity proposal 先把兩端送入 merge-safety」。
+- Chapter 076 新增的是**角色／利益衝突邊界**而非案件權限變更：凡直接涉及「市政連續性服務」共同制度節點的後續 live lineage interpretation、候選形成與擴張必要性討論，林澈必須等獨立端先完成；他的 shared-node 即時協作入口已從工作列移除。此限制不等於把他移出全部歷史支線、不撤銷普通修復工作，也不取消他對既有 R-12 封存同一性的技術陳述資格。
+- 林澈已選擇【受影響當事人／正式相關結果通知：保留】；因此若未來有獨立覆核完成、且與其既有技術陳述或本人權益直接相關的結果，他可收到正式摘要。此選擇**不授權他參與查詢、中間候選、未定案推論或擴張必要性設計**。Chapter 079 正常執行了此規則：他只決定自己的新資料用途，未參與 independent candidate interpretation。Chapter 081 也維持相同邊界：他只看 independent finalized synthetic replay，沒有 case data、live candidate 或 query control。
+- `市政連續性服務` 完整舊制度索引仍未展開。Chapter 073 首次以 R-12 已封存 lineage 摘要自身的 2164 migration receipt，直接建立 Part II 歷史 discontinuity 營運鏈 ↔ 該服務的 migration lineage；Chapter 075 進一步證明在 R-12 這一條線上，該服務是 2163-Q4 checkpoint 的**保存／交接見證**，不是已證明的內容形成者。Chapter 079 再以教育封存自身例行 wrapper 轉置自然 surfaced 的既存 witness，直接建立該服務曾在 2164 對兒童林澈教育主體 ↔ A-2162-02 匿名 subject region 做過 `DO NOT MERGE` 的 subject-separation 決定；Chapter 081 又證明這個 separation stage 的 ordinary duty 是**接收已形成 proposal 後做 merge-safety disposition**，並未證明該 stage 或該服務本身就是 candidate originator。
+- Chapter 081 的 generic conformance result 只回答 witness schema／stage semantics。它不建立實際 case proposal 的來源域、proposer、人工／規則式機制、跨域 carryover 或任何更深 lineage；actual upstream proposal origin 仍未知，且現有 material 無 direct pointer。
 - R-12 的可驗 lineage boundary 現在可精確寫為：【2163-Q4 checkpoint → 2164 migration receipt：可重驗】；【2163-Q4 以前：不由後續 continuity witness 背書】。此界線不修復 2158／2160 contradiction，也不授權讀 checkpoint payload。
 - Chapter 074 建立的 access rule 維持：人物支線的共同制度節點不能作為 R-12 存取擴張依據；Chapter 075 的解析結果也不得自動觸發人物資料搜尋。
-- Chapter 079 符合 Chapter 067 trigger-only 規則的「既有來源於其他合法作業中自然產生新可區辨關係」：教育封存中心的 verification-wrapper 轉置是自身正常 lifecycle，不是林澈或人物案件為找答案而發起。trigger 成立只允許案件重新評估，不自動授權新搜尋或 service-wide expansion。
-- A-2162-01／02 的 contemporaneous physical-object relation 候選已完成：**未建立，且缺少符合原始保存責任。不得以「可能在別處」為由搜尋新感測來源補建。** Chapter 079 的 A-2162-02 root match 是 2164 subject-separation metadata relation，不是新的 physical-event binding。
+- Chapter 079 符合 Chapter 067 trigger-only 規則的「既有來源於其他合法作業中自然產生新可區辨關係」：教育封存中心的 verification-wrapper 轉置是自身正常 lifecycle，不是林澈或人物案件為找答案而發起。trigger 成立只允許案件重新評估，不自動授權新搜尋或 service-wide expansion。Chapter 081 使用的是同一轉置作業已經需要的 generic conformance semantics，並由獨立端先行完成，不構成新的案件搜索。
+- A-2162-01／02 的 contemporaneous physical-object relation 候選已完成：**未建立，且缺少符合原始保存責任。不得以「可能在別處」為由搜尋新感測來源補建。** Chapter 079 的 A-2162-02 root match 是 2164 subject-separation metadata relation，不是新的 physical-event binding；Chapter 081 也只改變 proposal／separation 的治理語意，不新增 physical evidence。
 - 林澈仍為 `DI-2187-0612-4431` 原媒介部分「技術陳述人」；沒有原始來源晶片、封存案件媒介操作權、來源鏈／政策調查存取、跨機關擴查主導權或完整影像副本。
 - 一般外接媒介職務權限已恢復；Chapter 026 書面職務警示仍有效，未來六個月遇來源即將清除／來源狀態不明時須先啟動雙人見證保全。
 - Chapter 069 首次在普通工作中實際觸發上述雙人見證規則：第二見證可由合格同事擔任，不要求主管本人在場；先保全來源狀態、再開內容，機構只保留必要封存／工作副本。這不撤銷警示，也不新增林澈權限。
@@ -48,9 +50,10 @@
 - Chapter 077 的麵店晚餐、空白通知列、回家通勤與電梯反光只屬人物／公共生活場景，不是獨立新來源、系統回應、身份資料提交或左眉新證據；不得 retroactively 倒接成 mystery trigger。
 - Chapter 078 的南堤公共記憶站、十九年前居民口述、4.2 秒音訊缺口、生成補全選項與公共展示決策都只是普通當代記憶修復實務；不得 retroactively 倒接為 H-2162-U01、`市政連續性服務`、Part II discontinuity、327 年、ARK 或其他 mystery trigger／lineage evidence。
 - Chapter 080 的窗框密封條、母親住家、清運車與晚間通勤都只是普通生活背景；不得 retroactively 倒接成案件來源或 system response。
+- Chapter 081 的地下防災標示圖、合成 `TEST-SUBJECT-A/B` 與 conformance fixture 都不是新的真實人物／歷史來源；fixture 只能證明 generic schema semantics，不能被 retroactively 當成 case evidence source 或 proposal-origin pointer。
 - 人物關聯覆核中林澈是受影響當事人，可同意／拒絕個人資料用途、閱覽核准範圍與正式結果、表達偏好；不得執行查詢、調閾值、擴候選或查看中間分數。
-- `H-2162-U01` 仍只是案件內部暫定歷史人物節點，沒有姓名、法律身份、血緣、職稱或與林澈同一身份結論。Chapter 079 只證明其 A-2162-02 source region 曾在 2164 被置入與兒童林澈教育主體相對的 subject-continuity candidate／separation decision。
-- 家庭資料 gate 仍關閉。Chapter 068 不構成新授權、不提交任何新家庭來源、不重啟 Chapter 013 四張家庭原件用途；只建立「未來若有新的具體必要性，母親本人要被詢問並自行決定」的 consent rule。Chapter 079 沒有使用家庭資料或母親同意。Chapter 080 只向母親說明既有定案結果，沒有索取或接收任何家庭資料。
+- `H-2162-U01` 仍只是案件內部暫定歷史人物節點，沒有姓名、法律身份、血緣、職稱或與林澈同一身份結論。Chapter 079 只證明其 A-2162-02 source region 曾在 2164 被置入與兒童林澈教育主體相對的 subject-continuity candidate／separation decision；Chapter 081 只證明該 separation stage 的 generic merge-safety semantics，沒有新增人物身份內容。
+- 家庭資料 gate 仍關閉。Chapter 068 不構成新授權、不提交任何新家庭來源、不重啟 Chapter 013 四張家庭原件用途；只建立「未來若有新的具體必要性，母親本人要被詢問並自行決定」的 consent rule。Chapter 079 沒有使用家庭資料或母親同意。Chapter 080 只向母親說明既有定案結果，沒有索取或接收任何家庭資料。Chapter 081 沒有新增家庭資訊或再向母親更新技術結果。
 - Chapter 069 的熱交換站來源與人物案件、`市政連續性服務`、Part II discontinuity、327 年及 ARK 均無已建立關係；不得因主題上同樣涉及「保存」就把它 retroactively 寫成案件 trigger 或 legacy bridge。
 - Chapter 070 的社區降溫站口述紀錄同樣只是普通工作素材；不得把姓名映射未進入工作副本、志工值勤資訊或新修復員的跟班安排倒接成 H-2162-U01 身份線、家庭資料線、`市政連續性服務` lineage 或其他案件 trigger。
 - Chapter 071 的輪值資格結果只屬 2187 當代人事／職務控制，不得倒接成人物案件的「系統回應」、外部新證據觸發、`市政連續性服務` lineage 或其他 mystery evidence。
@@ -93,6 +96,7 @@
 - Chapter 054 教育封存鏈獨立支持同年兒童林澈／成年 H-2162-U01；只排除普通單一線性人生同一人物模型。
 - Chapter 055 的主體分離只是一項 2187 證據治理規則，不新增生物、姓名、血緣或來源機制證據。
 - Chapter 079：教育封存自身正常 wrapper 轉置 surfaced 一筆 2164 `subject-separation witness`。local side 是 2162 教育封存中的兒童林澈；counterpart root exact-match 到 A-2162-02 sealed subject-region witness；2164 當時已將兩端放入 subject-continuity candidate，並因同年 chronology／age-state conflict 設為 `DO NOT MERGE`。這直接證明兩端之間的制度關係早於 2187 本案，而不是本案因高相似度才首次製造。`candidate-origin basis` 未保存，故候選最初為何形成仍未知；不得升格成同一身份、同一身體、親屬或任何特定機制。
+- Chapter 081：generic 2164 conformance semantics 證明 separation stage **接收已形成的 continuity proposal**，而不是首次建立 candidate；因此可確定兩端在進入 `DO NOT MERGE` 判斷之前已有上游 proposal，但 proposal 的來源域、形成規則與實際 proposer 仍完全未知。這不新增同一身份、物理人物或親屬證據。
 
 ### Source / synthesis / physical-presence tests
 
@@ -121,10 +125,11 @@
 - Chapter 074 把 bridge 的**存取邊界**正式化：同一服務節點的跨支線意義不能自動授權服務級擴查。R-12 的單一 `source-side continuity reference` 只有在 R-12 自身 lineage 問題下成立必要性，且只允許解析 target identifier／object class／保存來源／最小驗證鏈。這是「已知 pointer 的最窄跟隨」，不是舊索引開門。
 - Chapter 075 進一步界定 bridge 的普通 operational meaning：在 R-12 線上，`市政連續性服務` 保存／見證一個由原業務維運域形成的 2163-Q4 lineage checkpoint，並讓 2164 migration receipt 可指回它。這支持「跨退役／整併維持可重驗交接」的普通服務角色，**不支持它創造 checkpoint 內容、修補 pre-2163 history 或成為隱藏 master system。**
 - Chapter 079 建立該服務在另一種 ordinary 2164 migration duty 中的直接 evidence：它曾對兒童林澈教育主體與 A-2162-02 匿名 subject region 留下 purpose-specific `subject-separation witness`。這表示服務範圍確實包含跨域 subject-continuity merge safety，但 witness 只保存「候選曾存在／因 age-state conflict 不得合併」，沒有保存 candidate-origin basis。不得因此把服務寫成全知 identity registry、內容生成者或 ARK。
+- Chapter 081 以 authenticated generic conformance semantics 補上 witness schema 的 ordinary meaning：`subject-separation witness` 正常不複製 proposal-origin basis，且 separation stage 只接收 upstream `continuity proposal` 後做 merge-safety disposition。故 missing origin 不是 suppression evidence；同時也不能再把 separation stage 本身當成 candidate origin。實際 proposal 可能來自何種 ordinary domain／rule 仍未建立，現有 material 無 direct pointer。
 
 ## Knowledge / consent boundaries
 
-- 林澈母親知道：歷史人物與林澈高度相似；2162 教育鏈支持林澈當時為兒童而歷史人物為成年；A-2162-03 所在位置另有成人尺度、會移動的物理占位；林澈在無必要性時不追匿名乘車序列；Chapter 068 又從林澈口中知道人物案件目前「沒有一個夠好的下一步／暫時不主動查」；Chapter 072 她也知道林澈的六個月警示目前使他不能排單人緊急首接主值，但其他工作照常；Chapter 077 她又只以高層次知道：有一部分可能涉及林澈自身利益的調查現在必須由獨立端先形成結論，林澈本人只能在完成後接收正式相關摘要。Chapter 080 後，她再以高層次知道：2164 年一筆舊制度紀錄已把林澈兒童教育主體與成年歷史人物的一份來源放入同一 continuity candidate，並因同年兒童／成年年齡衝突拒絕合併；她也知道 candidate 最初為何形成仍未知。她**不知道** `市政連續性服務` 名稱、A-2162-02 代碼、R-12、2163-Q4、Part II discontinuity 或其他 shared-node 技術細節。
+- 林澈母親知道：歷史人物與林澈高度相似；2162 教育鏈支持林澈當時為兒童而歷史人物為成年；A-2162-03 所在位置另有成人尺度、會移動的物理占位；林澈在無必要性時不追匿名乘車序列；Chapter 068 又從林澈口中知道人物案件目前「沒有一個夠好的下一步／暫時不主動查」；Chapter 072 她也知道林澈的六個月警示目前使他不能排單人緊急首接主值，但其他工作照常；Chapter 077 她又只以高層次知道：有一部分可能涉及林澈自身利益的調查現在必須由獨立端先形成結論，林澈本人只能在完成後接收正式相關摘要。Chapter 080 後，她再以高層次知道：2164 年一筆舊制度紀錄已把林澈兒童教育主體與成年歷史人物的一份來源放入同一 continuity candidate，並因同年兒童／成年年齡衝突拒絕合併；她也知道 candidate 最初為何形成仍未知。她**不知道** `市政連續性服務` 名稱、A-2162-02 代碼、R-12、2163-Q4、Part II discontinuity 或其他 shared-node 技術細節。Chapter 081 沒有再向她更新 technical result。
 - Chapter 013 四張家庭原件用途仍限傷痕形成時序／有限表面特徵比較；未重新授權身份／血緣模型。
 - Chapter 068 母親沒有提交任何新資料，也沒有給出預先同意。她只要求：若未來出現新的具體必要性，必須由她本人收到清楚用途／風險說明後再決定。此原則不得偷換成「家庭 gate 已鬆動」。Chapter 080 亦沒有提交任何新家庭資料。
 - 左眉凹痕為林澈 11 歲事故後形成；封存影像男子有位置高度相容的局部凹陷，但形狀／深度不足。左眉目前維持 hold。
@@ -138,18 +143,19 @@
 - Chapter 075 後，林澈知道該 reference 只指向 2163-Q4 `legacy lineage state checkpoint`；checkpoint 由原業務維運域形成，「市政連續性服務」是保存見證。這使他知道共同制度節點可以是真實而普通的跨系統 continuity witness，但不能把其後可驗的交接倒推成其前歷史真實，也沒有因此新增人物案件權限。
 - Chapter 076 後，林澈知道 shared node 越可能進入自己的身份問題，自己的 live interpretation 權限反而必須更窄。他選擇保留獨立覆核後的正式相關結果通知，但接受自己不能參與共同制度節點的 live candidate formation、未定案推論或擴張必要性討論。
 - Chapter 077 後，林澈把「獨立驗證」再往前推一步：可信度可以建立在可重驗的來源、操作與排除紀錄上，而不是建立在自己親自在場；他也知道自己不在場本身不能被寫成壓制、祕密或可疑證據。這是人物／認知變化，不新增任何案件事實。
-- Chapter 078 後，林澈更明確區分**來源修復**與**明示重建**：生成版本若清楚標示為重建、用途是私人紀念，可以有真實情感價值；但它不能因此取代來源缺失，也不能被說成「找回」的歷史內容。他也能讓較資淺修復員自行對外守住這條線，而不是把每個困難判斷重新收回自己手上。此為專業／人物關係變化，不新增案件事實。
+- Chapter 078 後，林澈更明確區分**來源修復**與**明示重建**：生成版本若清楚標示為重建、用途是私人紀念，可以有真實情感價值；但它不能因此取代來源缺失，也不能被說成「找回」的歷史內容。他也能讓較資淺修復員自行對外守住這條專業界線，而不是把每個困難判斷重新收回自己手上。此為專業／人物關係變化，不新增案件事實。
 - Chapter 079 後，林澈知道 2164 年的 `市政連續性服務` 已在他的 2162 教育封存主體與 A-2162-02 匿名 subject region 間形成過 subject-continuity candidate，並因同年 age-state conflict 留下 `DO NOT MERGE` separation witness。這是第一筆直接把他的普通童年來源與 H-2162-U01 來源放入同一歷史制度關係的證據，而且早於 2187 本案。林澈同時知道 candidate 為何最初形成仍未知；不得把這個 relation 理解成已證明同一身份、同一身體、親屬或任何特定機制。他也實際遵守 Chapter 076 firewall：只決定自己的用途同意，不參與 counterpart／candidate interpretation。
 - Chapter 080 後，林澈第一次把 Chapter 079 的 structural result 帶回家庭生活，而沒有把母親變成資料來源。他也開始接受一個對 Part IV 有用但尚未驗證的 ordinary possibility：2164 的 `DO NOT MERGE` 不只是一道異常，也可能曾是避免錯誤身份合併的正常 merge-safety 保護；是否如此必須由當時普通流程本身回答，不能靠結果好壞倒推制度本質。
+- Chapter 081 後，林澈知道 ordinary 2164 schema 確實支持上述 merge-safety 解釋：minimal separation witness 正常不保存 proposal-origin basis，且 separation stage 接收的 candidate 在進入該層之前就已形成。他不知道 upstream proposer 是誰、來自哪個 source domain、由何種 ordinary rule 形成，也沒有 direct pointer 可合法跟隨；因此問題變窄，但沒有自動新增查詢權。
 
 ## Open continuity questions /伏筆
 
 - 327 年共同絕對紀元基準為何落在該位置，真實年代為何。
 - 64-bit 週期／8 次固定前綴究竟表示什麼。
 - 封存影像男子、`H-2162-U01`、`T-04C` 持證人彼此關係。
-- 2162 兒童林澈與成年 H-2162-U01 的真實關係；Chapter 079 已證明兩端在 2164 曾進入同一 subject-continuity candidate 並因 age-state conflict 被分開，但**candidate-origin basis 為何、什麼訊號／lineage 讓當時制度先把兩端放進同一候選關係，仍完全未知。**
+- 2162 兒童林澈與成年 H-2162-U01 的真實關係；Chapter 079 已證明兩端在 2164 曾進入同一 subject-continuity candidate 並因 age-state conflict 被分開，Chapter 081 又證明 separation stage 只是接收已形成的 upstream proposal。**真正未解的是：何種上游 continuity proposal／source-domain lineage 先把兩端送入同一 candidate；現有 material 無 direct pointer。**
 - A-2162-03 的物理載體究竟是自然人、物理替身、三維載體／穿戴式外觀或其他物理對象；影像外觀是否為其本身外觀。
 - R-12 的可驗 lineage 已能從 2163-Q4 checkpoint 重走到 2164 migration receipt；**2163-Q4 以前 lineage correctness、以及 2158／2160 歷史不一致真正成因仍未解。** checkpoint payload 仍關閉，沒有後續讀取必要性。
-- `市政連續性服務` 的完整制度定義、完整索引、2164 migration／receipt／subject-separation 規則與其他 legacy 系統關係；Chapter 073 已建立其跨支線共同制度節點，Chapter 075 將 R-12 線上的角色限縮為保存／交接見證，Chapter 079 又直接證明它曾執行跨域 subject-continuity merge-safety；仍不得因此預設它是隱藏主系統或 ARK 前身。
+- `市政連續性服務` 的完整制度定義、完整索引、2164 migration／receipt／subject-separation 規則與其他 legacy 系統關係；Chapter 073 已建立其跨支線共同制度節點，Chapter 075 將 R-12 線上的角色限縮為保存／交接見證，Chapter 079 又直接證明它曾執行跨域 subject-continuity merge-safety；Chapter 081 進一步顯示 separation stage 本身不是已證明的 candidate origin。仍不得因此預設該服務是隱藏主系統或 ARK 前身。
 - `CIM-4R-7714` 是否曾直接拍攝封存影像。
 - ARK、七次文明滅亡／重建與文明循環全部仍是 author-only truth。
