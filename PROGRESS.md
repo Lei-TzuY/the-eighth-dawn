@@ -3,12 +3,12 @@
 ## Current drafting state
 
 - Status: active drafting.
-- Latest completed正文：`chapters/079.md`〈不是今天才分開〉。
-- Completed writing slices since last audit: **0**。Audit 020 已在 Chapter 079 endpoint 提前執行並重設 counter。
+- Latest completed正文：`chapters/080.md`〈在我知道以前〉。
+- Completed writing slices since last audit: **1**。Audit 020 已在 Chapter 079 endpoint 提前執行並重設 counter；Chapter 080 為第一個 Part IV slice。
 - Last audit: **Audit 020 completed after Chapter 079.**
-- Architecture status: **Architecture Checkpoint 006 completed after Chapter 079. Part III〈沒有前史的人〉is complete; Part IV〈第七座墓〉is open for the next writing slice, but no Part IV prose has yet been drafted.**
-- Next normal audit target: after roughly **4 Part IV writing slices**, unless a new structural reveal requires another checkpoint earlier.
-- Current phase: Part IV entry after identity convergence. Chapter 079 established that a 2164 municipal continuity process had already formed a subject-continuity candidate between child Lin Che’s ordinary education subject and the A-2162-02 historical subject region, then prohibited auto-merge because their same-year age states conflicted. The remaining opening question is not whether the relation exists, but **why the 2164 process formed that candidate in the first place**. `candidate-origin basis` is not retained in the minimal witness.
+- Architecture status: **Architecture Checkpoint 006 completed after Chapter 079. Part III〈沒有前史的人〉is complete; Part IV〈第七座墓〉is active from Chapter 080.**
+- Next normal audit target: after roughly **3** more Part IV writing slices, unless a new structural reveal requires another checkpoint earlier.
+- Current phase: Part IV opening after identity convergence. Chapter 079 established that a 2164 municipal continuity process had already formed a subject-continuity candidate between child Lin Che’s ordinary education subject and the A-2162-02 historical subject region, then prohibited auto-merge because their same-year age states conflicted. Chapter 080 gives that landmark an embodied family consequence without adding evidence: Lin Che tells his mother only the high-level pre-2187 relation, and she raises the ordinary possibility that `DO NOT MERGE` may have functioned as a normal merge-safety protection. The structural question remains **why the 2164 process formed that candidate in the first place**. `candidate-origin basis` is not retained in the minimal witness.
 
 ## Part III completed state through Chapter 079
 
@@ -52,7 +52,8 @@
 - Chapter 077: Lin Che accepts that an auditable result can remain trustworthy without his presence and that being excluded from live interpretation is not itself evidence of suppression.
 - Chapter 078: ordinary public-memory work distinguishes recoverable source content from explicitly labeled memorial reconstruction; Lin Che supports the junior restorer rather than taking the decision back.
 - Chapter 079: Lin Che makes only the narrow personal-use decision to allow newly surfaced education-wrapper metadata into the existing relation review. He does **not** see counterpart or candidate interpretation and waits for the independent finalized result. When identity convergence is reached, he does not use the landmark as permission to open another search; active person search stays off and scope expansion pauses for architecture review.
-- Character principle now includes: wanting truth does not create a right to open another person’s data; protecting someone does not create a right to answer for them; a fair control can still hurt; a trustworthy result need not be formed in Lin Che’s presence; a clearly labeled reconstruction can have emotional value without becoming recovered evidence; and **a historical relation can be real without being a same-identity conclusion—the fact that 2164 already had to separate the two subjects changes the question, not the answer.**
+- Chapter 080: Lin Che brings only the finalized high-level relation into family life. His mother learns that a 2164 process already placed child Lin’s education subject and the adult historical-person source into one continuity candidate and then refused merge for same-year age conflict; she does **not** learn the service name, R-12, Part II discontinuity or other shared-node details. No family source is submitted. Her response protects the positive reality of Lin Che’s ordinary childhood and introduces one ordinary hypothesis worth fair testing: `DO NOT MERGE` may have been a normal merge-safety safeguard rather than an ominous act. Lin Che treats that as a possibility, not a conclusion about the system’s nature.
+- Character principle now includes: wanting truth does not create a right to open another person’s data; protecting someone does not create a right to answer for them; a fair control can still hurt; a trustworthy result need not be formed in Lin Che’s presence; a clearly labeled reconstruction can have emotional value without becoming recovered evidence; **a historical relation can be real without being a same-identity conclusion**; and a later structural fact can be added beside an ordinary life without retroactively turning that entire life into a clue.
 
 ### Preservation / institutional architecture
 
@@ -68,6 +69,7 @@
 - Chapter 079 adds a second directly verified 2164 service duty from an independently surfaced source: the service issued a purpose-specific `subject-separation witness` between child Lin’s education subject and A-2162-02’s subject region, with `DO NOT MERGE` for same-year age conflict.
 - This proves the service operated at least across preservation witness, migration handoff and subject-continuity merge-safety duties. It still does **not** prove that it created either subject, generated content, repaired history, knew everything, or was ARK/a hidden master system.
 - `candidate-origin basis` is absent from the minimal witness. Absence is not deletion evidence; Part IV must first determine whether ordinary schema/retention policy would normally omit it.
+- Chapter 080 adds **no preservation or identity evidence**. It only foregrounds the ordinary interpretation that a separation disposition can be protective merge-safety behavior. That interpretation must be tested against ordinary 2164 policy/schema if and when an independently justified source becomes available.
 
 ## Audit / architecture status
 
@@ -86,7 +88,7 @@
 
 ### Architecture Checkpoint 006 — after Chapter 079
 
-**Decision: Part III is complete at Chapter 079. Part IV is open for the next writing slice; no Part IV prose has yet been drafted.**
+**Decision: Part III is complete at Chapter 079. Part IV is open from Chapter 080.**
 
 - The Part III system-bridge condition was achieved at Chapter 073.
 - The remaining identity-convergence condition is now achieved at Chapter 079: direct 2164 evidence forces Lin Che’s ordinary childhood source and H-2162-U01’s A-2162-02 source into the same larger historical/system question.
@@ -96,10 +98,11 @@
 - Part IV must test ordinary 2164 candidate-formation mechanisms before any prior-civilization/reconstruction conclusion.
 - Full `市政連續性服務` index remains closed absent a specific independently justified pointer/necessity.
 - Lin Che’s Chapter 076 firewall remains controlling.
+- Chapter 080 obeys the checkpoint by giving the identity-convergence fact human weight before another technical access attempt; it creates no new evidence or access entitlement.
 
 ### Architecture Checkpoint 005 — after Chapter 073
 
-Historical decision: first reliable system-level bridge established; Part III continued because identity convergence was still missing. Chapter 079 has now supplied that final condition.
+Historical decision: first reliable system-level bridge established; Part III continued because identity convergence was still missing. Chapter 079 supplied that final condition.
 
 ### Audit 019 — after Chapter 076
 
@@ -133,25 +136,27 @@ PASS. Chapters 061–064 maintained evidence/consent boundaries and moved the st
 - **077**：private trust consequence; offscreen independent result formation is not inherently suspicious.
 - **078**：public-memory field work distinguishes source repair from clearly labeled memorial reconstruction; no mystery evidence.
 - **079**：routine education-wrapper transition surfaces a pre-existing 2164 subject-separation witness linking child Lin’s education subject to A-2162-02 subject region; `DO NOT MERGE` for same-year age conflict; candidate origin unknown; identity convergence achieved; Part III endpoint reached.
+- **080**：Part IV opens with embodied family aftermath. Lin tells his mother only the high-level 2164 relation; ordinary childhood remains positive reality, no family data opens, and `DO NOT MERGE` gains a plausible ordinary merge-safety reading that remains to be tested.
 
-## Next-slice handoff — Part IV opening
+## Next-slice handoff — Part IV after Chapter 080
 
 Next run must re-read live repo, `ARCHITECTURE.md` Checkpoint 006, fixed bible/continuity/progress and latest 2–3正文 before drafting.
 
 Priorities:
 
-1. **Audit 020 and Architecture Checkpoint 006 are complete. Part III ended at Chapter 079. Part IV〈第七座墓〉is open for the next prose slice; no Part IV prose exists yet.** Writing-slice counter = 0.
-2. The next structural question is **candidate-origin basis**: why did the 2164 process consider child Lin Che’s education subject and A-2162-02’s anonymous subject region continuity candidates before rejecting merge?
-3. Do not treat the 2164 witness itself as reconstruction/clone/time-travel/ARK evidence. It proves a historical relation and separation decision, not the mechanism behind the relation.
-4. Do not assume the full `市政連續性服務` index is the next step. New access must have a specific ordinary operational reason, already-existing pointer, or independently established necessity.
-5. Before any civilization-scale interpretation, fairly test ordinary 2164 candidate-formation mechanisms: migration identity continuity, cross-system deduplication, subject carryover, merge-safety, or equivalent source-subject continuity behavior.
+1. **Audit 020 and Architecture Checkpoint 006 remain controlling. Part IV〈第七座墓〉is active; Chapter 080 is the first post-audit Part IV slice.** Writing-slice counter = **1**.
+2. Chapter 080’s family aftermath is complete. Do not immediately repeat another mother/childhood-validity/“new fact does not erase the past” scene, and do not turn the window repair or household details into evidence.
+3. The next structural question remains **candidate-origin basis**: why did the 2164 process consider child Lin Che’s education subject and A-2162-02’s anonymous subject region continuity candidates before rejecting merge?
+4. Before any civilization-scale interpretation, fairly test ordinary 2164 candidate-formation mechanisms: migration identity continuity, cross-system deduplication, subject carryover, merge-safety, or equivalent source-subject continuity behavior.
+5. Chapter 080 adds one useful ordinary hypothesis, not evidence: `DO NOT MERGE` may simply be a protective merge-safety decision once a candidate existed. A future technical scene should distinguish **why candidate formation occurred** from **why merge was rejected**; do not conflate the two.
 6. `candidate-origin basis` being absent from the minimal witness does **not** mean it was deleted or suppressed. First determine whether the witness class normally retained only disposition/reason.
-7. Chapter 076 firewall remains active: Lin Che is an affected person / technical declarant, not shared-node live query designer. He may decide his own consent and receive finalized relevant results but cannot participate in live candidate formation.
-8. H-U01 remains provisional and unnamed. No same legal identity, kinship, same physical body or natural-human conclusion has been established.
-9. Person-case holds remain: no T-04C person binding, anonymous transit/payment/address, family originals, left-brow reuse/scoring, new sensors, A-2162-01／02 physical-event repeat checks or carrier subtype catalogues without a genuinely new direct-use condition.
-10. `市政連續性服務` remains unlinked to `MUNI-LEGACY/INGEST`, B-17, 327 years, 8-prefix, ARK or civilization cycles absent direct evidence.
-11. Prefer an embodied aftermath or a genuinely independent, qualitatively different trigger for the first Part IV slice. Avoid another immediate “permission → one table → boundary” scene.
-12. First prior-civilization/reconstruction reveal must be evidence-earned and layered. One verified prior civilization is stronger than jumping to seven; number 8 cannot prove cycles.
-13. The recurring whole-manuscript `Chapter N` meta-reference convention remains separate prose debt; do not locally clean only recent chapters unless a deliberate manuscript-wide pass is chosen.
+7. Do not assume the full `市政連續性服務` index is the next step. New access must have a specific ordinary operational reason, already-existing pointer, or independently established necessity.
+8. Chapter 076 firewall remains active: Lin Che is an affected person / technical declarant, not shared-node live query designer. He may decide his own consent and receive finalized relevant results but cannot participate in live candidate formation.
+9. H-U01 remains provisional and unnamed. No same legal identity, kinship, same physical body or natural-human conclusion has been established.
+10. Person-case holds remain: no T-04C person binding, anonymous transit/payment/address, family originals, left-brow reuse/scoring, new sensors, A-2162-01／02 physical-event repeat checks or carrier subtype catalogues without a genuinely new direct-use condition.
+11. `市政連續性服務` remains unlinked to `MUNI-LEGACY/INGEST`, B-17, 327 years, 8-prefix, ARK or civilization cycles absent direct evidence.
+12. The next mystery-bearing technical step, whenever justified, should have a different scene grammar from Chapter 079 and should answer the ordinary candidate-formation/schema question rather than merely restating `DO NOT MERGE`. If no legitimate independent technical trigger exists yet, another distinct operational or public-life consequence is preferable to manufactured access.
+13. First prior-civilization/reconstruction reveal must remain evidence-earned and layered. One verified prior civilization is stronger than jumping to seven; number 8 cannot prove cycles.
+14. The recurring whole-manuscript `Chapter N` meta-reference convention remains separate prose debt; do not locally clean only recent chapters unless a deliberate manuscript-wide pass is chosen.
 
-Next routine audit target: **after roughly 4 Part IV writing slices**; earlier only if a structural reveal triggers another architecture checkpoint.
+Next routine audit target: **after roughly 3 more Part IV writing slices**; earlier only if a structural reveal triggers another architecture checkpoint.
