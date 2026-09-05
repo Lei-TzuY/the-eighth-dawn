@@ -3,14 +3,14 @@
 ## Current drafting state
 
 - Status: active drafting.
-- Latest completed正文：`chapters/072.md`〈不高興也可以〉。
-- Completed writing slices since last audit: **0**。
+- Latest completed正文：`chapters/073.md`〈另一邊也有它〉。
+- Completed writing slices since last audit: **1**。
 - Last audit: **Audit 018 completed after Chapter 072.**
-- Architecture status: **Architecture Checkpoint 004 completed after Chapter 064. Part III〈沒有前史的人〉continues; Part IV is not open.**
-- Next normal audit target: after roughly **4** normal writing slices, unless a true system-level bridge or Part III endpoint condition requires Architecture Checkpoint 005 earlier.
-- Current phase: late-middle Part III. The warning/consequence arc is complete; the next investigation turn must change problem type through an independently justified operational trigger.
+- Architecture status: **Architecture Checkpoint 005 completed after Chapter 073. Part III〈沒有前史的人〉continues; Part IV is not open.**
+- Next normal audit target: after roughly **3** more normal writing slices, unless a new endpoint condition requires another checkpoint earlier.
+- Current phase: late Part III. The first reliable system-level bridge now exists: the Part II historical-discontinuity operational lineage and the Part III preservation architecture share a directly verified institutional node, `市政連續性服務`; its meaning remains bounded and local.
 
-## Part III current state after Chapter 072
+## Part III current state after Chapter 073
 
 ### Identity / subject separation
 
@@ -44,19 +44,39 @@
 - Chapter 070: a junior restorer shadows Lin Che for a half day on an unrelated public-training transcript. Lin Che teaches scope by refusing to copy volunteer-name mappings or personal shift notes merely because they might be useful later, then answers the junior's direct question about his warning without hiding the original mistake. The warning remains active; the scene changes professional relationship and self-understanding, not case evidence or authority.
 - Chapter 071: the next emergency-intake roster makes the warning produce a concrete but bounded staffing cost. Lin Che remains fully active in ordinary external-media work and emergency support, but cannot serve as the single-person emergency intake lead while his control condition requires a second witness before acting on imminent-clear / unknown-state sources. He can request an exception but declines because he cannot show that the role is presently uniquely necessary for him. Supervisor trust is explicitly non-binary: she can trust him to teach and support while still withholding a role whose normal design requires unilateral first-minute action. No case evidence changes.
 - Chapter 072: an ordinary evening with his mother moves the consequence out of the workplace. Lin Che admits that he can judge the staffing restriction fair, decline an unnecessary exception, and still dislike losing the role. He stops treating every justified limit as something he must immediately convert into calmness, penance or a proof of personal growth. His mother neither excuses the original mistake nor demands emotional agreement with the consequence. No case evidence changes.
+- Chapter 073 does not reverse the trigger-only discipline. The new bridge comes from R-12's independent asset-release workflow, not from Lin Che requesting more case access. He remains a technical declarant and does not design the query or open the person sources.
 - Character principle now includes both sides of consent: **wanting truth does not create a right to open another person's data, but protecting someone also does not create a right to decide their future answer for them.** It now also has a professional counterpart: independent witnessing can preserve a source without giving one investigator unilateral ownership of the evidence. Chapters 071–072 add a further distinction: **a fair control can remain costly, and accepting its legitimacy does not require pretending the cost feels good.**
 
 ### Preservation-architecture turn
 
 - Chapter 063 established `持續可驗證保存 / CONTINUITY-WITNESS RETENTION`: preserve enough provenance/witness evidence to re-verify events after systems retire while personal identity mappings may expire separately.
 - Three independent 2162 sources each have ordinary reasons to enter the strategy; H-U01 being specially preserved is not established.
-- First local legacy name: **市政連續性服務**. Full legacy index remains unopened and is not linked to `MUNI-LEGACY/INGEST`, B-17, Part II discontinuity, 327 years, 8-prefix, ARK or civilization cycles.
+- First local legacy name: **市政連續性服務**. The full legacy index remains unopened.
 - Chapter 064's 2187 retention practice is thematic / institutional echo only, not lineage evidence.
 - Chapter 065 established the first direct evidence-earned relation between the preservation concept and an existing evidence layer: A-2162-03's retained witness table preserves contemporaneous cross-sensor object binding.
 - Chapter 066 adds an equally important constraint: **the strategy is purpose-specific, not a uniform or omniscient evidence copier.** A-2162-01／02 preserve different minimal relation sets because they were responsible for different claims.
-- This reduces the risk of accidentally turning `市政連續性服務` into a magic archive. Its full index still lacks a justified opening question.
+- Chapter 073 changes the model qualitatively. R-12's already-sealed lineage summary, during an independent asset-release check, yields a signed 2164 migration receipt whose issuer is **市政連續性服務**. The receipt only proves a cross-business handoff of legacy policy state in 2164; it does not validate the pre-handoff lineage and does not repair the 2158/2160 contradiction.
+- Existing source-level metadata independently shows that the same service owned the continuity-witness retention strategy used by A-2162-01／02／03. Therefore **a cross-branch common institutional node is now directly established.**
+- This does **not** establish that R-12 and H-U01 share an event, content source, person, cause, or hidden master system. It does not connect `市政連續性服務` to `MUNI-LEGACY/INGEST`, B-17, 327 years, 8-prefix, ARK or civilization cycles.
+- The R-12 migration receipt contains an unread `source-side continuity reference`. This is now a concrete, bounded question, but it is only a **candidate pending independent necessity review**. The full service index remains closed.
 
 ## Audit / architecture status
+
+### Architecture Checkpoint 005 — after Chapter 073
+
+**Decision: first reliable system-level bridge established; Part III continues; do not enter Part IV yet.**
+
+Checkpoint findings:
+
+- Did Chapter 073 satisfy Audit 018's required external operational trigger? **Yes.** The R-12 physical-asset release would have happened without Lin Che's person case and used the already-sealed Chapter 044 lineage summary.
+- Is the bridge stronger than a shared thematic word? **Yes.** A signed 2164 migration receipt directly names `市政連續性服務` as issuer for R-12's legacy policy-state handoff, while independent Chapter 063 metadata names the same service as owner of continuity-witness retention for A-2162-01／02／03.
+- Does this directly connect the historical-discontinuity operational branch and the person-source preservation branch to one verifiable institutional node? **Yes.** This is the first true cross-branch system relation.
+- Does it explain the 2158/2160 historical contradiction? **No.** The receipt is forward handoff evidence and explicitly does not certify pre-handoff lineage correctness.
+- Does it establish H-U01 identity, natural-human status, relation to Lin Che, ARK, reconstruction or civilization cycles? **No.**
+- Is the Part III endpoint fully reached? **Not yet.** The system-level bridge requirement is now met, and Lin Che has already paid real personal/evidentiary cost, but his complete 2187 biography and the 2162 adult historical-person relationship are not yet forced into the same larger explanatory model. The identity-side contradiction remains adjacent to, not explained by, the new institutional bridge.
+- Should Part IV open because the bridge exists? **No.** One bridge is enough to change the question, not enough to reveal civilization-scale reconstruction truth.
+
+Checkpoint 005 therefore changes late-Part-III framing: the question is no longer only “what was H-U01?” or “why were these sources preserved?” It is now also **why the same retired cross-department service sits in the verified handoff history of both a disputed trust lineage and the preservation architecture surrounding H-U01's sources.**
 
 ### Audit 018 — after Chapter 072
 
@@ -66,9 +86,8 @@
 - Chapter 072 deliberately changes scene function and setting. The consequence leaves the workplace, and Lin Che can now hold three facts together: his original decision was wrong, the current restriction is fair, and he still dislikes losing the role. This is character movement rather than another procedure lesson.
 - Chapter 067's **【未結／無主動查詢】** state survives the entire block. No alert, unrelated work source, junior-restorer interaction, roster change, family conversation, riverfront repair event or future roof-water-tank check creates a valid case trigger.
 - Evidence and consent gates remain intact: no family originals, anonymous transit/payment/address, T-04C person binding, left-brow reuse, A-2162-01／02 repeat checks or physical-carrier subtype expansion was reopened.
-- Pacing guardrail: the warning/procedure/staffing-cost arc is now **complete**. Do not write a fifth variation. Six chapters of mystery silence have been useful because they let the institutional and personal cost land; after this audit, the next investigation turn—whenever it occurs—must change problem type and arise for its own operational reason.
+- Pacing guardrail: the warning/procedure/staffing-cost arc is now **complete**. Do not write a fifth variation.
 - The recurring whole-manuscript `Chapter N` meta-reference convention remains a separate prose debt. Audit 018 does not perform a local cleanup; any future fix should be a deliberate manuscript-wide prose pass.
-- Part III endpoint is **not** reached. There is still no reliable system-level bridge and no evidence forcing Lin Che's complete present-day biography and H-2162-U01 into one larger explanatory model. **Architecture Checkpoint 005 is not required; Architecture Checkpoint 004 remains controlling; Part IV is not open.**
 
 ### Audit 017 — after Chapter 068
 
@@ -79,7 +98,6 @@
 - Chapter 068 advances the character arc without changing evidence: consent now includes both refusing unnecessary access and preserving another person's right to make their own informed choice if a legitimate question later arises.
 - Procedural density is acceptable across the four-slice block: 065–066 are technical, while 067–068 deliberately return to institutional and family consequence.
 - A recurring prose convention in older正文 uses meta references such as `Chapter N`. The same convention appears in this block, but it predates Audit 017 across many stable chapters. Do **not** locally rewrite only 065／068; if this is cleaned, do it later as a deliberate whole-manuscript prose pass.
-- Part III endpoint is **not** reached. There is still no reliable system-level bridge, no justified ARK-level concept, and no reason for Architecture Checkpoint 005. Architecture Checkpoint 004 remains controlling.
 
 ### Audit 016 — after Chapter 064
 
@@ -92,9 +110,8 @@
 - Part III has moved into person-relationship / preservation-architecture / legacy-bridge territory.
 - Chapter 062 fairly tested one bounded appearance/physical-carrier family.
 - Chapters 061 and 064 provided real human consequence.
-- `市政連續性服務` is evidence-earned but only local; it is not yet a reliable ARK bridge.
+- `市政連續性服務` was evidence-earned but only local at that point; Chapter 073 has now upgraded it to the first directly verified cross-branch institutional bridge.
 - Left-brow anomaly still lacks a new independent use condition.
-- Part III may extend beyond Chapter 070 if endpoint conditions are not earned.
 
 ## Slice log — compressed
 
@@ -114,6 +131,7 @@
 - **070**：junior-restorer shadowing turns Lin Che's warning from a private stigma into openly explainable professional experience; he teaches purpose-limited working copies and admits the prior unauthorized retention without treating later usefulness as retroactive permission.
 - **071**：the next emergency-intake roster excludes Lin Che from single-person first-response lead duty because that role conflicts with his still-active second-witness control; he remains on emergency support, declines to seek an exception without necessity, and learns that trust can be task-specific rather than all-or-nothing.
 - **072**：riverfront repair-night outing moves the staffing consequence into mother/son life; Lin Che allows himself to dislike a fair restriction without seeking an exception, blaming others or converting the feeling into a redemption narrative. No mystery evidence changes.
+- **073**：R-12's independent asset-release workflow validates a signed 2164 migration receipt issued by `市政連續性服務`; existing Chapter 063 metadata independently places the same service over A-2162-01／02／03 continuity-witness retention. First verified cross-branch institutional node established; full legacy index remains closed.
 
 ## Next-slice handoff
 
@@ -121,15 +139,15 @@ Next run must re-read live repo, fixed bible/continuity/progress and latest 2–
 
 Priorities:
 
-1. **Audit 018 is complete. Normal drafting may resume.** Completed writing slices since audit = 0. Part III remains active; Part IV is not open.
-2. **Do not write another warning / procedure / roster / redemption lesson.** Chapters 069–072 have completed that arc. Reusing it as the primary dramatic engine would now be repetition, even in a new setting.
-3. Preserve Chapter 067's trigger-only state. The next mystery beat must satisfy the trigger rule independently: an external operational event that would have occurred without Lin Che's case, or an existing source that produces a new differentiating relation during another legitimate process.
-4. The next investigation beat must **change problem type**. High-value forms include a direct lineage/migration relation involving an established case object, a stable system identifier recurring across truly independent preserved contexts where ordinary municipal reuse is insufficient, an operational behavior connecting an established historical anomaly to a present consequence, or another cross-time person/institution fact that does not depend on new sensors or identity fishing.
-5. A future trigger is not automatically permission to open the full `市政連續性服務` index. First establish the concrete question; then use the narrowest source capable of answering it.
-6. If no evidence-earned trigger exists on the next live-state review, do not manufacture one because the mystery has been quiet. A clean time advance or a bounded scene with a genuinely different dramatic function is acceptable only if it actually advances event/relationship/risk/choice. If nothing substantive is available, a true NO-OP is preferable to a fake breadcrumb.
-7. Chapter 072's repaired fan, riverfront event and future roof-water-tank check remain ordinary family/community life and are **not** latent case hooks.
-8. T-04C person binding, anonymous transit/payment/address, family originals, left-brow reuse, A-2162-01／02 repeat checks and physical-carrier subtype expansion remain held.
-9. `市政連續性服務` stays separate from `MUNI-LEGACY/INGEST`, B-17, Part II discontinuity, 327 years, 8-prefix and ARK unless direct evidence links them. Do not reveal ARK / reconstruction / clone / time-travel / civilization-cycle explanations.
-10. If a true system-level bridge or Part III endpoint condition appears, stop and run **Architecture Checkpoint 005** before writing through it.
+1. **Architecture Checkpoint 005 is complete. Part III remains active.** Completed writing slices since Audit 018 = 1.
+2. Chapter 073 is a landmark turn; do not immediately dilute it by opening the full `市政連續性服務` index or adding a second unrelated mystery box.
+3. The only newly justified technical candidate is **R-12／2164 migration receipt／`source-side continuity reference` limited resolution**. Before reading it, an independent necessity review must confirm that it is the narrowest source capable of answering the concrete question: *what direct source witness did the 2164 migration receipt rely on for this disputed lineage?*
+4. If the limited reference is approved, read only that reference and the minimum verification metadata needed to establish its provenance. Do not expand to service-wide policy, other nodes, user/person data or a full index catalogue.
+5. A normal result remains possible and must be treated fairly. The reference may simply point to ordinary pre-2164 policy-state evidence. Do not write the system as ominous merely because the shared service name now matters.
+6. If the reference creates a direct relation that forces B-CURRENT／Lin Che's complete present biography and H-2162-U01 into the same larger explanatory model, stop for an endpoint checkpoint before continuing. Do not jump straight to ARK.
+7. The person case's active-search restrictions remain: no T-04C binding, anonymous transit/payment/address, family originals, left-brow reuse, new sensors, A-2162-01／02 repeat checks or carrier subtype catalogues.
+8. `市政連續性服務` is now directly linked to the R-12 migration lineage, but it remains **unlinked** to `MUNI-LEGACY/INGEST`, B-17, 327 years, 8-prefix, ARK or civilization cycles absent new direct evidence.
+9. Do not reveal ARK / reconstruction / clone / time-travel / civilization-cycle explanations. Lin Che remains an affected person / technical declarant, not a query designer.
+10. After Chapter 073, give the landmark fact enough narrative weight. A follow-up can be a bounded necessity decision, a reaction/institutional consequence, or the narrow reference read if approved; avoid burying the bridge under another long result table.
 
-Next routine audit target: after roughly **4 normal writing slices**; earlier only for a structural problem or true system-level bridge.
+Next routine audit target: after roughly **3 more normal writing slices**; earlier only for a new structural endpoint condition.
