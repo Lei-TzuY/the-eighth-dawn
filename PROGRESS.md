@@ -3,14 +3,14 @@
 ## Current drafting state
 
 - Status: active drafting.
-- Latest completed正文：`chapters/068.md`〈不要替我說不〉。
-- Completed writing slices since last audit: **0**。
+- Latest completed正文：`chapters/069.md`〈兩個人一起看〉。
+- Completed writing slices since last audit: **1**。
 - Last audit: **Audit 017 completed after Chapter 068.**
 - Architecture status: **Architecture Checkpoint 004 completed after Chapter 064. Part III〈沒有前史的人〉continues; Part IV is not open.**
-- Next normal audit target: after roughly **4 more** normal writing slices, unless a structural problem or new system-level bridge requires an earlier stop.
+- Next normal audit target: after roughly **3 more** normal writing slices, unless a structural problem or new system-level bridge requires an earlier stop.
 - Current phase: late-middle Part III, moving from source/mechanism testing into person-relationship / preservation-architecture / evidence-earned legacy bridge.
 
-## Part III current state after Chapter 068
+## Part III current state after Chapter 069
 
 ### Identity / subject separation
 
@@ -40,7 +40,8 @@
 - Chapter 066: Lin Che accepts that stronger evidence at one ordinary platform does not entitle him to manufacture the same evidence at two work sites. He explicitly tolerates source asymmetry instead of treating every missing relation as a hidden answer.
 - Chapter 067: the institutional consequence becomes explicit. With no safe, necessary, model-changing active query left, the人物案件 moves to **未結／無主動查詢** with external-new-evidence triggering only. Lin Che does not pin the case back to his workspace or treat unresolved importance as a reason to keep searching.
 - Chapter 068: Lin Che's mother explicitly rejects being protected by a pre-emptive refusal. She submits no new family data and does not reopen any gate, but asks that if a future specific, necessary family-data question genuinely arises, the question and risks be presented to her so **she** can decide whether to consent.
-- Character principle now includes both sides of consent: **wanting truth does not create a right to open another person's data, but protecting someone also does not create a right to decide their future answer for them.**
+- Chapter 069: an unrelated heat-network source reaches an imminent-clear / source-state-unknown condition. Lin Che invokes his existing six-month dual-witness rule before touching content, preserves one institution-controlled source-state snapshot with a second restorer, and keeps no private copy. The warning remains in force, but for the first time functions on-page as a useful working control rather than only a punishment marker. The人物案件 remains silent throughout.
+- Character principle now includes both sides of consent: **wanting truth does not create a right to open another person's data, but protecting someone also does not create a right to decide their future answer for them.** It now also has a professional counterpart: independent witnessing can preserve a source without giving one investigator unilateral ownership of the evidence.
 
 ### Preservation-architecture turn
 
@@ -94,6 +95,7 @@
 - **066**：A-2162-01／02 purpose-specific preservation relations do not contain equivalent physical-event binding; cross-time physical-event continuity remains unestablished and no sensor-fishing is permitted.
 - **067**：case enters unresolved / no-active-query, external-evidence-triggered state; Lin Che accepts that a legitimate investigation may have no next step without treating silence as closure.
 - **068**：mother/son consent boundary reverses direction: no family data is submitted, but Lin Che agrees not to pre-emptively refuse a future genuinely necessary question on his mother's behalf.
+- **069**：unrelated imminent-clear media job puts the Chapter 026 dual-witness warning into ordinary practice; source state is preserved with a second restorer, no private copy is made, and the人物案件 remains trigger-only and silent.
 
 ## Next-slice handoff
 
@@ -101,15 +103,15 @@ Next run must re-read live repo, fixed bible/continuity/progress and latest 2–
 
 Priorities:
 
-1. **Audit 017 is complete. Normal drafting may resume.** Part III remains active; Part IV is not open and Architecture Checkpoint 005 is not yet warranted.
-2. Preserve Chapter 067's trigger-only state. Do **not** invent a convenient alert merely because the audit is finished. If no independently justified trigger exists, a normal-work／city／relationship slice is valid.
-3. Any later investigation beat must independently satisfy the trigger rule and **change problem type**. High-value progress should alter an established relationship, an operational architecture, or what can legitimately be asked—not repeat a source catalogue.
-4. Chapter 068 does **not** reopen family data and is not pre-consent. If a future family-data question becomes genuinely necessary, Lin Che's mother must receive the specific question and risks and decide for herself.
-5. Do not repeat A-2162-01／02 preservation checks; do not hunt new sensors, cameras or carrier subtypes merely to manufacture cross-time physical continuity.
-6. `市政連續性服務` stays separate from `MUNI-LEGACY/INGEST`, B-17, Part II discontinuity, 327 years, 8-prefix and ARK unless direct evidence links them. Full index remains closed.
-7. T-04C person binding, anonymous transit/payment/address, family originals, left-brow reuse and physical-carrier subtype expansion remain held.
-8. Do not reveal ARK / reconstruction / clone / time-travel / civilization-cycle explanations.
-9. Keep Lin Che as an affected person, not a query designer. His agency remains consent, refusal, interpretation, boundaries, waiting, and accepting another person's right to make their own informed choice.
+1. Audit 017 remains complete; Chapter 069 is the **first** post-audit writing slice. Normal drafting may continue. Part III remains active; Part IV is not open and Architecture Checkpoint 005 is not yet warranted.
+2. Preserve Chapter 067's trigger-only state. Chapter 069 deliberately proves that the novel can move through ordinary professional consequence without manufacturing a case alert; do not immediately negate that by turning the heat-network job into hidden case evidence.
+3. Chapter 069's heat-exchange source is ordinary and unrelated. Do **not** connect it retroactively to `市政連續性服務`, Part II discontinuity, 327 years, B-17, 8-prefix or ARK merely because it uses source preservation / dual witnessing.
+4. The next high-value investigation beat, whenever it occurs, must independently satisfy the trigger rule and **change problem type**. Prefer an event or relation that has its own operational reason to surface, rather than another preservation table, camera, sensor or carrier subtype.
+5. Avoid a repetitive fourth consecutive "the case is silent" scene. If no legitimate trigger exists next run, normal work / city / relationship material is still valid, but it should create a different consequence, risk, obligation or relationship change rather than restating waiting itself.
+6. Chapter 068 still does **not** reopen family data and is not pre-consent. If a future family-data question becomes genuinely necessary, Lin Che's mother must receive the specific question and risks and decide for herself.
+7. T-04C person binding, anonymous transit/payment/address, family originals, left-brow reuse, A-2162-01／02 repeat checks and physical-carrier subtype expansion remain held.
+8. `市政連續性服務` stays separate from `MUNI-LEGACY/INGEST`, B-17, Part II discontinuity, 327 years, 8-prefix and ARK unless direct evidence links them. Full index remains closed.
+9. Do not reveal ARK / reconstruction / clone / time-travel / civilization-cycle explanations. Keep Lin Che as an affected person, not a query designer.
 10. If a true system-level bridge or Part III endpoint condition appears, stop and run an architecture checkpoint before writing through it.
 
-Next routine audit target: after roughly **4 more** normal writing slices.
+Next routine audit target: after roughly **3 more** normal writing slices.
