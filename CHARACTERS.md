@@ -8,7 +8,7 @@
 - 外觀／識別：左眉骨有一道很淺的凹痕；11 歲時從維修梯摔落後留下。
 - 性格基線：理性，習慣先排除技術性錯誤；並非天生反程序。第一晚未授權保留、完整性稽核與後續利益衝突處置後，已把「獨立驗證」視為結果可信度的一部分。
 
-### Current state after Chapter 076
+### Current state after Chapter 079
 
 - 不持有原始來源晶片或離線診斷晶片；封存副本由資料完整性室保管，編號 `DI-2187-0612-4431`。
 - 保有紙本現場筆記、四組原始雜湊與完整性室正式收據；沒有第二份完整影像副本。
@@ -38,10 +38,13 @@
 - Chapter 074：接受共同制度節點不能反過來替 R-12 擴權；`source-side continuity reference` 只有在 R-12 自身 lineage 必要性下獲得單一參照解析，林澈仍不執行查詢。
 - Chapter 075：知道該 reference 只指向由原業務維運域形成、由 `市政連續性服務` 保存見證的 2163-Q4 lineage checkpoint；接受後續 continuity witness 可以真實可靠，卻不能替更早的歷史背書。
 - Chapter 076：因同時是歷史支線技術陳述人與人物支線受影響當事人，直接涉及 shared node 的 live lineage interpretation／candidate formation／scope-expansion discussion 改由獨立端先行；他保留普通工作、既有技術陳述與本人資料權利，並選擇繼續接收獨立覆核完成後的正式相關結果摘要。
+- Chapter 077：把 conflict-of-interest firewall 的意義帶回私人生活；接受「自己不在場」不會讓一個可重驗、可稽核的結果自動失去可信度，也不把沒有通知解讀成壓制或祕密。
+- Chapter 078：在普通公共記憶站工作中，支持較資淺修復員自行區分來源修復與明示重建；接受一個標示清楚的重建版本可以有私人紀念價值，但不能冒充被找回的歷史內容，也沒有把別人的 4.2 秒缺失強行投射成自己的案件。
+- Chapter 079：教育封存中心例行 verification-wrapper 轉置自然 surfaced 一筆 2164 `subject-separation witness`。林澈只同意將新 surfaced metadata 用於既有人物關聯覆核，依 Chapter 076 firewall 不看 counterpart／live candidate interpretation；獨立定案後才得知 local side 是自己 2162 兒童教育主體，counterpart root exact-match 到 A-2162-02 sealed subject-region witness，2164 disposition 為 `DO NOT MERGE`，reason 為同年 chronology／age-state incompatibility。林澈知道這證明兩端的制度關係早於 2187 本案，但**不知道 2164 candidate 為何最初形成**，也不把 landmark 當成開 service index／T-04C／交通／家庭／左眉等 held gate 的許可。
 
 ### Current character arc
 
-林澈已從「證明那個人是不是我」轉向「先讓那個人作為獨立歷史主體留下自己的證據」。他的核心成長不再只是變得更守程序，而是理解：
+林澈已從「證明那個人是不是我」轉向「先讓那個人作為獨立歷史主體留下自己的證據」，並在 Chapter 079 之後進入更難的一層：**兩端確實早已被歷史制度放進同一個問題，但這仍不等於答案已經是『同一個人』。** 他的核心成長不再只是變得更守程序，而是理解：
 
 - 相似不等於佔有；
 - 想知道不自動等於有權打開；
@@ -51,10 +54,12 @@
 - 一個問題可以保持重要且未解，而不產生永久擴張搜尋的權利或義務；
 - 尊重他人資料邊界不只是不替對方打開資料，也包括在真正需要本人同意時，不以保護為名替本人預先作答；
 - 信任、權限與能力可以是任務特定的，不需要被理解成「完全可信／完全不可信」二選一；
-- 接受一個公平限制，不等於必須喜歡它，也不等於要把不舒服立即修理成道德成長故事。
-- 想知道最後答案，不等於必須參與形成答案；當證據越接近自己的利益，讓獨立端先把結論做完本身就是可信度的一部分。
+- 接受一個公平限制，不等於必須喜歡它，也不等於要把不舒服立即修理成道德成長故事；
+- 想知道最後答案，不等於必須參與形成答案；當證據越接近自己的利益，讓獨立端先把結論做完本身就是可信度的一部分；
+- 可驗的歷史關係可以成立，而同一身份／機制仍然未知；「以前就有人把兩端放在同一問題裡」不允許他跳過證據去填答案；
+- 真正的 structural reveal 應該改變他能問的問題，而不是自動擴張他能打開的資料。
 
-Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違規：他現在能接受**留下足夠回答問題的東西，而不是留下能留下的一切。** Chapters 065–066 又把這個原則推進一層：他能接受一份來源回答得更深、另外兩份只保留各自原本有責任回答的問題，而不為了完整感去製造新的證據。Chapters 067–068 把界線從「何時停止查」推到「誰有權決定」；Chapters 069–072 則把抽象界線轉成普通工作、同事關係、實際職務成本與家庭生活。林澈現在不只會停手，也開始能在不自我洗白的前提下繼續工作、被部分信任、承擔限制，並保留自己的不高興。 Chapters 073–076 再把界線推到跨支線制度橋接後的角色治理：共同節點愈可能碰到他的身份利益，他愈不能坐在 live interpretation 的最前排；他仍選擇知道獨立覆核後的正式結果，但不參與把候選與推論做出來。
+Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違規：他現在能接受**留下足夠回答問題的東西，而不是留下能留下的一切。** Chapters 065–066 又把這個原則推進一層：他能接受一份來源回答得更深、另外兩份只保留各自原本有責任回答的問題，而不為了完整感去製造新的證據。Chapters 067–068 把界線從「何時停止查」推到「誰有權決定」；Chapters 069–072 則把抽象界線轉成普通工作、同事關係、實際職務成本與家庭生活。Chapters 073–076 把界線推到跨支線制度橋接後的角色治理；Chapter 077 讓他接受可信結果不必由自己親眼看著形成；Chapter 078 讓他把「修復／重建」區分交給另一名修復員實際承擔。Chapter 079 最終讓他接受：即使歷史已經證明「兩端曾經被同一制度放進一個 continuity candidate」，他仍必須停在 `candidate-origin basis` 未知的位置，不用 landmark 替自己越權。
 
 ### Knowledge boundary
 
@@ -65,16 +70,21 @@ Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違�
 - B-CURRENT 當代模板來源鏈正常；A-2162-01／02 人物區域在各自最早可驗保存狀態即已存在。
 - T-04C 的工作功能與責任指派世代可由非人事資料支持，但沒有人物—憑證直接橋接。
 - 2162 年自己的兒童期存在已有教育封存鏈獨立支持；普通單一人生無法同時容納兒童林澈與成年 H-2162-U01。
-- Chapter 055 的主體分離是證據治理，不是人物關係結論。
+- Chapter 055 的主體分離是 2187 證據治理，不是人物關係結論。
 - A-2162-03 只支持 H-2162-U01 的獨立公共情境；不能證明住址、支付身份、生活關係或與林澈同一身份。
 - Chapter 057–062 已逐步削弱簡單共同二維重用、普通隱私替代、正常來源端回放、純視覺投影／完全無物理載體、最簡單剛性平面載體等模型，但沒有證明真人。
 - Chapter 065 建立 A-2162-03 的影像人物追蹤與兩套非影像物理占位資料在 2162 當時已屬同一匿名事故物件；這不是 2187 後設配對。
 - Chapter 066 建立 A-2162-01／02 沒有保存等價的 contemporaneous physical-object binding，而此缺少與各自原始保存目的相容；H-2162-U01 的跨時間物理事件連續性仍未建立。
-- Chapter 067 起人物案件為【未結／無主動查詢】：沒有下一次主動覆核排程，只有獨立新來源、既有來源於其他合法作業自然產生的新可區辨關係，或法定必要性改變才足以觸發重新評估。
-- Chapter 068 後家庭資料 gate 仍關閉且沒有預先同意；他知道若未來真的形成具體必要的家庭資料問題，必須把用途／風險交給母親本人決定，而不是替她先說不。
+- Chapter 067 起人物案件為【未結／無主動查詢】：只有獨立新來源、既有來源於其他合法作業自然產生的新可區辨關係，或法定必要性改變才足以觸發重新評估。
+- Chapter 068 後家庭資料 gate 仍關閉且沒有預先同意；若未來形成具體必要的家庭資料問題，必須把用途／風險交給母親本人決定。
 - Chapter 069–072 沒有讓人物案件重新啟動，也沒有新增身份、legacy、家庭或物理載體證據。
-- Chapter 073–076 建立並界定一個直接可驗的跨支線制度節點：R-12 的 2164 migration receipt 與三份人物來源保存策略都指向 `市政連續性服務`；R-12 線上可重驗 boundary 只到 2163-Q4 checkpoint → 2164 migration，且 Chapter 076 後林澈不參與 shared-node live interpretation，只接收獨立定案後與既有技術陳述／本人權益直接相關的正式摘要。
-- `市政連續性服務` 已被直接驗證為 R-12 2164 migration lineage 與 A-2162-01／02／03 preservation architecture 的共同制度節點；在 R-12 線上目前只證明它保存／見證由原業務形成的 2163-Q4 checkpoint 並支援後續交接，不證明內容起源、歷史修補或共同異常成因；完整舊索引仍未展開。
+- Chapter 073–076 建立並界定跨支線制度節點：R-12 的 2164 migration receipt 與三份人物來源保存策略都指向 `市政連續性服務`；R-12 線上可重驗 boundary 只到 2163-Q4 checkpoint → 2164 migration，且 Chapter 076 後林澈不參與 shared-node live interpretation，只接收獨立定案後與既有技術陳述／本人權益直接相關的正式摘要。
+- Chapter 077 後，他知道可稽核程序的可信度不依賴自己親自在場。
+- Chapter 078 後，他知道清楚標示的生成重建可以有合法情感用途，但不能取代來源缺失；他也能讓較資淺修復員自行守住這條專業界線。
+- Chapter 079 後，他知道 `市政連續性服務` 在 2164 年已對自己的 2162 教育主體與 A-2162-02 subject region 建立過 subject-continuity candidate，最後因同年 age-state conflict 設為 `DO NOT MERGE`；這筆 relation 早於 2187 本案。
+- Chapter 079 後，他也知道 `candidate-origin basis` 沒有被這份 minimal witness 保存，因此現在**不知道當時什麼訊號、lineage 或 ordinary migration rule 讓兩端先成為 candidate**。
+- Chapter 079 的 A-2162-02 root relation 是 migration／subject-governance metadata，不是 physical-event binding，也不證明真人。
+- `市政連續性服務` 目前已被直接驗證具有至少三種 ordinary duty：A01–03 continuity-witness strategy ownership、R-12 migration／checkpoint witness、2164 subject-separation merge-safety；仍不證明它是內容起源、歷史修補引擎、identity originator 或隱藏主系統。
 - 2187 的現行姓名映射到期實務與 2162 舊服務只有主題／制度方向相似，沒有已建立 lineage。
 - 2158／2160 已確認形成跨系統歷史時間不一致，但不能替身份結論加權。
 - 未解析檔案頭存在 64-bit 週期與 8 次固定前綴，含義未知。
@@ -83,11 +93,12 @@ Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違�
 - 共同絕對紀元基準為何落在距今 327 年。
 - `H-2162-U01`、封存影像男子、T-04C 持證人彼此是否為同一人。
 - 2162 兒童林澈與成年 H-2162-U01 的真實關係。
+- 2164 subject-continuity candidate 最初形成的原因／依據／上游訊號。
 - H-2162-U01 在 A-2162-03 中從哪裡來、要去哪裡、住在哪裡或和誰有生活關係。
 - A-2162-03 影像中的臉是否確實屬於同時被非影像設備感測到的物理占位主體。
 - 該物理占位究竟是自然人、物理替身、三維載體／穿戴式外觀或其他物理對象。
 - A-2162-01／02 是否使用來源端生成／驗收混合／其他第一代媒體生成路徑。
-- `市政連續性服務` 的完整制度定義、完整索引、2164 後拆分細節或是否與其他 legacy 系統有直接關聯。
+- `市政連續性服務` 的完整制度定義、完整索引、2164 後拆分細節，或是否與其他 legacy 系統有直接關聯。
 - `CIM-4R-7714` 是否曾直接拍攝封存影像。
 - 2158／2160 歷史不一致真正成因。
 - ARK、七次文明滅亡／重建或任何文明循環機制。
@@ -96,7 +107,7 @@ Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違�
 
 - 林澈的直接主管，正常制度角色。
 - 維持林澈案件利益衝突界線與來源鏈／封存媒介禁權。
-- 已知 Chapter 014–076 的主要受控覆核、ordinary false-resolution、歷史 discontinuity、營運後果、人物關聯結果與 shared-node 角色邊界。
+- 已知 Chapter 014–079 的主要受控覆核、ordinary false-resolution、歷史 discontinuity、營運後果、人物關聯結果、shared-node 角色邊界與 Chapter 079 identity-convergence result。
 - Chapter 061 知道林澈承認想追匿名乘車序列但選擇不要求重啟；沒有鼓勵繞過程序。
 - Chapter 062 與林澈一起看見最簡單平面載體支持下降，仍沒有替他下「真人／模型／物理人」超出證據的結論。
 - Chapter 063 知道 `持續可驗證保存` 與 `市政連續性服務` 的最窄普通保存含義；知道舊制度索引存在但未展開。
@@ -108,6 +119,9 @@ Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違�
 - Chapter 071 維持任務特定信任：她可以信任林澈帶人與做緊急支援，同時不建議他在控制條件仍有效時申請需要單人首決的緊急首接主值例外。
 - Chapter 073–075 知道 `市政連續性服務` 的 verified shared-node relation、R-12 最窄 reference 解析與 2163-Q4 lineage boundary，但沒有把 ordinary continuity-witness role 升格成隱藏主系統。
 - Chapter 076 與林澈一起收到交叉角色邊界結果；接受 shared-node live interpretation 由獨立端先行，同時維持林澈普通工作與既有技術陳述職能。
+- Chapter 077 知道林澈仍會因不在場而焦慮，但沒有替他繞開 firewall 或暗示沉默可疑。
+- Chapter 078 讓林澈與較資淺修復員正常外勤，未把其變成正式導師職或案件 trigger。
+- Chapter 079 與林澈一起收到 education-wrapper surfaced metadata 和 independent finalized summary；知道 2164 witness 把兒童林澈教育主體與 A-2162-02 subject region 放入同一 candidate 後 `DO NOT MERGE`，也知道 candidate-origin basis 缺失、active search 未開、scope expansion 因 architecture checkpoint 暫停。她不得把此結果說成同一身份／ARK／重建證據。
 - Chapter 026 明確承認林澈違規成立但不建議停職；沒有用後來證據替其免責。
 - 不知道 ARK、文明循環、影像男子身份或 327 年標記真假；不得寫成隱藏知情者。
 
@@ -121,10 +135,14 @@ Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違�
 - Chapter 061 也知道存在進一步追匿名乘車事件的可能，但林澈選擇在沒有新必要性時不要求重啟。
 - Chapter 062–066 沒有向她新增技術案件資訊；Chapter 068 由林澈告知人物案件目前暫時沒有主動查詢／沒有夠好的下一步。
 - Chapter 072 從林澈得知六個月控制條件會暫時讓他不能排單人緊急首接主值，但其他工作與薪資照常；她沒有因此取得任何新的案件技術資訊。
-- 她仍不知道 T-04C、工作包、A-2162-03 代碼、Chapter 057–059 技術細節、Chapter 062 平面載體覆核、Chapter 063–066 保存架構／事件關係細節、Chapter 073–076 跨支線制度橋接／R-12 lineage／角色 firewall、2158／2160 discontinuity、327 年標記真假、ARK 或文明循環。
-- Chapter 045–076 沒有重新取得家庭影像身份建模／家族推論用途同意；她沒有提交新資料，也沒有成為案件參與者。
+- Chapter 077 只以高層次知道：有一部分可能碰到林澈本人利益的調查，現在必須先由獨立端形成結論，林澈只能在完成後接收正式相關摘要。她不知道 shared-node 名稱或技術細節。
+- Chapter 078 沒有收到新的案件資訊。
+- **Chapter 079 尚未向她告知新 2164 subject-separation witness 或 identity-convergence 結果。** 下一輪不得讓她無來源地知道該事實。
+- 她仍不知道 T-04C、工作包、A-2162-03 代碼、Chapter 057–059 技術細節、Chapter 062 平面載體覆核、Chapter 063–066 保存架構／事件關係細節、`市政連續性服務` 名稱與 Chapter 073／079 制度關係、Chapter 074–075 R-12 lineage、2158／2160 discontinuity、327 年標記真假、ARK 或文明循環。
+- Chapter 045–079 沒有重新取得家庭影像身份建模／家族推論用途同意；她沒有提交新資料，也沒有成為案件參與者。
 - Chapter 068 她主動要求保留自己的未來選擇權：若日後真的出現具體、必要且現有資料無法回答的家庭資料問題，必須先向她說明用途、衍生資料、可見範圍與保存風險，再由她本人決定；這不是預先同意，也不代表家庭 gate 已鬆動。
 - Chapter 072 她不替林澈否認原錯誤，也不要求他對公平限制感到平靜；她接受「限制合理／代價真實／本人仍不高興」可以同時成立。
+- Chapter 077 她提出：若未來得到一個林澈不喜歡但流程站得住的答案，先判斷它是否站得住，而不是要求自己先喜歡它。
 
 ## 值班稽核員（姓名未定）
 
@@ -138,6 +156,7 @@ Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違�
 - 曾完成受控內容覆核、無候選提示身份比對、表面特徵有限比較、未識別人物群集、盲式反射字形、2162 未命名人物 ↔ B-CURRENT 直接比較、A-2162-01 ↔ A-2162-02 內部一致性覆核、Chapter 057 三來源人物素材複用檢驗，以及 Chapter 058–066 的人物替代／來源端回放／非影像占位／平面載體／保存架構／既有見證關係界定。
 - 維持：兩份 2162 影像各自跨門檻不能與既有 97.6% 相加；`H-2162-U01` 只是暫定人物節點；三來源場景相容性、`LIVE-SENSOR`、非影像物理占位、多姿態幾何或保存架構都不能單獨升格成真人身份。
 - Chapter 065–066 明確維持「事件級物理綁定成立 ≠ 自然人／真實外觀成立」與「其他來源沒保存同類關係 ≠ 有人刻意移除」。
+- Chapter 079 的 A-2162-02 subject-separation relation 若後續需要內容覆核端參與，也只能作為 historical subject-governance relation；不能因此把先前的 face/source evidence 升格成同一身份或真人結論。
 - 未建立為盟友、反派或知情者。
 
 ## 系統稽核員（姓名未定）
@@ -153,6 +172,7 @@ Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違�
 - Chapter 045 參與分案：歷史完整性支線不再以林澈為必要來源，人物身份另行受控。
 - Chapter 073–075 維持 R-12 自身 lineage necessity：驗證 2164 migration receipt、核准單一 source-side reference 並在 2163-Q4 boundary 回答成立後停止，不開 checkpoint payload 或完整服務索引。
 - Chapter 076 起，shared-node 的 live interpretation／candidate formation 由獨立端先行；林澈只在既有技術陳述或本人權益需要時接收定案摘要。
+- Chapter 079 的 independent finalized result 延續同一治理方向：新 surfaced witness 可以形成 model-changing conclusion，但不因此自動開 full service index 或其他 held identity gates。
 - 不知道 ARK、文明循環或已確認的改史者／動機。
 
 ## 影像中的男子
@@ -163,7 +183,8 @@ Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違�
 - Chapter 012 歷史命名身份索引沒有達門檻候選。
 - Chapter 018 找到兩份 2162 正常市政媒體中的未命名高外觀相容人物；Chapter 049 後它們支持合併為 `H-2162-U01`，但不能判定該人物與封存男子為同一身份。
 - Chapter 056 又有第三份獨立 2162 軌道安全來源被納入 `H-2162-U01`，仍沒有建立封存影像男子＝H-2162-U01。
-- Chapter 057–076 的來源模型、物理占位、事件級綁定、平面載體、保存架構、trigger-only 狀態、職務後果、跨支線制度橋接、角色 firewall 與 consent 選擇都沒有新增封存男子本身的身份證據。
+- Chapter 057–078 的來源模型、物理占位、事件級綁定、平面載體、保存架構、trigger-only 狀態、職務後果、跨支線制度橋接、角色 firewall、private trust 與 reconstruction scene 都沒有新增封存男子本身的身份證據。
+- Chapter 079 新增的不是封存影像男子身份證據，而是 **A-2162-02 subject region 與兒童林澈教育主體在 2164 已存在 subject-continuity candidate／separation relation**。這使 H-2162-U01 來源與林澈普通童年來源的 historical relation 成立，但仍不能判定封存影像男子＝H-U01、H-U01＝林澈，或任何生物／法律身份機制。
 - 左眉區域存在可跨 3 個有效影像幀追蹤的穩定表面凹陷；與林澈後天眉骨凹痕解剖位置高度相容、長軸方向中高相容，但形狀邊界與深度不足。
 - 凹陷是否真為傷痕、成因、身份、年代、是否與林澈存在血緣／人格／重建關係：全部未確定。
 
