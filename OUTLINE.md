@@ -20,16 +20,16 @@
 - 2158 水務原件已記錄一把信任錨公鑰，而獨立金鑰／設備證明鏈顯示同一公鑰直到 2160 才以 `GENERATE_NEW` 首次產生。
 - 兩側均有外部／實體見證；正式狀態：**跨系統歷史時間不一致／已確認；成因未定。**
 - 「追補年度歸屬」與「災後信任延續復原」兩種 ordinary repair 均被公平測試，但指定物件缺必要制度痕跡。
-- Chapter 044 的 `R-12` 因爭議 lineage 無法背書而永久從 2187 乾淨重新註冊。
+- Chapter 044 的 `R-12` 因爭議 lineage 無法背書而永久從 2187 乾淨重新註冊；舊控制閘道只留下有限 lineage 狀態保全，不升格成案件證物。
 - Part II endpoint：案件成為歷史問題，而不只是媒體鑑識問題；仍不證明刻意改史、ARK、文明循環或 327 年真實年代。
 
 ## Part III — 沒有前史的人 — active from Chapter 045
 
 ### Narrative objective
 
-把身份問題獨立建立到足以與歷史問題並列，但不讓兩者互相偷渡證據。
+把身份問題獨立建立到足以與歷史問題並列，但不讓兩者互相偷渡證據；並在證據真正成熟時，讓兩條支線由可驗制度關係而不是主題相似性發生接觸。
 
-> **林澈明明有完整、普通而可獨立驗證的當代人生，為什麼 2162 年又存在一個成年歷史人物，愈來愈難用普通來源機制解釋？**
+> **林澈明明有完整、普通而可獨立驗證的當代人生，為什麼 2162 年又存在一個成年歷史人物，愈來愈難用普通來源機制解釋？而現在，為什麼保存這個歷史人物來源的制度節點，也出現在已確認歷史 discontinuity 的 lineage 交接史裡？**
 
 ### Chapter 045–049 — separate the subject
 
@@ -76,21 +76,30 @@
 - Chapter 072：後果移到普通家庭／公共生活；林澈接受「限制合理」與「仍然不喜歡」可以同時成立，不再把每個代價都強迫轉譯成贖罪或成長證明。
 - Chapters 069–072 **沒有任何人物案件新證據，也沒有合法 trigger**；不得日後 retroactively 把熱網來源、降溫站口述、輪值表、修繕夜市、風扇或屋頂水槽倒接為 mystery evidence。
 
+### Chapter 073 — first cross-branch institutional bridge
+
+- R-12 舊控制閘道的正常資產釋放／銷毀前覆核構成獨立 operational trigger；它本來就會發生，並非人物案件主動搜尋。
+- 只讀 Chapter 044 已封存的有限 lineage 摘要上游見證，得到一張簽章有效的【2164 市政資料整併／lineage state migration】receipt；簽發主體為 **`市政連續性服務`**。
+- receipt 只證明 legacy policy state 在 2164 完成跨業務交接；**不證明交接前 lineage 正確，也不修復 2158／2160 矛盾。**
+- 既有 Chapter 063 source-level metadata 又獨立證明 A-2162-01／02／03 的 `持續可驗證保存` 策略所有者也是同一服務。
+- 因此第一次可正式建立：**Part II 歷史 discontinuity 營運 lineage 與 Part III 人物來源 preservation architecture 共享同一可驗制度節點。**
+- 不得推論 R-12 與 H-2162-U01 有人物／事件關聯，不得推論該服務造成歷史不一致，也不得把「共同服務」偷換成共同內容來源或隱藏主系統。
+- R-12 migration receipt 另保留一個未讀 `source-side continuity reference`。它現在形成具體、bounded 的候選問題，但狀態仍是**待獨立必要性覆核**；完整 `市政連續性服務` 索引仍關閉。
+
 ## Audit 016 + Architecture Checkpoint 004 — completed after Chapter 064
 
 - Audit 016：PASS；061–064 無 hard contradiction，不需回寫正文。
 - Part III 已從純 source/mechanism testing 進入人物關係／保存架構／legacy-bridge 晚中段。
 - Chapter 062 已公平測試一個 bounded appearance↔physical-carrier family；不再開載體清單。
 - Chapter 061、064 已讓技術結果產生真正人物後果。
-- `市政連續性服務` 是 evidence-earned local breadcrumb，但尚不足以成為 ARK bridge。
+- 當時 `市政連續性服務` 只是 evidence-earned local breadcrumb；Chapter 073 已將它升級為直接可驗的跨支線制度 bridge。
 - 左眉 promise 尚無新的獨立使用條件。
-- **Part III 繼續，不進 Part IV；可超過 Chapter 070，不能為章數配額硬轉段。**
 
 ## Audit 017 — completed after Chapter 068
 
 - PASS；065–068 無 hard contradiction，不需回寫正文。
 - 065–066 是一組完整、目的特定的 technical pair；067–068 成功把結果轉成人物／制度與 consent 後果。
-- 人物案件的 trigger-only 狀態成立，Part III endpoint 尚未達成，Checkpoint 005 不啟動。
+- 人物案件的 trigger-only 狀態成立，Part III endpoint 尚未達成。
 
 ## Audit 018 — completed after Chapter 072
 
@@ -98,23 +107,29 @@
 - 069–071 雖都與 Chapter 026 警示相關，但戲劇功能分別為「工作控制實際有效」「錯誤可被公開說明並傳遞」「任務特定的職務成本」，不構成同構程序重演。
 - 072 成功離開工作程序，以母子／公共生活承接成本，並讓林澈保留對合理限制的不高興，沒有把情緒寫成自動贖罪。
 - Chapter 067 的【未結／無主動查詢】一路維持；069–072 沒有便利的新通知、新來源、家庭資料開門或 legacy 索引擴張。
-- Pacing guardrail：**警示／程序／職務成本弧到 072 已完成，不得再用第五種同類場景延長。** 六章 mystery 沉默是有意義的後果，但下一個調查 turn 必須改變問題類型，而不能只靠另一個 ordinary consequence 繼續拖延。
-- Part III endpoint仍未達成：沒有可靠 system-level bridge，沒有新證據迫使林澈當代完整人生與 H-2162-U01 進入同一個更大模型。**Checkpoint 005 不啟動；Part IV 不開。**
+- Pacing guardrail：**警示／程序／職務成本弧到 072 已完成，不得再用第五種同類場景延長。**
 
-## Immediate direction — after Audit 018
+## Architecture Checkpoint 005 — completed after Chapter 073
+
+- **第一個可靠 system-level bridge 已成立，但 Part III 繼續，Part IV 不開。**
+- Chapter 073 符合 Audit 018 的外部 operational-trigger gate：R-12 資產釋放作業與人物案件無關，且只使用先前已封存摘要。
+- bridge 不只是共享一個「continuity」字樣；2164 migration receipt 的簽章與簽發主體可驗，Chapter 063 的保存策略所有者 metadata 亦獨立存在。
+- 因此歷史 discontinuity 支線與人物來源 preservation 支線第一次具備直接制度關係，而不是作者／角色的主題聯想。
+- 但 Part III endpoint 尚未完全達成：**林澈完整的 2187 當代人生與 2162 成年 H-2162-U01 仍未被迫放進同一個更大的 explanatory model。**
+- bridge 也不建立 ARK、重建、clone、time travel、文明循環、H-U01 身份或自然人結論。
+- Checkpoint 005 改變的是問題層級：現在不只問「那個人是什麼／為何被留下」，還要問「為什麼同一退役跨部門服務同時位於 disputed trust lineage 的 2164 交接史與 H-U01 來源的保存架構中」。
+
+## Immediate direction — after Chapter 073 / Checkpoint 005
 
 ### Next investigation gate
 
-1. **Chapter 073 可以恢復正常 drafting，但不得再以警示、程序教學、輪值或「案件仍沒通知」作為主要戲劇功能。**
-2. 下一個 mystery turn 必須由**本來就會發生的外部 operational event**，或既有來源在其他合法作業中**自然產生的新可區辨關係**觸發；它必須改變「現在可以問什麼」、已建立的 evidence relationship 或 system architecture。
-3. 不得為了讓案件重新動起來而硬造第四張相似影像、第四支感測器、另一張 preservation table、另一種 carrier subtype 或「剛好」出現的家庭資料。
-4. 若下一輪重新檢查 live repo 後仍沒有 evidence-earned trigger，不要回到已付清的警示弧。可以做時間推進或另一個真正具有不同戲劇功能的 bounded scene；若沒有實質可推進內容，真正 NO-OP 比人工製造 breadcrumb 更好。
-5. 一旦真正 trigger 出現，優先問它是否建立：
-   - established case object ↔ legacy service 的直接 lineage／migration；或
-   - 跨獨立保存情境的 stable system identifier，且普通市政重用不足以解釋；或
-   - 同一 operational behavior 同時能解釋歷史異常與當代後果；或
-   - 一個不依賴新感測器／身份資料的跨時間人物／制度事實。
-6. `市政連續性服務`完整索引仍不能因「現在需要 mystery 推進」就直接打開。必須先有具體問題，再決定索引是不是最窄可回答來源。
+1. **Chapter 073 是 landmark turn；下一章不要立刻把它稀釋成完整 legacy-index 展開或第二個新 mystery box。**
+2. 目前唯一被新證據直接授權的技術候選，是 R-12 2164 migration receipt 內的 `source-side continuity reference` **有限解析**。
+3. 在讀取 reference 前，必須先有獨立必要性覆核，確認它是回答「2164 migration receipt 當時依據哪一個直接來源見證替 disputed lineage 做交接」的最窄資料來源。
+4. 若獲核准，只讀該 reference 與驗證 provenance 所需的最小 metadata；不得擴到完整 `市政連續性服務` 索引、其他節點、使用者、人員或服務全史。
+5. **普通結果完全可能。** reference 可以只是正常的 pre-2164 policy-state witness；不得因為共享服務名稱終於有意義，就預設後面一定是隱藏主系統。
+6. 下一個正文也可先承接 Chapter 073 的 institutional / human weight，而不立刻讀 reference；但不得回到已完成的警示 lesson 或無新功能的等待場景。
+7. 若 reference 或其他獨立事件首次迫使 B-CURRENT／林澈完整當代人生與 H-2162-U01 進入同一個更大模型，**立即停止往下寫並先做 endpoint architecture checkpoint**；不得直接跳進 Part IV 或 ARK。
 
 ### Explicit holds
 
@@ -124,33 +139,35 @@
 - 不追匿名乘車序列、支付身份、住址或生活圈，只因「想知道他去哪裡」。
 - 不重新使用家庭原件做身份／血緣模型；若未來需要，必須有新的必要性與母親本人同意。
 - 不把左眉當萬能破局鍵；只有新的獨立來源能讓它被問一個不同問題時才回收。
-- 不因 `市政連續性服務` 同屬舊市政背景就連到 `MUNI-LEGACY/INGEST`、B-17、Part II discontinuity、327 年、8-prefix 或 ARK。
-- 不碰文明循環、七次重建、clone、reconstruction、time travel，除非 evidence bridge 明確出現。
+- `市政連續性服務` 現已直接連到 R-12 2164 migration lineage，但仍**沒有**直接連到 `MUNI-LEGACY/INGEST`、B-17、327 年、8-prefix 或 ARK。
+- 不碰文明循環、七次重建、clone、reconstruction、time travel，除非 evidence bridge 之後再由更強直接證據逐層成立。
 
 ### Scene pacing constraint
 
-- 下一個正常正文 slice 應具有與 069–072 明顯不同的戲劇功能。
-- 若是技術場景，必須真正 change problem type；若只是同構的能力表／正常留痕缺失，壓縮或不寫。
-- 林澈仍是受影響當事人，不是 query designer；他的能動性主要在同意／拒絕、界線、詮釋與代價。
+- Chapter 073 的 bridge 必須有餘韻；後續技術結果不要把它埋回長表格。
+- 若下一章是技術場景，問題只能是新建立的 narrow lineage question；若只是再找另一張 table／另一個 service name，壓縮或不寫。
+- 林澈仍是受影響當事人／技術陳述人，不是 query designer；他的權限沒有因 bridge 成立而擴張。
 
 ### Next audit gate
 
-Audit 018 後 writing-slice counter 歸零。**再完成約四個正常 writing slices 後做 Audit 019**；若先出現 true system-level bridge 或 Part III endpoint condition，提早做 Architecture Checkpoint 005，不要寫穿過去。
+Audit 018 後目前完成 **1 個 writing slice（Chapter 073）**。約再完成 **3 個正常 writing slices** 後做 Audit 019；若先出現 Part III endpoint condition，提前做 architecture checkpoint，不寫穿過去。
 
 ## Part III endpoint
 
-Part III 不能只以「H-2162-U01 好像是真人」結束。至少需要：
-- 林澈完整當代人生與 2162 歷史人物必須被同一個更大的問題同時解釋；
-- ordinary identity / source-generation explanations 已被公平測試到足以要求新的概念層；
-- 林澈至少一次在個人真相與證據／他人權利之間做出有代價的選擇；
-- 第一個通往更大隱藏系統的可靠 bridge 出現，但仍只具局部、操作性含義。
+Part III 不能只以「H-2162-U01 好像是真人」結束。目前四項條件中：
+- ordinary identity / source-generation explanations 已被公平測試到足以要求新的概念層：**大致達成**；
+- 林澈已在個人真相與證據／他人權利之間做出有代價的選擇：**達成**；
+- 第一個通往更大隱藏系統方向的可靠、局部、操作性 bridge：**Chapter 073 已達成**；
+- **尚未達成的關鍵條件：林澈完整當代人生與 2162 歷史人物必須被同一個更大的問題同時解釋。**
+
+只有當最後一項由直接證據成立，Part III 才有資格進入收束／轉段 checkpoint。
 
 ## Long-form reveal ladder
 
 - **Part I〈錯誤年代〉**：一個檔案 → 可獨立存在的異常。Completed Ch.001–029.
 - **Part II〈被修補的歷史〉**：一個案件 → 歷史系統本身的斷裂。Completed Ch.030–044.
-- **Part III〈沒有前史的人〉**：歷史問題 → 林澈身份／歷史人物關係 → evidence-earned legacy bridge。Active.
-- **Part IV〈第七座墓〉**：逐層證實文明重建與 ARK；先證實一個 prior civilization，再談七次。
+- **Part III〈沒有前史的人〉**：歷史問題 → 林澈身份／歷史人物關係 → evidence-earned legacy bridge。Active；第一個可靠 bridge 已於 Chapter 073 成立，identity-side convergence 尚未完成。
+- **Part IV〈第七座墓〉**：逐層證實文明重建與 ARK；先證實一個 prior civilization，再談七次。**尚未開啟。**
 - **Part V〈第八次黎明〉**：把「發生了什麼」轉成「人類是否有權拒絕下一次被拯救」，完成主要伏筆與不可逆選擇。
 
 ## Long-form constraint
