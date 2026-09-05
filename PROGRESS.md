@@ -3,14 +3,14 @@
 ## Current drafting state
 
 - Status: active drafting.
-- Latest completed正文：`chapters/076.md`〈等別人先說完〉。
-- Completed writing slices since last audit: **0**。
+- Latest completed正文：`chapters/077.md`〈不在場的答案〉。
+- Completed writing slices since last audit: **1**。
 - Last audit: **Audit 019 completed after Chapter 076.**
 - Architecture status: **Architecture Checkpoint 005 completed after Chapter 073. Part III〈沒有前史的人〉continues; Part IV is not open.**
-- Next normal audit target: after roughly **4** more normal writing slices, unless a new endpoint condition requires another checkpoint earlier.
-- Current phase: late Part III convergence after Audit 019. Chapter 073 established the first reliable cross-branch institutional bridge; Chapters 074–075 bounded its access and ordinary operational meaning; Chapter 076 turned that bridge into a present-day conflict-of-interest boundary. Identity convergence remains the decisive unfinished Part III condition.
+- Next normal audit target: after roughly **3** more normal writing slices, unless a new endpoint condition requires another checkpoint earlier.
+- Current phase: late Part III convergence after Audit 019. Chapter 073 established the first reliable cross-branch institutional bridge; Chapters 074–075 bounded its access and ordinary operational meaning; Chapter 076 turned that bridge into a present-day conflict-of-interest boundary; Chapter 077 moves the consequence into private trust and lets Lin Che accept that a result can remain credible even when he was not present for its formation. Identity convergence remains the decisive unfinished Part III condition.
 
-## Part III current state after Chapter 076
+## Part III current state after Chapter 077
 
 ### Identity / subject separation
 
@@ -48,7 +48,8 @@
 - Chapter 074 extends the same discipline after the bridge exists: even a legitimate cross-branch relation does not automatically authorize service-wide investigation. The R-12 follow-up must stand on R-12's own lineage necessity, and Lin Che still does not execute the query.
 - Chapter 075 accepts a bounded ordinary result without forcing another reveal: the approved reference only narrows R-12's verifiable lineage boundary to a 2163-Q4 checkpoint. Lin Che can be mildly disappointed without treating disappointment as permission to read the checkpoint payload or widen the service search.
 - Chapter 076 makes the bridge alter Lin Che's present institutional position. Because he is simultaneously a historical-branch technical declarant and a person-branch affected party, direct `市政連續性服務` shared-node lineage interpretation／candidate formation／scope-expansion discussion must now be completed by independent reviewers before he receives anything. He keeps ordinary work, prior technical-declarant functions and his own consent rights, but loses the shared-node live-interpretation channel. He chooses to **retain independently finalized relevant-result notices** rather than opt out entirely.
-- Character principle now includes both sides of consent: **wanting truth does not create a right to open another person's data, but protecting someone also does not create a right to decide their future answer for them.** It now also has a professional counterpart: independent witnessing can preserve a source without giving one investigator unilateral ownership of the evidence. Chapters 071–072 add a further distinction: **a fair control can remain costly, and accepting its legitimacy does not require pretending the cost feels good.** Chapters 074–075 add another operational distinction: **having a legal right to inspect something does not create urgency to inspect it immediately, and an authorized narrow answer does not create a right to keep opening adjacent material once the stated question is answered.** Chapter 076 adds: **the closer an evidence branch comes to one's own interests, the stronger the reason to let independent reviewers form the conclusion first; wanting the final answer does not require participating in making it.**
+- Chapter 077 gives that firewall a private consequence rather than another procedure. Lin Che tells his mother only that some work which could affect him must now be interpreted independently before he sees the formal result; she learns no service name, R-12 detail, historical discontinuity or new case evidence. The conversation exposes a second anxiety beneath his old fear of evidence loss: he can also fear **not being present when an answer is formed**. He accepts that an auditable process can support trust without his physical or procedural presence, and that his absence is not itself evidence of suppression. No alert arrives, no person-case gate opens, and the left-brow line remains unused.
+- Character principle now includes both sides of consent: **wanting truth does not create a right to open another person's data, but protecting someone also does not create a right to decide their future answer for them.** It now also has a professional counterpart: independent witnessing can preserve a source without giving one investigator unilateral ownership of the evidence. Chapters 071–072 add a further distinction: **a fair control can remain costly, and accepting its legitimacy does not require pretending the cost feels good.** Chapters 074–075 add another operational distinction: **having a legal right to inspect something does not create urgency to inspect it immediately, and an authorized narrow answer does not create a right to keep opening adjacent material once the stated question is answered.** Chapter 076 adds: **the closer an evidence branch comes to one's own interests, the stronger the reason to let independent reviewers form the conclusion first; wanting the final answer does not require participating in making it.** Chapter 077 adds a complementary trust rule: **a result does not become credible because Lin Che personally watched it being formed, and it does not become suspicious merely because a properly auditable independent process happened without him.**
 
 ### Preservation-architecture turn
 
@@ -68,6 +69,7 @@
 - The result establishes only **2163-Q4 checkpoint → 2164 migration receipt** as a re-verifiable lineage segment. Pre-2163 correctness is not certified, the 2158/2160 contradiction remains intact, and the checkpoint payload stays closed because the approved question is already answered.
 - This makes the bridge more ordinary and more precise: in the R-12 line, `市政連續性服務` acts as a continuity witness across retirement/consolidation rather than a proven content originator or history-repair engine. That behavior is compatible with the source-preservation role established in Chapter 063, but it does not prove identical internal workflow across the two branches.
 - Chapter 076 adds **no new preservation evidence**. Its only bridge consequence is governance: once the shared node could plausibly affect Lin Che's own case interests, live interpretation of that node is independently separated from him. This role firewall is not evidence that the service is secret, adversarial or responding to the investigation.
+- Chapter 077 adds **no preservation or identity evidence**. It only gives the independent-review firewall emotional and epistemic weight; the absence of a new result that evening is ordinary silence, not a system response.
 
 ## Audit / architecture status
 
@@ -87,7 +89,7 @@ Checkpoint findings:
 
 Checkpoint 005 therefore changes late-Part-III framing: the question is no longer only “what was H-U01?” or “why were these sources preserved?” It is now also **why the same retired cross-department service sits in the verified handoff history of both a disputed trust lineage and the preservation architecture surrounding H-U01's sources.**
 
-Chapters 074–076 do not require a new architecture checkpoint. They obey Checkpoint 005 by narrowing necessity, resolving one pre-existing pointer, stopping once the bounded question is answered, and then applying an independent-role firewall when the shared node comes closer to Lin Che's own interests. They create no identity convergence or civilization-scale concept.
+Chapters 074–076 do not require a new architecture checkpoint. They obey Checkpoint 005 by narrowing necessity, resolving one pre-existing pointer, stopping once the bounded question is answered, and then applying an independent-role firewall when the shared node comes closer to Lin Che's own interests. They create no identity convergence or civilization-scale concept. Chapter 077 is the first post-Audit-019 slice and does not change that architecture decision.
 
 ### Audit 019 — after Chapter 076
 
@@ -158,6 +160,7 @@ Chapters 074–076 do not require a new architecture checkpoint. They obey Check
 - **074**：independent necessity review rejects service-wide expansion and authorizes only R-12's already-present `source-side continuity reference` target/provenance resolution. The person branch cannot justify the access; no payload is read, no identity gate opens, and execution is scheduled for Day 22 morning.
 - **075**：the approved single reference resolves to a 2163-Q4 legacy-lineage checkpoint formed by the original business domain and preserved/witnessed by `市政連續性服務`. R-12's verifiable lineage now reaches only from that checkpoint forward; pre-2163 history and the 2158/2160 contradiction remain unresolved, and the checkpoint payload stays closed.
 - **076**：the established shared institutional node triggers a forward conflict-of-interest boundary: Lin Che loses live shared-node interpretation／candidate-formation access while retaining ordinary work, prior technical-declarant functions and the option to receive independently finalized relevant-result notices. He chooses to keep those final notices without participating in forming them. No new evidence is created.
+- **077**：an evening meal with Lin Che's mother turns the new role firewall into a trust problem rather than another procedure. Lin Che accepts that an independently auditable result can remain trustworthy without his presence, and that being left out of live interpretation is not itself evidence of concealment. Mother learns only this high-level role effect; no case evidence, family data or held identity gate changes.
 
 ## Next-slice handoff
 
@@ -165,15 +168,15 @@ Next run must re-read live repo, fixed bible/continuity/progress and latest 2–
 
 Priorities:
 
-1. **Audit 019 is complete. Architecture Checkpoint 005 remains controlling; Part III is active and Part IV is not open.** Completed writing slices since Audit 019 = 0.
+1. **Audit 019 is complete. Architecture Checkpoint 005 remains controlling; Part III is active and Part IV is not open.** Completed writing slices since Audit 019 = **1**.
 2. The R-12 `source-side continuity reference` path is complete for its current question. The 2163-Q4 checkpoint payload, sibling references and full `市政連續性服務` index remain closed; Chapter 075 established no further expansion necessity.
-3. Chapter 076's role firewall is durable but narrow. Lin Che remains in ordinary historical-restoration work and can provide established technical facts, but direct shared-node live interpretation／candidate formation／scope-expansion discussion must finish independently before he receives a relevant finalized result.
-4. **The next normal slice should use a fresh scene function, not another shared-node procedure.** Prefer embodied relationship movement, public or ordinary work, present-life consequence, or an independently arising operational event that changes the model in a different way.
-5. The remaining decisive Part III target is **identity convergence**: direct evidence must eventually force B-CURRENT／Lin Che's complete 2187 biography and H-2162-U01 into one larger explanatory question. Do not fake this by reopening held identity gates or by adding another preservation-service name.
+3. Chapter 076's role firewall is durable but narrow. Lin Che remains in ordinary historical-restoration work and can provide established technical facts, but direct shared-node live interpretation／candidate formation／scope-expansion discussion must finish independently before he receives a relevant finalized result. Chapter 077 does not widen or weaken this rule.
+4. **Do not make the next slice another role-firewall processing conversation or another shared-node procedure.** Chapter 077 has already paid the immediate private consequence. Prefer a different scene function: ordinary work, public/field action, another relationship dimension, or an independently arising operational event.
+5. The remaining decisive Part III target is **identity convergence**: direct evidence must eventually force B-CURRENT／Lin Che's complete 2187 biography and H-2162-U01 into one larger explanatory question. The next mystery-bearing turn, whenever it arrives, should preferably reclaim an existing promise rather than add another preservation-service name.
 6. Person-case holds remain unchanged: no T-04C person binding, anonymous transit/payment/address, family originals, left-brow reuse, new sensors, A-2162-01／02 repeat checks or carrier subtype catalogues.
 7. `市政連續性服務` remains unlinked to `MUNI-LEGACY/INGEST`, B-17, 327 years, 8-prefix, ARK or civilization cycles absent direct evidence. Shared institution ≠ shared event/person/content/cause/master system.
-8. Chapter 076's firewall must not be portrayed as suppression, conspiracy or an external system reacting to Lin Che. It is ordinary conflict-of-interest governance created by the now-real cross-branch relation.
+8. Chapter 076's firewall and Chapter 077's lack of notification must not be portrayed as suppression, conspiracy or an external system reacting to Lin Che. Ordinary independent governance and ordinary silence remain the established explanation.
 9. If a future independently justified fact directly produces identity convergence, stop after establishing that fact and perform an endpoint architecture checkpoint before any Part IV drafting.
 10. The recurring whole-manuscript `Chapter N` meta-reference convention remains separate prose debt; do not locally clean only recent chapters unless a deliberate manuscript-wide pass is chosen.
 
-Next routine audit target: **after roughly 4 normal writing slices**; earlier only for a new structural endpoint condition.
+Next routine audit target: **after roughly 3 more normal writing slices**; earlier only for a new structural endpoint condition.
