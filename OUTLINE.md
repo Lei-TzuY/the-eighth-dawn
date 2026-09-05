@@ -66,6 +66,16 @@
 - Chapter 066：A-2162-01／02 沒有保存等價的人物區域 ↔ 獨立物理事件物件關係；缺少符合各自設備交接／媒介來源鏈交接的原始保存責任，不支持刪除、壓制或特別抽離。
 - 結果不是「三來源都變成物理人物證明」，而是保存制度被證明為**目的特定且合理不對稱**；H-2162-U01 的跨時間物理事件連續性仍未建立，且禁止為填空去搜尋新感測來源。
 
+### Chapter 067–072 — trigger-only state and present-life consequence
+
+- Chapter 067：人物案件正式轉為【未結／無主動查詢】；未解的重要性本身不再構成持續擴查理由。
+- Chapter 068：母親保留未來家庭資料問題的本人同意權；家庭 gate 沒有被預先打開。
+- Chapter 069：六個月雙人見證控制第一次在普通工作中實際保住來源狀態；它仍是限制，也第一次證明其正面工作功能。
+- Chapter 070：林澈首次向較資淺同事公開承認未授權保留錯誤，並把 purpose-limited working copy 原則轉成可傳遞的專業經驗；未形成正式導師職。
+- Chapter 071：控制條件產生具體但 bounded 的職務成本——暫不能擔任單人緊急首接主值，仍可正常工作與擔任緊急支援；林澈不因不高興而申請沒有必要性的例外。
+- Chapter 072：後果移到普通家庭／公共生活；林澈接受「限制合理」與「仍然不喜歡」可以同時成立，不再把每個代價都強迫轉譯成贖罪或成長證明。
+- Chapters 069–072 **沒有任何人物案件新證據，也沒有合法 trigger**；不得日後 retroactively 把熱網來源、降溫站口述、輪值表、修繕夜市、風扇或屋頂水槽倒接為 mystery evidence。
+
 ## Audit 016 + Architecture Checkpoint 004 — completed after Chapter 064
 
 - Audit 016：PASS；061–064 無 hard contradiction，不需回寫正文。
@@ -76,20 +86,35 @@
 - 左眉 promise 尚無新的獨立使用條件。
 - **Part III 繼續，不進 Part IV；可超過 Chapter 070，不能為章數配額硬轉段。**
 
-## Immediate direction — after Chapter 066
+## Audit 017 — completed after Chapter 068
 
-### Chapter 067 gate
+- PASS；065–068 無 hard contradiction，不需回寫正文。
+- 065–066 是一組完整、目的特定的 technical pair；067–068 成功把結果轉成人物／制度與 consent 後果。
+- 人物案件的 trigger-only 狀態成立，Part III endpoint 尚未達成，Checkpoint 005 不啟動。
 
-Chapters 065–066 已形成一組完整的 bounded technical pair。**Chapter 067 優先回到具身的人物／制度後果**，除非有真正外部事件自然改變證據模型。
+## Audit 018 — completed after Chapter 072
 
-不得再以「另一張關係表」「另一支感測器」「另一種載體」延長同一證明模式。下一個技術步驟若只是換名詞重演 065–066，應壓縮或停止。
+- **PASS；069–072 無 hard continuity contradiction，不需回寫正文。**
+- 069–071 雖都與 Chapter 026 警示相關，但戲劇功能分別為「工作控制實際有效」「錯誤可被公開說明並傳遞」「任務特定的職務成本」，不構成同構程序重演。
+- 072 成功離開工作程序，以母子／公共生活承接成本，並讓林澈保留對合理限制的不高興，沒有把情緒寫成自動贖罪。
+- Chapter 067 的【未結／無主動查詢】一路維持；069–072 沒有便利的新通知、新來源、家庭資料開門或 legacy 索引擴張。
+- Pacing guardrail：**警示／程序／職務成本弧到 072 已完成，不得再用第五種同類場景延長。** 六章 mystery 沉默是有意義的後果，但下一個調查 turn 必須改變問題類型，而不能只靠另一個 ordinary consequence 繼續拖延。
+- Part III endpoint仍未達成：沒有可靠 system-level bridge，沒有新證據迫使林澈當代完整人生與 H-2162-U01 進入同一個更大模型。**Checkpoint 005 不啟動；Part IV 不開。**
 
-### Preferred next-beat order
+## Immediate direction — after Audit 018
 
-1. **Human / institutional consequence first.** 讓來源不對稱、姓名／證據保存、林澈的界線或案件角色產生可感受到的後果，而不是立刻開新資料表。
-2. **Then change problem type.** 下一個真正調查 beat 必須讓「可以問什麼」發生變化；優先既有證據中的直接關係、跨時間人物事實、或會影響當代行動的制度後果。
-3. **Legacy only when earned.** `市政連續性服務` 完整索引仍關閉。只有已建立證據提出一個具體、無法在目前層級回答的問題時，才有理由展開更深 legacy material。
-4. **No evidence, no breadcrumb.** 沒有 discriminating evidence 時，寧可寫人物／制度場景或真正 NO-OP，也不要硬造 ARK 線索。
+### Next investigation gate
+
+1. **Chapter 073 可以恢復正常 drafting，但不得再以警示、程序教學、輪值或「案件仍沒通知」作為主要戲劇功能。**
+2. 下一個 mystery turn 必須由**本來就會發生的外部 operational event**，或既有來源在其他合法作業中**自然產生的新可區辨關係**觸發；它必須改變「現在可以問什麼」、已建立的 evidence relationship 或 system architecture。
+3. 不得為了讓案件重新動起來而硬造第四張相似影像、第四支感測器、另一張 preservation table、另一種 carrier subtype 或「剛好」出現的家庭資料。
+4. 若下一輪重新檢查 live repo 後仍沒有 evidence-earned trigger，不要回到已付清的警示弧。可以做時間推進或另一個真正具有不同戲劇功能的 bounded scene；若沒有實質可推進內容，真正 NO-OP 比人工製造 breadcrumb 更好。
+5. 一旦真正 trigger 出現，優先問它是否建立：
+   - established case object ↔ legacy service 的直接 lineage／migration；或
+   - 跨獨立保存情境的 stable system identifier，且普通市政重用不足以解釋；或
+   - 同一 operational behavior 同時能解釋歷史異常與當代後果；或
+   - 一個不依賴新感測器／身份資料的跨時間人物／制度事實。
+6. `市政連續性服務`完整索引仍不能因「現在需要 mystery 推進」就直接打開。必須先有具體問題，再決定索引是不是最窄可回答來源。
 
 ### Explicit holds
 
@@ -97,20 +122,20 @@ Chapters 065–066 已形成一組完整的 bounded technical pair。**Chapter 0
 - 不搜尋新感測器、攝影機或 carrier subtype 來製造跨時間物理連續性。
 - 不重新開 T-04C 人物繫結，除非有新的直接橋接來源自己出現。
 - 不追匿名乘車序列、支付身份、住址或生活圈，只因「想知道他去哪裡」。
-- 不重新使用家庭原件做身份／血緣模型；若未來需要，必須有新的必要性與同意。
+- 不重新使用家庭原件做身份／血緣模型；若未來需要，必須有新的必要性與母親本人同意。
 - 不把左眉當萬能破局鍵；只有新的獨立來源能讓它被問一個不同問題時才回收。
 - 不因 `市政連續性服務` 同屬舊市政背景就連到 `MUNI-LEGACY/INGEST`、B-17、Part II discontinuity、327 年、8-prefix 或 ARK。
 - 不碰文明循環、七次重建、clone、reconstruction、time travel，除非 evidence bridge 明確出現。
 
 ### Scene pacing constraint
 
-- 技術場景仍應 bounded；若只是同構的能力表／正常留痕缺失，壓縮。
-- 每 1–2 個高密度驗證場景後，優先回到具身後果、正常工作、家庭、公共空間、制度風險或不可逆選擇。
+- 下一個正常正文 slice 應具有與 069–072 明顯不同的戲劇功能。
+- 若是技術場景，必須真正 change problem type；若只是同構的能力表／正常留痕缺失，壓縮或不寫。
 - 林澈仍是受影響當事人，不是 query designer；他的能動性主要在同意／拒絕、界線、詮釋與代價。
 
 ### Next audit gate
 
-目前距 Audit 016 已完成 Chapters 065–066 兩個 writing slices。**再完成約兩個正常 writing slices 後做 Audit 017**；若 Chapter 067–068 提前碰到 Part III endpoint 或新的 system-level bridge，則提早做 architecture checkpoint，不為湊 run 數繼續寫。
+Audit 018 後 writing-slice counter 歸零。**再完成約四個正常 writing slices 後做 Audit 019**；若先出現 true system-level bridge 或 Part III endpoint condition，提早做 Architecture Checkpoint 005，不要寫穿過去。
 
 ## Part III endpoint
 
