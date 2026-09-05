@@ -21,14 +21,15 @@
 - Chapter 072：第二十天傍晚，林澈陪母親到河岸社區修繕夜市修理桌上風扇。母親從他下月原本的夜間首接時段空出來，得知 Chapter 071 的輪值相容性後果；沒有任何案件資料、家庭資料或新來源被提出。林澈第一次明確接受「限制合理／不申請例外」與「自己仍然不高興」可以同時成立，不再把每個公平代價都強迫轉譯成贖罪或成長證明；他也答應下月陪母親參加住家屋頂公共水槽的例行分流標記確認。此章不新增人物／legacy 證據。
 - Chapter 073：第二十一日上午。R-12 舊控制閘道在正常實體資產釋放／銷毀前覆核中，資產中心依固定流程確認 Chapter 044 已封存的有限 lineage 摘要是否足以在實機消失後繼續被獨立重驗。只解析該摘要自身的上游 migration witness，不展開政策內容、使用者、操作紀錄或其他節點。結果取得一張簽章有效的【2164 市政資料整併／lineage state migration】receipt，簽發主體為「市政連續性服務」，作用只到證明 legacy policy state 在 2164 完成跨業務交接，不證明交接前 lineage 正確。案件再以既有結論層級 metadata 對照確認：A-2162-01／02／03 的長期保存策略所有者亦為同一「市政連續性服務」。正式建立【跨支線共同制度節點：市政連續性服務／已建立；含義未定】；人物案件仍不重新啟動主動搜尋。R-12 實機獲准釋放，原九十天有限狀態保全維持。
 - Chapter 074：第二十一日下午。林澈回第六修復室處理普通地下排水泵巡檢修復；14:19 起，獨立範圍覆核員只針對 R-12 的 2164 migration receipt 與其中既存 `source-side continuity reference` 評估必要性。覆核要求讀取理由必須只靠 R-12 歷史 lineage 問題成立，不得把人物支線的共同制度節點當成擴張依據。14:46 結果核准**單一參照解析**，只允許讀 `reference target identifier`、`object class`、保存來源與驗證鏈最小 metadata；禁止 target payload、sibling references、完整「市政連續性服務」索引、其他節點、人物或使用者資料。因 R-12 實機已可正常釋放、封存摘要沒有到期，沒有資料消失緊迫性，實際解析排到第二十二日上午，由歷史完整性審查端雙人見證執行；林澈僅作技術陳述並接收核准結果。Chapter 074 沒有讀取 reference 內容，也沒有重啟人物案件 active query。
+- Chapter 075：第二十二日上午。歷史完整性審查端依 Chapter 074 核准範圍雙人見證解析 R-12 的單一 `source-side continuity reference`；林澈仍只接收技術陳述層結果。reference 指向 `R12-PRE-MIGRATION-LINEAGE-CHECKPOINT／2163-Q4`，object class 為 `legacy lineage state checkpoint`；形成來源是原業務維運域，「市政連續性服務」只作保存見證，最早可獨立驗證形成於 2163 第四季，驗證鏈有效。target payload 未讀且不在授權範圍。正式可建立：R-12 legacy lineage 的可重驗區段只到【2163-Q4 checkpoint → 2164 migration receipt】；2163-Q4 以前的 lineage correctness 不由本 reference 背書，2158／2160 歷史時間不一致維持。10:06 覆核端確認原問題已回答，不開 target payload，也不建立後續擴張必要性。人物案件沒有重新啟動。
 
 ## Current location / institutional state
 
-- Chapter 074 結尾，林澈在第六修復室完成普通地下排水泵巡檢修復；人物案件仍維持【未結／無主動查詢】。R-12 `source-side continuity reference` 的**單一參照解析已獲必要性核准但尚未執行**，執行窗口為第二十二日上午，由歷史完整性審查端雙人見證進行；林澈只接收核准結果。
-- `市政連續性服務` 完整舊制度索引仍未展開。Chapter 073 首次以 R-12 已封存 lineage 摘要自身的 2164 migration receipt，直接建立 Part II 歷史 discontinuity 營運鏈 ↔ 該服務的 migration lineage；這不是完整索引擴查，也不是人物資料查詢。
-- R-12 receipt 的【source-side continuity reference】現在已通過獨立必要性覆核，但核准範圍只到單一參照 target identifier／object class／保存來源／最小驗證鏈 metadata；**target payload、sibling references、服務完整索引、其他節點與人物／使用者資料均未授權。**
-- Chapter 074 明確建立：人物支線的共同制度節點不能作為這次 R-12 reference 存取的必要性來源；本次存取理由必須由 R-12 自身 disputed lineage 與 2164 migration receipt 的直接來源見證問題獨立成立。任何解析結果也不得自動觸發人物資料搜尋。
-- 人物案件目前只在**獨立新來源、既有來源於其他合法作業中自然產生的新可區辨關係、或法定必要性改變**時重新評估主動覆核；Chapter 073 的 external operational event 已合法建立跨支線制度關係，但 Chapter 074 沒有進一步開啟人物搜尋、姓名、交通、家庭或其他身份查詢。
+- Chapter 075 結尾，林澈在第六修復室完成普通地下風道振動紀錄修復；人物案件仍維持【未結／無主動查詢】。R-12 `source-side continuity reference` 的核准單一解析已完成，target payload 保持關閉，沒有後續擴張必要性。
+- `市政連續性服務` 完整舊制度索引仍未展開。Chapter 073 首次以 R-12 已封存 lineage 摘要自身的 2164 migration receipt，直接建立 Part II 歷史 discontinuity 營運鏈 ↔ 該服務的 migration lineage；Chapter 075 進一步證明在 R-12 這一條線上，該服務是 2163-Q4 checkpoint 的**保存／交接見證**，不是已證明的內容形成者。
+- R-12 的可驗 lineage boundary 現在可精確寫為：【2163-Q4 checkpoint → 2164 migration receipt：可重驗】；【2163-Q4 以前：不由後續 continuity witness 背書】。此界線不修復 2158／2160 contradiction，也不授權讀 checkpoint payload。
+- Chapter 074 建立的 access rule 維持：人物支線的共同制度節點不能作為 R-12 存取擴張依據；Chapter 075 的解析結果也不得自動觸發人物資料搜尋。
+- 人物案件目前只在**獨立新來源、既有來源於其他合法作業中自然產生的新可區辨關係、或法定必要性改變**時重新評估主動覆核；Chapter 073–075 的跨支線制度工作沒有開啟姓名、交通、家庭、T-04C 或其他身份查詢。
 - A-2162-01／02 的 contemporaneous physical-object relation 候選已完成：**未建立，且缺少符合原始保存責任。不得以「可能在別處」為由搜尋新感測來源補建。**
 - 林澈仍為 `DI-2187-0612-4431` 原媒介部分「技術陳述人」；沒有原始來源晶片、封存案件媒介操作權、來源鏈／政策調查存取、跨機關擴查主導權或完整影像副本。
 - 一般外接媒介職務權限已恢復；Chapter 026 書面職務警示仍有效，未來六個月遇來源即將清除／來源狀態不明時須先啟動雙人見證保全。
@@ -36,7 +37,7 @@
 - Chapter 070 的跟班安排不是升遷、正式導師職或警示撤銷；只是一個半天的普通工作帶領。新修復員知道林澈曾因未授權保留而收到警示，也知道雙人見證規則與「工作副本只保留目前用途需要的資料」原則；未被告知人物案件的身份／技術／legacy 細節。
 - Chapter 071 建立的是既有職務資格與既有個人控制條件的**相容性後果**，不是新停職或權限撤銷：六個月控制條件有效期間，林澈不能擔任要求「第二人尚未到場時可單人做初始處置」的緊急首接主值；可擔任緊急支援值。此限制不代表主管不信任他，也不把 Chapter 070 的帶領工作升格為正式導師職。
 - Chapter 072 的河岸修繕夜市、風扇維修與未來屋頂公共水槽分流標記確認都只是普通家庭／社區生活，不是人物案件來源、家庭資料提交、`市政連續性服務` lineage、Part II discontinuity 或其他 mystery trigger。
-- Chapter 074 的地下排水泵巡檢只是普通工作素材，不是 mystery source；不得因它與市政設備同屬公共工程就倒接為 `市政連續性服務`、R-12 或人物案件 evidence。
+- Chapter 074 的地下排水泵巡檢與 Chapter 075 的地下風道振動紀錄都只是普通工作素材，不是 mystery source；不得因同屬市政工程或「缺口／界線」主題而倒接為 `市政連續性服務`、R-12 或人物案件 evidence。
 - 人物關聯覆核中林澈是受影響當事人，可同意／拒絕個人資料用途、閱覽核准範圍與正式結果、表達偏好；不得執行查詢、調閾值、擴候選或查看中間分數。
 - `H-2162-U01` 仍只是案件內部暫定歷史人物節點，沒有姓名、法律身份、血緣、職稱或與林澈同一身份結論。
 - 家庭資料 gate 仍關閉。Chapter 068 不構成新授權、不提交任何新家庭來源、不重啟 Chapter 013 四張家庭原件用途；只建立「未來若有新的具體必要性，母親本人要被詢問並自行決定」的 consent rule。
@@ -67,7 +68,8 @@
 - 「追補年度歸屬」與「災後信任延續復原」都是真實合法機制，但指定物件缺必要痕跡。
 - 精確 lineage 為「歷史信任狀態：未解」；`R-12` 已採 2187 乾淨重新註冊。
 - Chapter 073：R-12 已封存 lineage 摘要的 2164 migration receipt 簽章有效，簽發主體為「市政連續性服務」，只證明 legacy policy state 於 2164 整併時完成跨業務交接；**不證明交接前 lineage 正確，也不解釋 2158 原始 payload 為何已含 2160 才生成的公鑰。**
-- Chapter 074：`source-side continuity reference` 的讀取必要性已獨立成立，但尚未讀取；因此對 2158／2160 contradiction 本身**沒有新增實體證據或成因結論**。目前只新增一個經授權的最窄查詢入口。
+- Chapter 074：`source-side continuity reference` 的讀取必要性已獨立成立，但尚未讀取；因此對 2158／2160 contradiction 本身沒有新增實體證據或成因結論，只新增一個經授權的最窄查詢入口。
+- Chapter 075：單一 reference 解析確認 target 為 2163-Q4 `legacy lineage state checkpoint`，形成來源是原業務維運域，「市政連續性服務」為保存見證，驗證鏈有效。可正式背書的只是【2163-Q4 checkpoint → 2164 migration receipt】；**2163-Q4 以前 lineage correctness 仍未被證明，2158／2160 歷史時間不一致完全維持。** target payload 未讀，因此不得拿它解釋更早 history。
 - 此支線不得替人物身份結論加權。
 
 ### 2162 historical person / Lin Che
@@ -104,10 +106,11 @@
 - Chapter 073 首次建立**直接跨支線 lineage**：R-12 的 2164 migration receipt 由「市政連續性服務」簽發，而 A-2162-01／02／03 的長期保存策略所有者亦為同一服務。可正式說兩條獨立支線共享一個可驗制度節點；仍不得說兩者共享內容來源、人物事件、同一目的、同一隱藏系統或共同異常成因。
 - Chapter 073 使「市政連續性服務」已不再只是人物來源的局部保存標籤；它至少同時參與過來源／事件可重驗保存與 legacy policy-state 的 2164 migration witness。其服務範圍因此可確定跨越多種業務型態，但完整制度定義仍未讀。
 - Chapter 074 把 bridge 的**存取邊界**正式化：同一服務節點的跨支線意義不能自動授權服務級擴查。R-12 的單一 `source-side continuity reference` 只有在 R-12 自身 lineage 問題下成立必要性，且只允許解析 target identifier／object class／保存來源／最小驗證鏈。這是「已知 pointer 的最窄跟隨」，不是舊索引開門。
+- Chapter 075 進一步界定 bridge 的普通 operational meaning：在 R-12 線上，`市政連續性服務` 保存／見證一個由原業務維運域形成的 2163-Q4 lineage checkpoint，並讓 2164 migration receipt 可指回它。這支持「跨退役／整併維持可重驗交接」的普通服務角色，**不支持它創造 checkpoint 內容、修補 pre-2163 history 或成為隱藏 master system。**
 
 ## Knowledge / consent boundaries
 
-- 林澈母親知道：歷史人物與林澈高度相似；2162 教育鏈支持林澈當時為兒童而歷史人物為成年；A-2162-03 所在位置另有成人尺度、會移動的物理占位；林澈在無必要性時不追匿名乘車序列；Chapter 068 又從林澈口中知道人物案件目前「沒有一個夠好的下一步／暫時不主動查」；Chapter 072 她也知道林澈的六個月警示目前使他不能排單人緊急首接主值，但其他工作照常。她仍不知道 Chapter 062–066 的技術／保存細節、Chapter 073 跨支線制度節點、Chapter 074 reference 授權、T-04C、Part II discontinuity、327 年真假、ARK 或文明循環。
+- 林澈母親知道：歷史人物與林澈高度相似；2162 教育鏈支持林澈當時為兒童而歷史人物為成年；A-2162-03 所在位置另有成人尺度、會移動的物理占位；林澈在無必要性時不追匿名乘車序列；Chapter 068 又從林澈口中知道人物案件目前「沒有一個夠好的下一步／暫時不主動查」；Chapter 072 她也知道林澈的六個月警示目前使他不能排單人緊急首接主值，但其他工作照常。她仍不知道 Chapter 062–066 的技術／保存細節、Chapter 073 跨支線制度節點、Chapter 074–075 R-12 reference 覆核／解析、T-04C、Part II discontinuity、327 年真假、ARK 或文明循環。
 - Chapter 013 四張家庭原件用途仍限傷痕形成時序／有限表面特徵比較；未重新授權身份／血緣模型。
 - Chapter 068 母親沒有提交任何新資料，也沒有給出預先同意。她只要求：若未來出現新的具體必要性，必須由她本人收到清楚用途／風險說明後再決定。此原則不得偷換成「家庭 gate 已鬆動」。
 - 左眉凹痕為林澈 11 歲事故後形成；封存影像男子有位置高度相容的局部凹陷，但形狀／深度不足。左眉目前維持 hold。
@@ -117,7 +120,8 @@
 - Chapter 067 後，林澈知道「等待外部新證據」與「主動去找更多資料」是不同案件狀態；他沒有把 trigger-only 狀態解讀成結案，也沒有用案件重要性要求維持主動搜尋。
 - Chapter 068 後，林澈進一步理解：尊重他人資料權不只包含替不在場者避免無必要擴張，也包含在真正需要取得本人同意時，不得以保護為名替本人預先作答。
 - Chapter 073 後，林澈知道 R-12 歷史 discontinuity 營運鏈與 H-2162-U01 三來源 preservation architecture 共享同一「市政連續性服務」制度節點；他也知道這只建立制度關係，不建立人物、事件、異常成因或 ARK 關係。
-- Chapter 074 後，林澈知道 R-12 `source-side continuity reference` 已獲最窄解析授權且將於第二十二日上午由歷史完整性審查端雙人見證執行；他不知道 reference 指向什麼，也沒有新增查詢／執行權。人物支線共同制度節點不能被用來替這次 R-12 存取正當化。
+- Chapter 074 後，林澈知道 R-12 `source-side continuity reference` 已獲最窄解析授權且將於第二十二日上午由歷史完整性審查端雙人見證執行；他沒有新增查詢／執行權。人物支線共同制度節點不能被用來替這次 R-12 存取正當化。
+- Chapter 075 後，林澈知道該 reference 只指向 2163-Q4 `legacy lineage state checkpoint`；checkpoint 由原業務維運域形成，「市政連續性服務」是保存見證。這使他知道共同制度節點可以是真實而普通的跨系統 continuity witness，但不能把其後可驗的交接倒推成其前歷史真實，也沒有因此新增人物案件權限。
 
 ## Open continuity questions /伏筆
 
@@ -127,8 +131,7 @@
 - 2162 兒童林澈與成年 H-2162-U01 的真實關係。
 - A-2162-03 的物理載體究竟是自然人、物理替身、三維載體／穿戴式外觀或其他物理對象；影像外觀是否為其本身外觀。
 - 是否存在**不同問題類型**的獨立證據，能在不搜尋新感測器、不重啟 T-04C／交通／家庭 gate 的前提下，建立 H-2162-U01 的跨時間物理或制度連續性；目前 A-2162-01／02 這條 preservation relation 路徑已收束為未建立。
-- R-12 的 2164 migration receipt 所列【source-side continuity reference】究竟指向哪個直接來源見證；它是否能說明 disputed lineage 在 2164 被接手時，前一段可被背書到哪裡。Chapter 074 已核准最窄單一參照解析，但**內容尚未讀取**。
-- `市政連續性服務` 的完整制度定義、完整索引、2164 migration／receipt 規則與其他 legacy 系統關係；Chapter 073 已建立其跨支線共同制度節點，但不得因此預設它是隱藏主系統或 ARK 前身。
-- 2158／2160 歷史不一致真正成因。
+- R-12 的可驗 lineage 已能從 2163-Q4 checkpoint 重走到 2164 migration receipt；**2163-Q4 以前 lineage correctness、以及 2158／2160 歷史不一致真正成因仍未解。** checkpoint payload 仍關閉，沒有後續讀取必要性。
+- `市政連續性服務` 的完整制度定義、完整索引、2164 migration／receipt 規則與其他 legacy 系統關係；Chapter 073 已建立其跨支線共同制度節點，Chapter 075 又將 R-12 線上的角色限縮為保存／交接見證，但不得因此預設它是隱藏主系統或 ARK 前身。
 - `CIM-4R-7714` 是否曾直接拍攝封存影像。
 - ARK、七次文明滅亡／重建與文明循環全部仍是 author-only truth。
