@@ -3,14 +3,14 @@
 ## Current drafting state
 
 - Status: active drafting.
-- Latest completed正文：`chapters/075.md`〈只能證到這裡〉。
-- Completed writing slices since last audit: **3**。
+- Latest completed正文：`chapters/076.md`〈等別人先說完〉。
+- Completed writing slices since last audit: **4**。
 - Last audit: **Audit 018 completed after Chapter 072.**
 - Architecture status: **Architecture Checkpoint 005 completed after Chapter 073. Part III〈沒有前史的人〉continues; Part IV is not open.**
-- Next normal audit target: after roughly **1** more normal writing slice, unless a new endpoint condition requires another checkpoint earlier.
-- Current phase: late Part III convergence. Chapter 073 established the first reliable cross-branch institutional bridge; Chapters 074–075 have now bounded its access and operational meaning without producing identity convergence or opening the legacy service as a catalogue.
+- Next normal audit target: **Audit 019 must run before any further normal drafting**, unless Chapter 076 is found to have triggered an earlier endpoint condition during that audit.
+- Current phase: late Part III convergence. Chapter 073 established the first reliable cross-branch institutional bridge; Chapters 074–075 bounded its access and ordinary operational meaning; Chapter 076 now turns that bridge into a present-day conflict-of-interest boundary without producing identity convergence.
 
-## Part III current state after Chapter 075
+## Part III current state after Chapter 076
 
 ### Identity / subject separation
 
@@ -47,7 +47,8 @@
 - Chapter 073 does not reverse the trigger-only discipline. The new bridge comes from R-12's independent asset-release workflow, not from Lin Che requesting more case access. He remains a technical declarant and does not design the query or open the person sources.
 - Chapter 074 extends the same discipline after the bridge exists: even a legitimate cross-branch relation does not automatically authorize service-wide investigation. The R-12 follow-up must stand on R-12's own lineage necessity, and Lin Che still does not execute the query.
 - Chapter 075 accepts a bounded ordinary result without forcing another reveal: the approved reference only narrows R-12's verifiable lineage boundary to a 2163-Q4 checkpoint. Lin Che can be mildly disappointed without treating disappointment as permission to read the checkpoint payload or widen the service search.
-- Character principle now includes both sides of consent: **wanting truth does not create a right to open another person's data, but protecting someone also does not create a right to decide their future answer for them.** It now also has a professional counterpart: independent witnessing can preserve a source without giving one investigator unilateral ownership of the evidence. Chapters 071–072 add a further distinction: **a fair control can remain costly, and accepting its legitimacy does not require pretending the cost feels good.** Chapters 074–075 add another operational distinction: **having a legal right to inspect something does not create urgency to inspect it immediately, and an authorized narrow answer does not create a right to keep opening adjacent material once the stated question is answered.**
+- Chapter 076 makes the bridge alter Lin Che's present institutional position. Because he is simultaneously a historical-branch technical declarant and a person-branch affected party, direct `市政連續性服務` shared-node lineage interpretation／candidate formation／scope-expansion discussion must now be completed by independent reviewers before he receives anything. He keeps ordinary work, prior technical-declarant functions and his own consent rights, but loses the shared-node live-interpretation channel. He chooses to **retain independently finalized relevant-result notices** rather than opt out entirely.
+- Character principle now includes both sides of consent: **wanting truth does not create a right to open another person's data, but protecting someone also does not create a right to decide their future answer for them.** It now also has a professional counterpart: independent witnessing can preserve a source without giving one investigator unilateral ownership of the evidence. Chapters 071–072 add a further distinction: **a fair control can remain costly, and accepting its legitimacy does not require pretending the cost feels good.** Chapters 074–075 add another operational distinction: **having a legal right to inspect something does not create urgency to inspect it immediately, and an authorized narrow answer does not create a right to keep opening adjacent material once the stated question is answered.** Chapter 076 adds: **the closer an evidence branch comes to one's own interests, the stronger the reason to let independent reviewers form the conclusion first; wanting the final answer does not require participating in making it.**
 
 ### Preservation-architecture turn
 
@@ -66,6 +67,7 @@
 - Chapter 075 resolves that single reference inside the approved scope. It points to `R12-PRE-MIGRATION-LINEAGE-CHECKPOINT／2163-Q4`, object class `legacy lineage state checkpoint`, formed by the original business-maintenance domain and independently preserved/witnessed by `市政連續性服務`; the verification chain is valid.
 - The result establishes only **2163-Q4 checkpoint → 2164 migration receipt** as a re-verifiable lineage segment. Pre-2163 correctness is not certified, the 2158/2160 contradiction remains intact, and the checkpoint payload stays closed because the approved question is already answered.
 - This makes the bridge more ordinary and more precise: in the R-12 line, `市政連續性服務` acts as a continuity witness across retirement/consolidation rather than a proven content originator or history-repair engine. That behavior is compatible with the source-preservation role established in Chapter 063, but it does not prove identical internal workflow across the two branches.
+- Chapter 076 adds **no new preservation evidence**. Its only bridge consequence is governance: once the shared node could plausibly affect Lin Che's own case interests, live interpretation of that node is independently separated from him. This role firewall is not evidence that the service is secret, adversarial or responding to the investigation.
 
 ## Audit / architecture status
 
@@ -85,7 +87,7 @@ Checkpoint findings:
 
 Checkpoint 005 therefore changes late-Part-III framing: the question is no longer only “what was H-U01?” or “why were these sources preserved?” It is now also **why the same retired cross-department service sits in the verified handoff history of both a disputed trust lineage and the preservation architecture surrounding H-U01's sources.**
 
-Chapters 074–075 do not require a new architecture checkpoint. They obey Checkpoint 005 by narrowing necessity, resolving one pre-existing pointer, and stopping once the bounded question is answered. They create no identity convergence or civilization-scale concept.
+Chapters 074–076 do not require a new architecture checkpoint. They obey Checkpoint 005 by narrowing necessity, resolving one pre-existing pointer, stopping once the bounded question is answered, and then applying an independent-role firewall when the shared node comes closer to Lin Che's own interests. They create no identity convergence or civilization-scale concept.
 
 ### Audit 018 — after Chapter 072
 
@@ -143,6 +145,7 @@ Chapters 074–075 do not require a new architecture checkpoint. They obey Check
 - **073**：R-12's independent asset-release workflow validates a signed 2164 migration receipt issued by `市政連續性服務`; existing Chapter 063 metadata independently places the same service over A-2162-01／02／03 continuity-witness retention. First verified cross-branch institutional node established; full legacy index remains closed.
 - **074**：independent necessity review rejects service-wide expansion and authorizes only R-12's already-present `source-side continuity reference` target/provenance resolution. The person branch cannot justify the access; no payload is read, no identity gate opens, and execution is scheduled for Day 22 morning.
 - **075**：the approved single reference resolves to a 2163-Q4 legacy-lineage checkpoint formed by the original business domain and preserved/witnessed by `市政連續性服務`. R-12's verifiable lineage now reaches only from that checkpoint forward; pre-2163 history and the 2158/2160 contradiction remain unresolved, and the checkpoint payload stays closed.
+- **076**：the established shared institutional node triggers a forward conflict-of-interest boundary: Lin Che loses live shared-node interpretation／candidate-formation access while retaining ordinary work, prior technical-declarant functions and the option to receive independently finalized relevant-result notices. He chooses to keep those final notices without participating in forming them. No new evidence is created.
 
 ## Next-slice handoff
 
@@ -150,16 +153,15 @@ Next run must re-read live repo, fixed bible/continuity/progress and latest 2–
 
 Priorities:
 
-1. **Architecture Checkpoint 005 remains controlling. Part III is active.** Completed writing slices since Audit 018 = 3.
-2. **The next normal slice should not be another technical lineage read.** Chapters 073–075 are three consecutive high-density institutional/verification turns. Chapter 076 should preferentially be embodied human / institutional consequence, normal work, public space, relationship movement or an irreversible present-day choice that lets the new boundary land.
-3. The R-12 checkpoint payload is **not** an automatic next query. Chapter 075 answered the authorized question and explicitly recorded【後續擴張必要性：未建立】. Do not read the payload, sibling references or full `市政連續性服務` index merely because they exist.
-4. The new bounded model is: `市政連續性服務` is directly verified as a cross-branch institutional node and, on the R-12 line, acts as preservation／handoff witness for a 2163-Q4 business-domain checkpoint. This makes the bridge more precise but does **not** establish content origin, history repair, common anomaly cause or hidden master system.
-5. R-12's historical trust state remains unresolved before the 2163-Q4 boundary. The 2158/2160 inconsistency is unchanged. Do not manufacture a new pre-2163 pointer unless another legitimate process independently creates one.
-6. Identity convergence remains the decisive Part III requirement. B-CURRENT／Lin Che's complete 2187 biography and H-2162-U01 are still not forced into one larger explanatory model. Do not solve this by reopening held identity gates or by thematic analogy to the continuity boundary.
-7. Person-case holds remain unchanged: no T-04C person binding, anonymous transit/payment/address, family originals, left-brow reuse, new sensors, A-2162-01／02 repeat checks or carrier subtype catalogues.
-8. `市政連續性服務` remains unlinked to `MUNI-LEGACY/INGEST`, B-17, 327 years, 8-prefix, ARK or civilization cycles absent direct evidence. Do not use thematic similarity as lineage.
-9. Lin Che remains a technical declarant / affected person, not a query designer. Chapter 075 does not grant new source-chain, policy-index or cross-agency authority.
-10. If Chapter 076 unexpectedly receives an independently justified fact that directly forces Lin Che's present biography and H-2162-U01 into one larger explanatory model, stop after the fact and run an endpoint architecture checkpoint before any Part IV drafting.
-11. After one more normal writing slice, completed slices since Audit 018 will reach **4**; the following run should prioritize **Audit 019** unless Chapter 076 itself triggers an earlier endpoint checkpoint.
+1. **Audit 019 is now mandatory before any further normal drafting.** Completed writing slices since Audit 018 = 4 (Chapters 073–076).
+2. Audit Chapters 073–076 as one block for continuity, plot, prose and role drift. In particular, confirm that 073 is a true externally triggered bridge; 074–075 remain a bounded one-pointer follow-up rather than a service-index tunnel; and 076 is an institutional/human consequence rather than a disguised evidence reveal.
+3. Re-evaluate Architecture Checkpoint 005 after the audit. The system-bridge requirement is achieved, but the Part III endpoint should remain closed unless the live evidence now actually forces B-CURRENT／Lin Che's complete 2187 biography and H-2162-U01 into one larger explanatory model.
+4. Verify that Chapter 076's role firewall does **not** accidentally remove Lin Che from all historical work or all technical-declarant functions. It applies only to direct shared-node live interpretation／candidate formation／scope-expansion discussion; he can still provide prior technical facts and receive independently finalized relevant-result summaries.
+5. Person-case holds remain unchanged: no T-04C person binding, anonymous transit/payment/address, family originals, left-brow reuse, new sensors, A-2162-01／02 repeat checks or carrier subtype catalogues.
+6. R-12 checkpoint payload, sibling references and the full `市政連續性服務` index remain closed; Chapter 075 explicitly found no further necessity.
+7. `市政連續性服務` remains unlinked to `MUNI-LEGACY/INGEST`, B-17, 327 years, 8-prefix, ARK or civilization cycles absent direct evidence. Do not use thematic similarity as lineage.
+8. If Audit 019 is PASS and no endpoint checkpoint is triggered, the next post-audit slice should **not** return immediately to another shared-node procedure. Prefer a fresh scene function; the next mystery-bearing turn, when it comes, should reclaim an existing promise and move identity convergence rather than add more preservation bureaucracy.
+9. The recurring whole-manuscript `Chapter N` meta-reference convention remains a separate prose debt; do not locally clean only this four-chapter block unless Audit 019 explicitly chooses a manuscript-wide pass.
+10. If Audit 019 finds no necessary protected-document update beyond recording the audit itself, make only the minimal semantic updates required; if truly nothing must change, a genuine NO-OP is permitted.
 
-Next routine audit target: **after one more normal writing slice**; earlier only for a new structural endpoint condition.
+Next routine action: **Audit 019 before Chapter 077.**
