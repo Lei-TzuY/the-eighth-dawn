@@ -4,10 +4,10 @@
 
 - Status: active drafting.
 - Latest completed正文：`chapters/068.md`〈不要替我說不〉。
-- Completed writing slices since last audit: **4**。
-- Last audit: **Audit 016 completed after Chapter 064.**
+- Completed writing slices since last audit: **0**。
+- Last audit: **Audit 017 completed after Chapter 068.**
 - Architecture status: **Architecture Checkpoint 004 completed after Chapter 064. Part III〈沒有前史的人〉continues; Part IV is not open.**
-- Next normal audit target: **Audit 017 is due next run before further normal drafting**, unless live repository state independently creates a higher-priority maintenance requirement.
+- Next normal audit target: after roughly **4 more** normal writing slices, unless a structural problem or new system-level bridge requires an earlier stop.
 - Current phase: late-middle Part III, moving from source/mechanism testing into person-relationship / preservation-architecture / evidence-earned legacy bridge.
 
 ## Part III current state after Chapter 068
@@ -54,6 +54,17 @@
 
 ## Audit / architecture status
 
+### Audit 017 — after Chapter 068
+
+**PASS.** Chapters 065–068 contain no hard continuity contradiction and require no正文 rewrite.
+
+- Chapters 065–066 form one coherent bounded technical pair: A-2162-03 gains contemporaneous event-object binding while A-2162-01／02 legitimately lack the same relation because their original retention duties differ. The pair narrows the model instead of opening a third preservation-table loop.
+- Chapter 067's 【未結／無主動查詢】 consequence remains intact through Chapter 068. No convenient alert, new source, family-data opening or legacy-index expansion immediately defeats the trigger-only state.
+- Chapter 068 advances the character arc without changing evidence: consent now includes both refusing unnecessary access and preserving another person's right to make their own informed choice if a legitimate question later arises.
+- Procedural density is acceptable across the four-slice block: 065–066 are technical, while 067–068 deliberately return to institutional and family consequence.
+- A recurring prose convention in older正文 uses meta references such as `Chapter N`. The same convention appears in this block, but it predates Audit 017 across many stable chapters. Do **not** locally rewrite only 065／068; if this is cleaned, do it later as a deliberate whole-manuscript prose pass.
+- Part III endpoint is **not** reached. There is still no reliable system-level bridge, no justified ARK-level concept, and no reason for Architecture Checkpoint 005. Architecture Checkpoint 004 remains controlling.
+
 ### Audit 016 — after Chapter 064
 
 **PASS.** Chapters 061–064 had no hard contradiction and required no正文 rewrite. Evidence boundaries, privacy holds and Part II / Part III separation remain intact.
@@ -90,14 +101,15 @@ Next run must re-read live repo, fixed bible/continuity/progress and latest 2–
 
 Priorities:
 
-1. **Audit 017 is due before another normal writing slice.** Audit Chapters 065–068 for continuity, plot movement, prose repetition, procedural overuse, character drift and whether Chapter 067's trigger-only consequence remains intact.
-2. Audit may be a true **NO-OP** if it passes and no protected-document change is semantically necessary; do not manufacture a commit.
-3. Chapter 068 does **not** reopen family data. It only establishes that if a future specific, necessary question genuinely reaches Lin Che's mother, she wants to receive that question and decide for herself.
-4. Do not invent a convenient new alert merely to escape the trigger-only state. Any later investigation beat must independently satisfy the trigger rule and change problem type.
+1. **Audit 017 is complete. Normal drafting may resume.** Part III remains active; Part IV is not open and Architecture Checkpoint 005 is not yet warranted.
+2. Preserve Chapter 067's trigger-only state. Do **not** invent a convenient alert merely because the audit is finished. If no independently justified trigger exists, a normal-work／city／relationship slice is valid.
+3. Any later investigation beat must independently satisfy the trigger rule and **change problem type**. High-value progress should alter an established relationship, an operational architecture, or what can legitimately be asked—not repeat a source catalogue.
+4. Chapter 068 does **not** reopen family data and is not pre-consent. If a future family-data question becomes genuinely necessary, Lin Che's mother must receive the specific question and risks and decide for herself.
 5. Do not repeat A-2162-01／02 preservation checks; do not hunt new sensors, cameras or carrier subtypes merely to manufacture cross-time physical continuity.
 6. `市政連續性服務` stays separate from `MUNI-LEGACY/INGEST`, B-17, Part II discontinuity, 327 years, 8-prefix and ARK unless direct evidence links them. Full index remains closed.
 7. T-04C person binding, anonymous transit/payment/address, family originals, left-brow reuse and physical-carrier subtype expansion remain held.
 8. Do not reveal ARK / reconstruction / clone / time-travel / civilization-cycle explanations.
-9. Keep Lin Che as an affected person, not a query designer. Consent now includes respecting another person's right to refuse **and** their right to make their own informed choice if a legitimate question later arises.
+9. Keep Lin Che as an affected person, not a query designer. His agency remains consent, refusal, interpretation, boundaries, waiting, and accepting another person's right to make their own informed choice.
+10. If a true system-level bridge or Part III endpoint condition appears, stop and run an architecture checkpoint before writing through it.
 
-After Audit 017, reassess the late-Part-III route from live evidence. If a true system-level bridge or Part III endpoint condition exists, run an architecture checkpoint before writing through it.
+Next routine audit target: after roughly **4 more** normal writing slices.
