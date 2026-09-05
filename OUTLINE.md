@@ -76,15 +76,14 @@
 - Chapter 072：後果移到普通家庭／公共生活；林澈接受「限制合理」與「仍然不喜歡」可以同時成立，不再把每個代價都強迫轉譯成贖罪或成長證明。
 - Chapters 069–072 **沒有任何人物案件新證據，也沒有合法 trigger**；不得日後 retroactively 把熱網來源、降溫站口述、輪值表、修繕夜市、風扇或屋頂水槽倒接為 mystery evidence。
 
-### Chapter 073 — first cross-branch institutional bridge
+### Chapter 073–076 — cross-branch bridge, bounded meaning, and role consequence
 
-- R-12 舊控制閘道的正常資產釋放／銷毀前覆核構成獨立 operational trigger；它本來就會發生，並非人物案件主動搜尋。
-- 只讀 Chapter 044 已封存的有限 lineage 摘要上游見證，得到一張簽章有效的【2164 市政資料整併／lineage state migration】receipt；簽發主體為 **`市政連續性服務`**。
-- receipt 只證明 legacy policy state 在 2164 完成跨業務交接；**不證明交接前 lineage 正確，也不修復 2158／2160 矛盾。**
-- 既有 Chapter 063 source-level metadata 又獨立證明 A-2162-01／02／03 的 `持續可驗證保存` 策略所有者也是同一服務。
-- 因此第一次可正式建立：**Part II 歷史 discontinuity 營運 lineage 與 Part III 人物來源 preservation architecture 共享同一可驗制度節點。**
-- 不得推論 R-12 與 H-2162-U01 有人物／事件關聯，不得推論該服務造成歷史不一致，也不得把「共同服務」偷換成共同內容來源或隱藏主系統。
-- R-12 migration receipt 另保留一個未讀 `source-side continuity reference`。它現在形成具體、bounded 的候選問題，但狀態仍是**待獨立必要性覆核**；完整 `市政連續性服務` 索引仍關閉。
+- Chapter 073：R-12 舊控制閘道的正常資產釋放／銷毀前覆核構成獨立 operational trigger；只讀 Chapter 044 已封存 lineage 摘要上游見證，取得簽章有效的 2164 lineage-state migration receipt，簽發主體為 **`市政連續性服務`**。
+- 既有 Chapter 063 source-level metadata 又獨立證明 A-2162-01／02／03 的 `持續可驗證保存` 策略所有者也是同一服務；因此第一次正式建立 **Part II 歷史 discontinuity 營運 lineage ↔ Part III 人物來源 preservation architecture 的直接共同制度節點**。
+- Chapter 074：獨立必要性覆核拒絕 service-wide 擴張；人物支線的 shared-node fact 不能替 R-12 存取正當化。只核准 migration receipt 自己已有的 `source-side continuity reference` 單一參照解析。
+- Chapter 075：reference 只解析到 `R12-PRE-MIGRATION-LINEAGE-CHECKPOINT／2163-Q4`；checkpoint 由原業務維運域形成，`市政連續性服務` 是保存／交接見證。正式可背書區段只有 **2163-Q4 checkpoint → 2164 migration receipt**；pre-2163 correctness 與 2158／2160 矛盾完全維持，payload 保持關閉。
+- Chapter 076：shared node 第一次直接改變林澈的 2187 制度位置。因他同時是歷史支線技術陳述人與人物支線受影響當事人，shared-node 的 live lineage interpretation／candidate formation／scope-expansion discussion 必須由獨立端先做完；林澈保留普通工作、既有技術陳述與本人資料權利，並選擇接收獨立定案後的正式相關結果摘要。
+- Chapters 073–076 不建立 R-12 與 H-2162-U01 的人物／事件／共同內容來源／共同異常成因，也不建立該服務為內容 originator、history-repair engine 或 hidden master system。完整 `市政連續性服務` 索引仍關閉。
 
 ## Audit 016 + Architecture Checkpoint 004 — completed after Chapter 064
 
@@ -119,17 +118,26 @@
 - bridge 也不建立 ARK、重建、clone、time travel、文明循環、H-U01 身份或自然人結論。
 - Checkpoint 005 改變的是問題層級：現在不只問「那個人是什麼／為何被留下」，還要問「為什麼同一退役跨部門服務同時位於 disputed trust lineage 的 2164 交接史與 H-U01 來源的保存架構中」。
 
-## Immediate direction — after Chapter 073 / Checkpoint 005
+## Audit 019 — completed after Chapter 076
 
-### Next investigation gate
+- **PASS；073–076 無 hard continuity contradiction，不需回寫正文。**
+- Chapter 073 是真正 externally triggered landmark；074–075 只是同一已知 pointer 的必要性邊界與 ordinary result，不構成 service-index tunnel；076 把 bridge 轉成林澈本人的 conflict-of-interest consequence，沒有偽裝成新 evidence。
+- trigger-only discipline、家庭資料、T-04C、匿名交通／支付／住址、左眉、新感測器、A-2162-01／02 repeat checks 與 carrier subtype holds 全部維持。
+- 073–075 的 technical density 偏高，但功能分別是「bridge 成立 → access 收窄 → ordinary lineage boundary」，076 已切回具身制度／人物後果，因此不需 prose repair。
+- **Identity convergence 仍未達成。** B-CURRENT／林澈完整 2187 人生與 2162 成年 H-2162-U01 仍未被同一直接證據迫使進入更大的 explanatory model；Checkpoint 005 繼續控制，Part IV 不開。
+- Pacing guardrail：下一個正常 slice 不得再寫另一場 shared-node permission／lineage table／scope review。優先換 scene function；下一個 mystery-bearing turn 應回收既有 promise 並推進 identity convergence，而不是增加 preservation bureaucracy。
 
-1. **Chapter 073 是 landmark turn；下一章不要立刻把它稀釋成完整 legacy-index 展開或第二個新 mystery box。**
-2. 目前唯一被新證據直接授權的技術候選，是 R-12 2164 migration receipt 內的 `source-side continuity reference` **有限解析**。
-3. 在讀取 reference 前，必須先有獨立必要性覆核，確認它是回答「2164 migration receipt 當時依據哪一個直接來源見證替 disputed lineage 做交接」的最窄資料來源。
-4. 若獲核准，只讀該 reference 與驗證 provenance 所需的最小 metadata；不得擴到完整 `市政連續性服務` 索引、其他節點、使用者、人員或服務全史。
-5. **普通結果完全可能。** reference 可以只是正常的 pre-2164 policy-state witness；不得因為共享服務名稱終於有意義，就預設後面一定是隱藏主系統。
-6. 下一個正文也可先承接 Chapter 073 的 institutional / human weight，而不立刻讀 reference；但不得回到已完成的警示 lesson 或無新功能的等待場景。
-7. 若 reference 或其他獨立事件首次迫使 B-CURRENT／林澈完整當代人生與 H-2162-U01 進入同一個更大模型，**立即停止往下寫並先做 endpoint architecture checkpoint**；不得直接跳進 Part IV 或 ARK。
+## Immediate direction — after Audit 019 / Chapter 076
+
+### Next investigation / scene gate
+
+1. **Architecture Checkpoint 005 remains controlling. Part III is active; Part IV is not open.**
+2. The R-12 `source-side continuity reference` question is finished. The 2163-Q4 checkpoint payload, sibling references and full `市政連續性服務` index have **no current expansion necessity** and are not automatic next steps.
+3. Chapter 076's role firewall is durable but narrow: Lin Che stays in ordinary work and prior technical-declarant functions, yet does not participate in shared-node live interpretation／candidate formation／scope-expansion discussion. He may receive independently finalized relevant-result summaries.
+4. **The next normal slice should not be another procedure／permission／lineage-review scene.** Prefer embodied relationship movement, public or ordinary work, present-life consequence, or an independently arising operational event with a genuinely different dramatic function.
+5. The remaining decisive Part III target is **identity convergence**. A future mystery-bearing turn should ideally reclaim an existing promise and create direct evidence that forces B-CURRENT／Lin Che's complete 2187 biography and H-2162-U01 into the same larger question.
+6. Do not manufacture that convergence by reopening held gates, treating thematic similarity as lineage, or searching another service/table merely because the current bridge exists.
+7. If an independent event does directly create identity convergence, **stop after establishing the fact and run an endpoint architecture checkpoint before any Part IV drafting.**
 
 ### Explicit holds
 
@@ -144,13 +152,13 @@
 
 ### Scene pacing constraint
 
-- Chapter 073 的 bridge 必須有餘韻；後續技術結果不要把它埋回長表格。
-- 若下一章是技術場景，問題只能是新建立的 narrow lineage question；若只是再找另一張 table／另一個 service name，壓縮或不寫。
-- 林澈仍是受影響當事人／技術陳述人，不是 query designer；他的權限沒有因 bridge 成立而擴張。
+- Chapters 073–075 的高密度 technical block 已結束；076 已提供角色／制度後果。不要立刻再回到「申請 → 看一格 → 宣告邊界」的同構場景。
+- 下一個 technical scene 若出現，必須由新的獨立 operational trigger 產生，且結果要改變可問問題或 identity-convergence model；單純多一張 table／service name 不足。
+- 林澈仍是受影響當事人／技術陳述人，不是 query designer；Chapter 076 更要求 shared-node 未定案推論先在沒有他的情況下完成。
 
 ### Next audit gate
 
-Audit 018 後目前完成 **1 個 writing slice（Chapter 073）**。約再完成 **3 個正常 writing slices** 後做 Audit 019；若先出現 Part III endpoint condition，提前做 architecture checkpoint，不寫穿過去。
+Audit 019 後 writing-slice counter 重設為 **0**。約再完成 **4 個正常 writing slices** 後做 Audit 020；若先出現 Part III endpoint condition，提前做 architecture checkpoint，不寫穿過去。
 
 ## Part III endpoint
 
