@@ -31,21 +31,22 @@
 - Chapter 082：第二十四日下午至 16:06 左右。林澈與第三組較資淺修復員在南區市民資料服務廳支援一件**與人物案件無關**的現行資格更新來源修復；一名五十多歲女性只為冷媒管線巡檢資格更新同意必要欄位使用。她的舊訓練來源因 legacy carryover 中的 `temporary household slot alias` 被前一住戶離開後重用，加上時間欄位不完整，在現行系統形成一個 high-recall continuity candidate；後續 merge-safety 依 age-state conflict／同時段不同服務點獨立出現將兩主體保持分離。修復員只用該女性本人已授權的訓練來源、後續複訓鏈與外部工會考場見證完成資格必要來源重建，不辨識、不開啟也不合併匿名 counterpart。此例只建立**現行普通系統可以因寬鬆 carryover 訊號形成 false candidate**；不建立其與 2164 流程、`市政連續性服務`、林澈／A-2162-02 個案或任何歷史 lineage 的關係。林澈明確只把它記成 contemporary ordinary example，沒有把 proposal basis 外推到 2164；人物案件沒有新證據、查詢或權限變更。
 - Chapter 083：第二十四日下午 16:38 至 17:47 後。林澈回到第六修復室後接收一份**獨立範圍定案，而非新證據結果**。既有人物問題【H-2162-U01 ↔ 林澈真實關係】維持未解／無主動搜尋；另將【何種上游流程於 2164 形成 child-education-subject ↔ A-2162-02 subject-region continuity proposal】獨立保存為歷史連續性問題，狀態為【未解／被動觸發／active lookup none】。其衍生問題包只保留兩端既有 preservation roots、2164 `continuity proposal received → DO NOT MERGE` stage relation、已知 separation-stage issuer「市政連續性服務」以及 proposal source-domain／proposer／direct-pointer 未知狀態；林澈姓名、臉、家庭資料與現行身份不作該問題的搜尋條件，affected-person mapping／finalized-result notification 另行保存且仍為 retain。未來只有獨立 operational source 自然 surfaced direct proposal/source-domain relation、既有 pointer 在其他合法 workflow 產生必要性，或法定必要性實質改變，才可觸發評估；外貌相似、個人好奇、既有未解身份問題與 service-wide index fishing 均不構成 trigger。此章不新增 historical evidence、查詢權、direct pointer、proposer identity 或 legacy lineage；下班前林澈只處理普通行人天橋維修紀錄。
 - Chapter 084：第二十五日上午 08:26 至傍晚 17:52。Audit 021 後第一個 normal slice。Chapter 083 已建立的 historical-continuity passive problem card 不再固定顯示於林澈的工作首頁；這是 routing 的 presentation/workflow consequence，不是刪除、結案、權限變更或新 evidence。人物關聯仍【未結／無主動查詢】，affected-person finalized-result notification 仍保留。林澈制度上可自行重新釘選被動狀態圖示，但因其不改變通知條件、不增加情報或 access，選擇不釘回。當日只完成高架步道巡檢記錄器、紙本表單與雨水閘門等普通修復，無案件通知、trigger、direct pointer、source domain 或 legacy 新關係。
+- Chapter 085：第二十六日上午至至少 16:19 後，林澈仍在南區歷史資料局。歷史完整性審查端因一批 **2164 consolidation-exchange receipts 的舊驗證根本週退役**，進行原本就必須完成的收據重新錨定；此 operational reason 與人物案件無關。獨立覆核以 Chapter 083 歷史連續性被動 route 中既有的兩個 preservation roots 命中一張 receipt，沒有使用林澈姓名、臉、家庭資料或人物案件 active query。林澈依 Chapter 076 firewall 只接收 finalized relevant result。receipt 建立：指定 child-education-root ↔ A-2162-02 root 的 proposal **不是在 2164 consolidation layer 新生成**（`proposal formation at consolidation: NO`），而是以 `CARRY-FORWARD` 從一個 `pre-consolidation subject-continuity assertion` 帶入；另有一個 predecessor relation pointer 與 receipt 密碼學綁定且已確認存在。該 pointer 仍【unopened】，其 current necessity 由獨立端 scope review 中；人物案件 active search 仍否、full service index access 仍否、林澈 live participation 仍否。receipt 不建立 predecessor assertion 的精確日期、source domain、proposer、形成依據、強度、正確性、人物身份或物理機制，也不等同 same identity。當日市場遮棚驗收紀錄只是普通工作；林澈沒有重新釘選被動問題卡、沒有抄錄 pointer 到私人索引。
 
 ## Current location / institutional state
 
-- Chapter 084 結尾為第二十五日傍晚，約 17:52 後，林澈離開南區歷史資料局。Audit 021 已完成；Part IV post-audit writing-slice counter = 1，下一個 normal slice 可從 Chapter 085 開始。
-- 人物案件仍為【未結／無主動查詢】；Chapter 083 建立的**歷史連續性問題被動 routing**仍有效。2164 upstream proposal-origin 問題可在不以林澈姓名、臉、家庭資料或現行身份作搜尋條件的前提下被保存，未來若有獨立合法 direct relation 才先由歷史連續性範圍判斷。Chapter 084 將該被動問題卡移出林澈個人工作首頁，只是 presentation/workflow consequence；保留的問題包、trigger rules、affected-person finalized-result notification 與 access authority 均未改變，不構成 active lookup、資料調取、scope expansion、新 evidence 或結案。
-- Chapter 076 新增的是**角色／利益衝突邊界**而非案件權限變更：凡直接涉及「市政連續性服務」共同制度節點的後續 live lineage interpretation、候選形成與擴張必要性討論，林澈必須等獨立端先完成；他的 shared-node 即時協作入口已從工作列移除。此限制不等於把他移出全部歷史支線、不撤銷普通修復工作，也不取消他對既有 R-12 封存同一性的技術陳述資格。
-- 林澈已選擇【受影響當事人／正式相關結果通知：保留】；因此若未來有獨立覆核完成、且與其既有技術陳述或本人權益直接相關的結果，他可收到正式摘要。此選擇**不授權他參與查詢、中間候選、未定案推論或擴張必要性設計**。Chapter 079 正常執行了此規則：他只決定自己的新資料用途，未參與 independent candidate interpretation。Chapter 081 也維持相同邊界：他只看 independent finalized synthetic replay，沒有 case data、live candidate 或 query control。Chapter 082 完全是另一名市民的本人用途服務；林澈只做普通來源修復支援，沒有取得人物案件 live interpretation 或新 access。Chapter 083 又進一步將歷史連續性問題包與 affected-person notification mapping 分離，仍沒有讓林澈取得 live interpretation／query control；Chapter 084 也沒有改變這些權限。
-- `市政連續性服務` 完整舊制度索引仍未展開。Chapter 073 首次以 R-12 已封存 lineage 摘要自身的 2164 migration receipt，直接建立 Part II 歷史 discontinuity 營運鏈 ↔ 該服務的 migration lineage；Chapter 075 進一步證明在 R-12 這一條線上，該服務是 2163-Q4 checkpoint 的**保存／交接見證**，不是已證明的內容形成者。Chapter 079 再以教育封存自身例行 wrapper 轉置自然 surfaced 的既存 witness，直接建立該服務曾在 2164 對兒童林澈教育主體 ↔ A-2162-02 匿名 subject region 做過 `DO NOT MERGE` 的 subject-separation 決定；Chapter 081 又證明這個 separation stage 的 ordinary duty 是**接收已形成 proposal 後做 merge-safety disposition**，並未證明該 stage 或該服務本身就是 candidate originator。
-- Chapter 081 的 generic conformance result 只回答 witness schema／stage semantics。它不建立實際 case proposal 的來源域、proposer、人工／規則式機制、跨域 carryover 或任何更深 lineage；actual upstream proposal origin 仍未知，且現有 material 無 direct pointer。
-- Chapter 082 的 contemporary high-recall carryover／false-candidate example 只屬另一套現行服務的 ordinary mechanism existence proof。**不得**把 `temporary household slot alias`、現行 high-recall 邏輯、現行 identity-service 架構或該市民的匿名 counterpart 外推成 2164 candidate basis，也不得據此建立其與 `市政連續性服務` 的 lineage。
-- Chapter 083 的 historical-continuity passive route 只改變**後續合法 direct metadata 若自然出現時先由哪一類問題接收**；它不證明 `市政連續性服務` 是 upstream proposer，不建立 source-domain、direct pointer、proposal strength、服務 lineage 或 hidden system。Chapter 084 沒有新增任何形成證據。
-- R-12 的可驗 lineage boundary 現在可精確寫為：【2163-Q4 checkpoint → 2164 migration receipt：可重驗】；【2163-Q4 以前：不由後續 continuity witness 背書】。此界線不修復 2158／2160 contradiction，也不授權讀 checkpoint payload。
-- Chapter 074 建立的 access rule 維持：人物支線的共同制度節點不能作為 R-12 存取擴張依據；Chapter 075 的解析結果也不得自動觸發人物資料搜尋。
-- Chapter 079 符合 Chapter 067 trigger-only 規則的「既有來源於其他合法作業中自然產生新可區辨關係」：教育封存中心的 verification-wrapper 轉置是自身正常 lifecycle，不是林澈或人物案件為找答案而發起。trigger 成立只允許案件重新評估，不自動授權新搜尋或 service-wide expansion。Chapter 081 使用的是同一轉置作業已經需要的 generic conformance semantics，並由獨立端先行完成，不構成新的案件搜索。Chapter 082 則根本不是人物案件作業，沒有構成新 trigger。Chapter 083 也沒有 source/data event，只做 independent scope routing，不構成 evidence trigger；Chapter 084 同樣沒有任何 source/data trigger。
-- A-2162-01／02 的 contemporaneous physical-object relation 候選已完成：**未建立，且缺少符合原始保存責任。不得以「可能在別處」為由搜尋新感測來源補建。** Chapter 079 的 A-2162-02 root match 是 2164 subject-separation metadata relation，不是新的 physical-event binding；Chapter 081–084 也沒有新增 physical evidence。
+- Chapter 085 結尾仍為第二十六日下午，至少 16:19 後，林澈在南區歷史資料局；正文未建立當日離開時間。Audit 021 後 writing-slice counter = 2。Architecture Checkpoint 007 已在 Chapter 085 後完成；Part IV〈第七座墓〉繼續，Part V 未開。下一個 normal slice 可從 Chapter 086 開始，routine audit 約再 2 個 normal slices 後。
+- 人物案件仍為【未結／無主動查詢】。Chapter 083 建立的**歷史連續性問題被動 routing**仍有效；Chapter 084 只把其卡片移出林澈工作首頁；Chapter 085 則證明這條 passive route 可以在不使用林澈個人識別資料的情況下接收獨立 operational workflow 自然 surfaced 的 direct relation metadata。
+- 2164 upstream proposal-origin 問題已由 Chapter 085 進一步縮窄：對這一對指定 roots，**2164 consolidation layer 不是 proposal origin**。兩端 proposal 由一個 pre-consolidation `subject-continuity assertion` carry forward。真正未解現在上移為：該 predecessor assertion 在何時／何處／何種 source domain 形成、誰或哪個流程提出、依據與強度為何。
+- Chapter 085 新增一個**單一、直接、已存在的 predecessor relation pointer**；它密碼學綁定在 2164 transfer receipt，但內容尚未讀取。其 existence 本身是 evidence；其 payload／semantics 不是。Independent scope review 必須先判斷必要性。若未來獲准，最窄可考慮的對象只到這一個 pointer，不自動包含 sibling references、完整 service index 或人物資料擴張。
+- Chapter 076 的**角色／利益衝突邊界**繼續控制：凡涉及共同制度節點／predecessor relation 的 live interpretation、query execution、scope expansion 或必要性設計，林澈必須等獨立端先完成；他僅能接收與本人權益／既有技術陳述直接相關的 finalized result。Chapter 085 完整遵守此邊界。
+- 林澈已選擇【受影響當事人／正式相關結果通知：保留】；Chapter 085 沒有改變這項選擇，也沒有讓他的姓名重新進入歷史問題搜尋條件。
+- `市政連續性服務` 完整舊制度索引仍未展開。Chapter 073 首次以 R-12 2164 migration receipt 建立其跨支線共同制度節點；Chapter 075 限縮 R-12 線上的角色為保存／交接見證；Chapter 079 證明它曾執行 child Lin ↔ A-2162-02 的 2164 subject-separation／merge-safety；Chapter 081 證明 separation stage 接收已形成 proposal。**Chapter 085 沒有建立 `市政連續性服務` 為 predecessor assertion originator**，receipt 也沒有給出 predecessor source domain。
+- Chapter 081 的 generic conformance result 仍只回答 witness schema／stage semantics；Chapter 082 的 contemporary false-candidate example 仍只是另一套現行系統的 ordinary mechanism existence proof。Chapter 085 排除的是「這一對指定 roots 在 2164 consolidation layer 才被新做成 proposal」這個版本，**不是**排除所有更早的 ordinary high-recall／migration／carryover／deduplication 形成機制。
+- R-12 的可驗 lineage boundary 仍為：【2163-Q4 checkpoint → 2164 migration receipt：可重驗】；【2163-Q4 以前：不由後續 continuity witness 背書】。Chapter 085 的 predecessor relation 屬另一個 subject-continuity provenance 問題，不能拿來修復 R-12 的 2158／2160 contradiction 或替 Part II 增加原因結論。
+- Chapter 074 建立的 access rule 維持：人物支線的共同制度節點不能作為 R-12 存取擴張依據；Chapter 085 也不能反過來把 R-12 reference 當成 predecessor pointer 的授權依據。
+- Chapter 079 符合 Chapter 067 trigger-only 規則；Chapter 085 也符合 Chapter 083 historical-continuity passive trigger 的獨立 operational source 條件：驗證根退役是收據自身正常 lifecycle，非林澈／人物案件為找答案而發起。trigger 只使既有 root-pair relation 得以接收 finalized metadata，不自動授權打開 predecessor pointer。
+- A-2162-01／02 的 contemporaneous physical-object relation 候選已完成：**未建立，且缺少符合原始保存責任。不得以「可能在別處」為由搜尋新感測來源補建。** Chapter 079、081、083、085 的 relation 都屬 identity／migration／proposal governance provenance，不是 physical-event binding。
 - 林澈仍為 `DI-2187-0612-4431` 原媒介部分「技術陳述人」；沒有原始來源晶片、封存案件媒介操作權、來源鏈／政策調查存取、跨機關擴查主導權或完整影像副本。
 - 一般外接媒介職務權限已恢復；Chapter 026 書面職務警示仍有效，未來六個月遇來源即將清除／來源狀態不明時須先啟動雙人見證保全。
 - Chapter 069 首次在普通工作中實際觸發上述雙人見證規則：第二見證可由合格同事擔任，不要求主管本人在場；先保全來源狀態、再開內容，機構只保留必要封存／工作副本。這不撤銷警示，也不新增林澈權限。
@@ -60,9 +61,10 @@
 - Chapter 082 的市民資料服務廳、女性資格更新、舊訓練紙本、臨時戶別槽位 alias、匿名 counterpart、現行 carryover／merge-safety 與社區消防泵保養單都只是**當代普通服務／工作素材**；不得 retroactively 倒接成 H-2162-U01、2164 proposal origin、`市政連續性服務`、B-17、MUNI-LEGACY/INGEST、327 年、ARK 或其他 mystery evidence。
 - Chapter 083 的行人天橋維修紀錄、新舊扶手零件碼與工作門禁都只是普通工作／收尾場景；不得 retroactively 倒接成 historical-continuity source、2164 proposal pointer、B-17、`市政連續性服務` 或其他 mystery evidence。
 - Chapter 084 的高架步道巡檢記錄器、兩毫米伸縮縫位移、不同批次紙本表單、雨水閘門年度影像、露台午餐與工作首頁空位都只是普通工作／人物後果場景；不得 retroactively 倒接成 historical-continuity source、2164 proposal pointer、`市政連續性服務`、B-17、327 年、ARK 或其他 mystery evidence／trigger。
+- Chapter 085 的市場遮棚驗收紀錄、施工單換版、照片標籤延遲、後門湯店與日常工作都是 ordinary scene material；不得倒接成 predecessor relation evidence。**只有** verifier-root retirement、2164 consolidation-exchange receipt、既有 root-pair match、CARRY-FORWARD metadata 與 bound predecessor pointer 是本章新 historical evidence。
 - 人物關聯覆核中林澈是受影響當事人，可同意／拒絕個人資料用途、閱覽核准範圍與正式結果、表達偏好；不得執行查詢、調閾值、擴候選或查看中間分數。
-- `H-2162-U01` 仍只是案件內部暫定歷史人物節點，沒有姓名、法律身份、血緣、職稱或與林澈同一身份結論。Chapter 079 只證明其 A-2162-02 source region 曾在 2164 被置入與兒童林澈教育主體相對的 subject-continuity candidate／separation decision；Chapter 081–084 沒有新增人物身份內容。
-- 家庭資料 gate 仍關閉。Chapter 068 不構成新授權、不提交任何新家庭來源、不重啟 Chapter 013 四張家庭原件用途；只建立「未來若有新的具體必要性，母親本人要被詢問並自行決定」的 consent rule。Chapter 079 沒有使用家庭資料或母親同意。Chapter 080 只向母親說明既有定案結果，沒有索取或接收任何家庭資料。Chapter 081–084 沒有新增家庭資訊或再向母親更新技術結果。
+- `H-2162-U01` 仍只是案件內部暫定歷史人物節點，沒有姓名、法律身份、血緣、職稱或與林澈同一身份結論。Chapter 079 建立 A-2162-02 ↔ child Lin 2164 subject-separation relation；Chapter 085 只把這一指定 proposal 的 provenance 往前推到 pre-consolidation assertion，**不增加 same-identity 或 natural-human strength**。
+- 家庭資料 gate 仍關閉。Chapter 068 不構成新授權、不提交任何新家庭來源、不重啟 Chapter 013 四張家庭原件用途；只建立「未來若有新的具體必要性，母親本人要被詢問並自行決定」的 consent rule。Chapter 079 沒有使用家庭資料或母親同意。Chapter 080 只向母親說明既有定案結果，沒有索取或接收任何家庭資料。Chapter 081–085 沒有新增家庭資訊或再向母親更新 technical result。
 - Chapter 069 的熱交換站來源與人物案件、`市政連續性服務`、Part II discontinuity、327 年及 ARK 均無已建立關係；不得因主題上同樣涉及「保存」就把它 retroactively 寫成案件 trigger 或 legacy bridge。
 - Chapter 070 的社區降溫站口述紀錄同樣只是普通工作素材；不得把姓名映射未進入工作副本、志工值勤資訊或新修復員的跟班安排倒接成 H-2162-U01 身份線、家庭資料線、`市政連續性服務` lineage 或其他案件 trigger。
 - Chapter 071 的輪值資格結果只屬 2187 當代人事／職務控制，不得倒接成人物案件的「系統回應」、外部新證據觸發、`市政連續性服務` lineage 或其他 mystery evidence。
@@ -93,6 +95,7 @@
 - Chapter 074：`source-side continuity reference` 的讀取必要性已獨立成立，但尚未讀取；因此對 2158／2160 contradiction 本身沒有新增實體證據或成因結論，只新增一個經授權的最窄查詢入口。
 - Chapter 075：單一 reference 解析確認 target 為 2163-Q4 `legacy lineage state checkpoint`，形成來源是原業務維運域，「市政連續性服務」為保存見證，驗證鏈有效。可正式背書的只是【2163-Q4 checkpoint → 2164 migration receipt】；**2163-Q4 以前 lineage correctness 仍未被證明，2158／2160 歷史時間不一致完全維持。** target payload 未讀，因此不得拿它解釋更早 history。
 - Chapter 076 沒有新增 Part II evidence；只因 shared node 已成立而前移林澈的利益衝突邊界。不得把角色限制本身解讀成系統「害怕他查到什麼」或其他 mystery response。
+- Chapter 085 的 pre-consolidation subject-continuity carry-forward 是另一個 root-pair governance/provenance 問題；它**不修復、不解釋也不重新加權** 2158／2160 historical discontinuity。
 - 此支線不得替人物身份結論加權。
 
 ### 2162 historical person / Lin Che
@@ -109,6 +112,7 @@
 - Chapter 082：另一套現行普通服務證明 high-recall carryover 可以形成 false continuity candidate，因此「曾成為 candidate」本身不能被當成「上游已高度相信同一身份」的充分證據。**此 contemporary example 不直接描述 2164 個案，不能拿它判定當年 proposal 的強弱、規則、來源域或形成原因。**
 - Chapter 083：沒有新增身份／人物 evidence；只將「H-2162-U01 ↔ 林澈真實關係」與「2164 upstream proposal origin」拆成兩個不同治理問題。歷史連續性問題包使用既有 subject roots 與 stage metadata，不把林澈識別資訊作搜尋條件；這不改變兩端既有 relation 強度，也不能推論同一身份、親屬、proposal strength 或形成機制。
 - Chapter 084：沒有新增身份／人物 evidence；工作首頁 presentation 的改變不改變兩端既有 relation、人物案件狀態或 upstream proposal-origin 問題的證據強度。
+- Chapter 085：指定 root pair 的 proposal provenance 往前推到一個 **pre-consolidation subject-continuity assertion**。可建立的是「這一對關係在 2164 consolidation intake 以前已存在且被 carry forward」；不可建立 assertion 的 exact date、same-identity strength、source domain、proposer、形成 basis、correctness、kinship、same physical body 或 natural-human continuity。
 
 ### Source / synthesis / physical-presence tests
 
@@ -122,6 +126,7 @@
 - Chapter 066：A-2162-01／02 的來源附著保存關係均**沒有**保存人物影像區域 ↔ 獨立物理事件物件之 contemporaneous binding。A-2162-01 保存重點是 CIM-4R-7714／測試輸出／視場校正／工作區事件／交接封套；A-2162-02 保存重點是七份抽查媒介／來源編號／設備見證／內容摘要／時間序列／轉交封套／驗證結果。缺少 physical-object binding 與各自原始責任相容，不構成異常刪除證據。
 - 因此 **H-2162-U01 跨時間 physical-event continuity：未建立。** 六月／八月人物來源、工作情境、兩個月重複出現與 T-04C 非人事責任鏈均維持既有強度；不得因 Chapter 066 負結果降格，也不得把 A-2162-03 的物理綁定外推給它們。
 - Chapter 079 的 2164 subject-separation relation 是 identity／migration governance relation，不是 physical-event continuity；不能用它把 A-2162-02 升格成自然人、真人身體或 A-2162-01／03 的跨時間物理綁定。
+- Chapter 085 的 pre-consolidation assertion／transfer receipt 也只是 relation provenance；不能用它補建任何 physical-event binding。
 
 ### Preservation architecture
 
@@ -141,10 +146,12 @@
 - Chapter 082 不新增任何歷史 preservation evidence。其現行 high-recall carryover example 只證明在**另一個當代系統**中，寬鬆候選形成＋後置 merge-safety 是可存在的普通架構；不能據此建立 2164 流程的 lineage、source domain、candidate strength 或 `市政連續性服務` 上游角色。
 - Chapter 083 不新增任何歷史 preservation evidence／legacy lineage。它只建立 routing/governance：未來若獨立來源自然 surfaced 與 2164 proposal/source-domain 的 direct relation，可先在 historical-continuity scope 下評估，再決定是否有資格觸及人物身份。這不建立 proposer identity、direct pointer 或 `市政連續性服務` upstream-originator 身分。
 - Chapter 084 不新增任何歷史 preservation evidence／legacy lineage。被動問題卡從林澈工作首頁移除，只是 Chapter 083 routing 的 presentation/workflow 後果，不改變 retained problem package、trigger rules、notification mapping 或 access authority。
+- Chapter 085 新增一條**直接 proposal-transfer provenance**：2164 consolidation-exchange receipt 證明這一指定 pair 的 proposal 不是 consolidation layer 新建，而是由 pre-consolidation `subject-continuity assertion` `CARRY-FORWARD`。receipt 另保留一個密碼學綁定 predecessor relation pointer。這建立「relation 早於 2164 consolidation intake」，但不建立 exact earlier date、source domain、assertion semantics/strength/correctness 或 predecessor originator。pointer 尚未讀取，不能把其內容當成已知。
+- Chapter 085 不把 predecessor relation 接到 `市政連續性服務`、B-17、`MUNI-LEGACY/INGEST`、327 年、64-bit/8-prefix、ARK、reconstruction 或 civilization cycles。除非後續 direct evidence 成立，這些線仍必須分開。
 
 ## Knowledge / consent boundaries
 
-- 林澈母親知道：歷史人物與林澈高度相似；2162 教育鏈支持林澈當時為兒童而歷史人物為成年；A-2162-03 所在位置另有成人尺度、會移動的物理占位；林澈在無必要性時不追匿名乘車序列；Chapter 068 又從林澈口中知道人物案件目前「沒有一個夠好的下一步／暫時不主動查」；Chapter 072 她也知道林澈的六個月警示目前使他不能排單人緊急首接主值，但其他工作照常；Chapter 077 她又只以高層次知道：有一部分可能涉及林澈自身利益的調查現在必須由獨立端先形成結論，林澈本人只能在完成後接收正式相關摘要。Chapter 080 後，她再以高層次知道：2164 年一筆舊制度紀錄已把林澈兒童教育主體與成年歷史人物的一份來源放入同一 continuity candidate，並因同年兒童／成年年齡衝突拒絕合併；她也知道 candidate 最初為何形成仍未知。她**不知道** `市政連續性服務` 名稱、A-2162-02 代碼、R-12、2163-Q4、Part II discontinuity 或其他 shared-node 技術細節。Chapter 081–084 沒有再向她更新 technical result。
+- 林澈母親知道：歷史人物與林澈高度相似；2162 教育鏈支持林澈當時為兒童而歷史人物為成年；A-2162-03 所在位置另有成人尺度、會移動的物理占位；林澈在無必要性時不追匿名乘車序列；Chapter 068 又從林澈口中知道人物案件目前「沒有一個夠好的下一步／暫時不主動查」；Chapter 072 她也知道林澈的六個月警示目前使他不能排單人緊急首接主值，但其他工作照常；Chapter 077 她又只以高層次知道：有一部分可能涉及林澈自身利益的調查現在必須由獨立端先形成結論，林澈本人只能在完成後接收正式相關摘要。Chapter 080 後，她再以高層次知道：2164 年一筆舊制度紀錄已把林澈兒童教育主體與成年歷史人物的一份來源放入同一 continuity candidate，並因同年兒童／成年年齡衝突拒絕合併；她也知道 candidate 最初為何形成仍未知。她**不知道** `市政連續性服務` 名稱、A-2162-02 代碼、R-12、2163-Q4、Part II discontinuity 或其他 shared-node 技術細節。Chapter 081–085 沒有再向她更新 technical result；因此她也不知道 Chapter 085 的 pre-consolidation assertion 或 predecessor pointer。
 - Chapter 013 四張家庭原件用途仍限傷痕形成時序／有限表面特徵比較；未重新授權身份／血緣模型。
 - Chapter 068 母親沒有提交任何新資料，也沒有給出預先同意。她只要求：若未來出現新的具體必要性，必須由她本人收到清楚用途／風險說明後再決定。此原則不得偷換成「家庭 gate 已鬆動」。Chapter 080 亦沒有提交任何新家庭資料。
 - 左眉凹痕為林澈 11 歲事故後形成；封存影像男子有位置高度相容的局部凹陷，但形狀／深度不足。左眉目前維持 hold。
@@ -165,15 +172,18 @@
 - Chapter 082 後，林澈又知道一項**不可直接套回案件**的普通背景：現行另一套服務可以故意用高召回 carryover 形成 false candidate，再由 merge-safety 擋住錯誤合併。因此他把「candidate 曾存在」與「proposer 已有強同一身份判斷」分開；但對 2164 個案的 proposer、proposal strength、source domain、規則或 lineage 仍一無所知，且沒有 direct pointer 可追。
 - Chapter 083 後，林澈知道 2164 upstream proposal-origin 已被獨立保留成 historical-continuity passive-trigger 問題；該問題不以他的姓名、臉、家庭資料或現行身份作搜尋條件，但 affected-person finalized-result notification mapping 仍分開保留。他仍不知道 proposer、source domain、proposal strength、direct pointer 或機制，也仍不能參與 live interpretation／scope-expansion design。這是治理／角色位置改變，不是新 evidence。
 - Chapter 084 後，林澈進一步接受：被動歷史問題可以從他的個人工作首頁移走而仍保持真實、可保留、可在合法 trigger 出現後由獨立端處理；他選擇不重新釘選只會顯示「仍未解」的狀態圖示，因為固定看著它不會增加證據或讓通知更早到來。這是人物／角色位置變化，不新增任何 technical knowledge 或案件事實。
+- Chapter 085 後，林澈知道指定 child-education-root ↔ A-2162-02 proposal 不是在 2164 consolidation layer 新生成，而是從更早的 pre-consolidation `subject-continuity assertion` carry forward；一個 predecessor relation pointer 已存在並與 transfer receipt 綁定，但尚未開啟。他不知道其 exact date、source domain、proposer、basis、strength 或 correctness，且接受 pointer 出現不等於自己取得立即讀取權。
 
 ## Open continuity questions /伏筆
 
 - 327 年共同絕對紀元基準為何落在該位置，真實年代為何。
 - 64-bit 週期／8 次固定前綴究竟表示什麼。
 - 封存影像男子、`H-2162-U01`、`T-04C` 持證人彼此關係。
-- 2162 兒童林澈與成年 H-2162-U01 的真實關係；Chapter 079 已證明兩端在 2164 曾進入同一 subject-continuity candidate 並因 age-state conflict 被分開，Chapter 081 又證明 separation stage 只是接收已形成的 upstream proposal，Chapter 082 則只在**另一個現行系統**中證明 false/high-recall candidate 是普通可能，Chapter 083 再把 upstream proposal-origin 獨立成 historical-continuity passive-trigger 問題但**沒有增加任何形成 evidence**；Chapter 084 只改變林澈工作首頁的 presentation，沒有新增形成證據。真正未解仍是：何種上游 continuity proposal／source-domain lineage 先把兩端送入 2164 candidate，以及該 proposal 當時究竟是寬鬆候選還是更強的關係判斷；現有 material 無 direct pointer。
+- 2162 兒童林澈與成年 H-2162-U01 的真實關係；Chapter 079 已證明兩端在 2164 曾進入同一 subject-continuity candidate 並因 age-state conflict 被分開；Chapter 081 證明 separation stage 只是接收已形成 proposal；Chapter 082 只在另一個 contemporary system 建立 false/high-recall candidate 的 ordinary possibility；Chapter 083 將 proposal-origin 拆為 historical-continuity passive problem；Chapter 084 只改變 presentation；**Chapter 085 現在進一步證明這一對指定 proposal 在 2164 consolidation layer 並非新生成，而是由 pre-consolidation subject-continuity assertion carry forward。** 真正未解已上移為：predecessor assertion 何時／何處形成、source domain／proposer 是誰或什麼流程、形成 basis 與 strength/correctness 為何。單一 predecessor pointer 已建立但尚未開啟。
 - A-2162-03 的物理載體究竟是自然人、物理替身、三維載體／穿戴式外觀或其他物理對象；影像外觀是否為其本身外觀。
 - R-12 的可驗 lineage 已能從 2163-Q4 checkpoint 重走到 2164 migration receipt；**2163-Q4 以前 lineage correctness、以及 2158／2160 歷史不一致真正成因仍未解。** checkpoint payload 仍關閉，沒有後續讀取必要性。
-- `市政連續性服務` 的完整制度定義、完整索引、2164 migration／receipt／subject-separation 規則與其他 legacy 系統關係；Chapter 073 已建立其跨支線共同制度節點，Chapter 075 將 R-12 線上的角色限縮為保存／交接見證，Chapter 079 又直接證明它曾執行跨域 subject-continuity merge-safety；Chapter 081 進一步顯示 separation stage 本身不是已證明的 candidate origin。Chapters 082–084 不建立任何新 lineage。仍不得因此預設該服務是隱藏主系統或 ARK 前身。
+- `市政連續性服務` 的完整制度定義、完整索引、2164 migration／receipt／subject-separation 規則與其他 legacy 系統關係；Chapter 073 已建立其跨支線共同制度節點，Chapter 075 將 R-12 線上的角色限縮為保存／交接見證，Chapter 079 又直接證明它曾執行跨域 subject-continuity merge-safety；Chapter 081 顯示 separation stage 本身不是 candidate origin。**Chapter 085 不建立它是 pre-consolidation predecessor assertion originator。** 完整 index 仍關閉。
+- Chapter 085 predecessor relation pointer 的 lawful necessity review 結果；若未來獲准，該 predecessor relation 的 object class／formation semantics／time boundary／source domain 為何。Pointer existence 不等於 payload 已知。
 - `CIM-4R-7714` 是否曾直接拍攝封存影像。
+- B-17／`MUNI-LEGACY/INGEST` 的精確政策修訂來源仍與 Chapter 085 predecessor relation **無已建立 direct link**；不得因都涉及 legacy／consolidation／continuity 就合併兩線。
 - ARK、七次文明滅亡／重建與文明循環全部仍是 author-only truth。
