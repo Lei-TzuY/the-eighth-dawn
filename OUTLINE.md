@@ -150,44 +150,70 @@
 
 ## Architecture Checkpoint 006 — completed after Chapter 079
 
-- **Part III〈沒有前史的人〉完成於 Chapter 079。Part IV〈第七座墓〉從下一個正文 slice 開放；本 checkpoint 不寫穿轉段。**
+- **Part III〈沒有前史的人〉完成於 Chapter 079。Part IV〈第七座墓〉從 Chapter 080 開放。**
 - Chapter 079 補上 Part III 唯一剩餘的 endpoint condition：B-CURRENT／林澈完整普通人生與 H-2162-U01 不再只是被 2187 調查並列，而是由一筆 2164、早於本案的 subject-separation witness 直接置於同一 historical/system question。
-- 現在可以正式排除「這個關係純粹是 2187 因臉太像才製造出來」的普通版本；但**不能**排除 ordinary 2164 migration／dedup／subject-continuity safety 先形成 candidate 的可能。
-- `candidate-origin basis` 未保存，是 Part IV 開場最重要的新問題。
+- 現在可以正式排除「這個關係純粹是 2187 因臉太像才製造出來」的普通版本；但在當時仍不能排除 ordinary 2164 migration／dedup／subject-continuity safety 先形成 candidate 的可能。
+- `candidate-origin basis` 未保存，成為 Part IV 開場最重要的新問題；Chapter 085 後已進一步知道 specified pair 的 relation 是由 pre-consolidation assertion carry forward，而非 2164 consolidation layer 新生成。
 - `市政連續性服務` 仍不是 ARK、不是已證明的 identity originator／content originator／history-repair engine／hidden master system。
-- 完整 service index 仍無自動必要性；Chapter 079 本身不授權 service-wide expansion。
 - H-U01 仍無姓名／法律身份／血緣／同一人物結論；B-CURRENT 現行身份效力完全維持。
-- 所有 held identity gates 繼續維持，除非新的 direct source 產生真正不同的使用條件。
 
-## Part IV — 第七座墓 — open after Chapter 079; no Part IV prose yet
+## Audit 021 — completed after Chapter 083
 
-### Opening objective
+- **PASS；080–083 無 hard continuity contradiction，不需回寫正文。**
+- 080 讓 identity-convergence 落入家庭；081 以 generic conformance semantics 支持 ordinary merge-safety／normal omission；082 用完全無關的 contemporary case 證明 candidate 可以高召回而非強身份判斷；083 把 person relation 與 historical proposal-origin routing 分開。
+- Chapters 081–083 的 candidate／schema／routing explanatory block 已完成；不得再以第四種同構 tutorial 延長。
+- Chapter 076 firewall、family gate、T-04C、匿名交通／支付／住址、左眉、新 sensor、A01/A02 physical-event repeat 與 carrier subtype holds 全部維持。
+- Pacing gate：Audit 021 後優先讓下一個合法 mystery-bearing turn **改變模型**；沒有合法來源時寧可寫具身後果，不製造 clue。
 
-把 Part III 已建立的「歷史上的制度關係」轉成文明尺度問題，但必須先公平測試普通 2164 candidate-formation 機制。第一個 Part IV 問題不是「ARK 是什麼」，而是：
+## Architecture Checkpoint 007 — completed after Chapter 085
 
-> **2164 的 continuity process 為什麼會先把兒童林澈教育主體與 A-2162-02 匿名 subject region 當成 continuity candidates，才因年齡衝突拒絕合併？**
+- **Part IV 繼續；Part V 不開。**
+- Chapter 084 先支付 Chapter 083 routing 的 ordinary human/workflow consequence：被動問題卡離開林澈工作首頁，notification 保留；沒有新證據。
+- Chapter 085 的 2164 consolidation-exchange receipt verifier retirement 是獨立 operational trigger；root-pair match 不使用林澈姓名、臉、家庭資料或人物 active search。
+- 指定 child-education-root ↔ A-2162-02 proposal 在 2164 consolidation layer 的 `proposal formation` 為 **NO**；transfer mode 為 **`CARRY-FORWARD`**；input relation class 為 **`pre-consolidation subject-continuity assertion`**。
+- 因此「這一對指定 roots 是 2164 consolidation 本身用 generic candidate formation 新湊出來」已不再成立。Relation 已存在於 consolidation intake 以前；但這**不排除更早的 ordinary migration／carryover／dedup／high-recall mechanism**。
+- 一個 cryptographically bound predecessor relation pointer 已建立，但仍 **unopened**；independent scope review 必須先判斷必要性。
+- predecessor exact date、source domain、proposer、basis、strength、correctness 全未知；`subject-continuity assertion` 不等於 same identity。
+- Chapter 085 不建立 `市政連續性服務` 是 predecessor originator，也不建立 B-17／`MUNI-LEGACY/INGEST`／327／8-prefix／ARK／reconstruction／cycles 任何 direct link。
 
-### Opening gate
+## Part IV — 第七座墓 — active through Chapter 085
 
-1. **Architecture Checkpoint 006 controls. Part III is closed; Part IV is open only from the next normal writing slice.**
-2. 不把 `subject-separation witness` 偷換成 reconstruction record、clone record、time-travel evidence 或 ARK record。
-3. `candidate-origin basis` 缺失不等於有人刻意刪除；先找 ordinary retention／migration schema 是否本來就只保留 disposition／reason。
-4. 不自動開 full `市政連續性服務` index。下一份資料必須有獨立 operational reason、已存在 pointer，或明確 necessity 才能使用。
-5. 優先公平測試普通候選形成機制：migration identity continuity、cross-system deduplication、subject carryover、merge-safety、source-subject continuity 等；不能只因它們「聽起來普通」就草率帶過。
-6. 林澈的 Chapter 076 conflict-of-interest firewall 繼續有效：shared-node live interpretation／candidate formation 必須先在沒有他的情況下完成。
-7. 下一個正文 slice 最好先讓 Chapter 079 落在人身上，或由真正獨立來源觸發新的 problem-type turn；避免立刻又變成「申請 → 看一張 table → 宣告邊界」。
-8. H-U01 仍作獨立歷史主體，不因 convergence 自動合併回林澈。
-9. 不重啟 T-04C 人物繫結、匿名交通／支付／住址、家庭原件、左眉 scoring、新感測器、A-2162-01／02 physical-event repeat checks、carrier subtype catalogues。
-10. `市政連續性服務` 仍沒有 direct link 到 `MUNI-LEGACY/INGEST`、B-17、327 年、8-prefix、ARK 或文明循環；任何連結都要新 direct evidence。
-11. 第一個真正 civilization-scale reveal 必須讓 ordinary candidate-formation explanation 不足，才能把讀者帶到 prior civilization／reconstruction 層；不准直接 lore dump。
+### Current objective after Checkpoint 007
+
+Part IV 開場的 2164 candidate-origin 問題已經被 Chapters 081–085 逐步縮窄。現在真正要問的不是「2164 separation system 為什麼覺得兩端是一個人」，也不是「2164 consolidation 怎麼新做出這個 pair」，而是：
+
+> **在 2164 consolidation intake 以前，什麼 `subject-continuity assertion` 已經把兒童林澈 education root 與 A-2162-02 root 放進同一 relation；它何時／何處形成、由什麼 evidence class 或 lineage 支撐，為什麼值得被 carry forward？**
+
+### Chapters 080–085 — opening movement
+
+- **080：** Chapter 079 identity convergence 的家庭後果；ordinary childhood 保持正面真實，`DO NOT MERGE` 取得可能的 ordinary protective reading，家庭 gate 不開。
+- **081：** authenticated synthetic conformance replay 建立 separation witness 的 ordinary schema：candidate-origin basis 正常不在 minimal witness；separation stage 只接收已形成 proposal。
+- **082：** unrelated contemporary case 證明 high-recall carryover 可以形成 false candidate；只降低「candidate existed = strong same-identity belief」的推論，不外推為 2164 mechanism。
+- **083：** 將 person relation 與 upstream proposal-origin 拆成兩個治理問題；後者以 source roots／stage metadata 進 historical-continuity passive routing，不拿林澈識別資訊作搜尋條件。
+- **084：** 被動問題卡移出林澈個人工作首頁；他接受問題不需靠自己持續盯著才存在，沒有 evidence turn。
+- **085：** independent verifier-retirement workflow 命中既有 root pair；2164 transfer receipt 證明 specified proposal 是 pre-consolidation assertion 的 `CARRY-FORWARD`，並建立一個 bound predecessor pointer（unopened）。這是 model-changing turn；Checkpoint 007 成立。
+
+### Current access gate
+
+1. **Architecture Checkpoint 007 controls.** Part IV remains active; Part V is closed.
+2. predecessor relation pointer 的**存在**已證明；其內容／語意尚未證明。不得把 `unopened` 當作自動授權。
+3. independent scope review 必須先判斷此單一 pointer 是否在 historical-continuity 問題下具有必要性；林澈不得參與 necessity design／live interpretation。
+4. 若 scope review 核准，只追**這一個 cryptographically bound pointer**；不得打開 sibling references、完整 `市政連續性服務` index、人物資料擴張或 service-wide search。
+5. 若 scope review 拒絕，拒絕可以成立；不得為了節奏硬造另一個可開入口。
+6. 即使 pointer 獲准，也先公平測試 ordinary pre-consolidation migration／identity continuity／deduplication／high-recall carryover semantics；不能因 relation 更早就跳到 prior civilization。
+7. `市政連續性服務` 目前不是 predecessor originator；source domain／proposer 未知。
+8. 不重啟 T-04C 人物繫結、匿名交通／支付／住址、家庭原件、左眉 scoring、新感測器、A-2162-01／02 physical-event repeat checks、carrier subtype catalogues。
+9. 不把 Chapter 085 predecessor pointer 接到 B-17、`MUNI-LEGACY/INGEST`、327、8-prefix、ARK／reconstruction／cycles；任何橋接都必須來自新 direct evidence。
+10. Chapter 085 已是本區塊 model-changing turn；Chapter 086 不應立刻再變成長篇「申請 → table → boundary」。如果 scope review 有結果，可以壓縮；真正的下一個 technical scene 應讓 predecessor relation 本身回答**不同的問題**。
 
 ### Near-term Part IV targets
 
-- 建立 2164 subject-continuity candidate 的**形成語意**或形成來源，而非只重讀 separation disposition。
-- 釐清 `市政連續性服務` 在「保存見證」「migration handoff」「subject merge-safety」三種已證明職能之間，哪些只是同一 broad ordinary service 的不同 duty，哪些可能需要更深層共同解釋。
-- 讓 2158／2160 discontinuity、2164 migration behavior、2162 identity relation 在更大的 historical model 中逐步靠近，但禁止互相偷渡證據。
-- 回收既有 reader promises 優先於新增 mystery box；尤其可關注 327 baseline、「你看過了。」、B-17 source-object gap、64-bit／8-prefix，但只有在 direct evidence 提供新入口時才能動。
-- 先建立一個 prior-civilization 級別的直接證據，再談七次；數字 8 不能自己完成這個工作。
+- 等待／處理 predecessor pointer 的 independent necessity decision；不替結果預設核准。
+- 若獲准，建立 predecessor relation 的最小 object class／formation semantics／time boundary／source domain；優先回答「這是什麼 relation」而非直接追「那個人是誰」。
+- 允許一個 ordinary predecessor mechanism 得到支持；只有 ordinary layer 真的不足，才往 prior-civilization evidence 推進。
+- 在更大 reveal 前，繼續保護 B-CURRENT ordinary life、H-U01 provisional subject 與 physical evidence 三條層次不互相偷渡。
+- 回收 reader promises 優先於新增 mystery box；B-17、327、「你看過了。」、64-bit／8-prefix 都可以是未來方向，但**只有 direct predecessor evidence 自己建立入口時**才能接。
+- 第一個 civilization-scale reveal 仍必須先證實**一個** prior civilization／reconstruction-level trace，再談七次；數字 8 不能自己完成工作。
 
 ### Explicit holds
 
@@ -197,18 +223,18 @@
 - 不追匿名乘車序列、支付身份、住址或生活圈，只因「想知道他去哪裡」。
 - 不重新使用家庭原件做身份／血緣模型；若未來需要，必須有新的必要性與母親本人同意。
 - 不把左眉當萬能破局鍵；只有新的獨立來源能讓它被問一個不同問題時才回收。
-- 不因 `市政連續性服務` 已有三種可驗 ordinary duty 就推定它是 ARK 或隱藏主系統。
-- 不碰文明循環、七次重建、clone、reconstruction、time travel，除非更強 evidence bridge 逐層成立。
+- 不因 `市政連續性服務` 已有多種可驗 ordinary duty 就推定它是 ARK 或隱藏主系統。
+- 不因 predecessor relation 早於 2164 consolidation 就推定它跨文明、來自重建或證明時間旅行／clone。
 
 ### Scene pacing constraint
 
-- Chapter 079 是 landmark，但仍包含制度結果；下一章優先讓新事實產生人／機構／城市層級的後果或採用不同 scene grammar。
-- 下一個 technical scene 必須回答「candidate 為何形成」的不同問題，而不是再確認 `DO NOT MERGE` 已經存在。
-- 林澈仍是受影響當事人／技術陳述人，不是 query designer；shared-node 未定案推論先在沒有他的情況下完成。
+- Chapter 085 已承擔 technical/model turn；下一章優先讓 scope consequence／人際或 institutional weight 佔有足夠空間，除非 predecessor pointer 的合法解析本身形成質不同的 source。
+- 若下一章含 scope decision，不需要重演完整申請流程；只寫真正改變人物可做／不可做的部分。
+- 林澈仍是受影響當事人／技術陳述人，不是 query designer；predecessor relation 的未定案推論先在沒有他的情況下完成。
 
 ### Next audit gate
 
-Audit 020 後 writing-slice counter 重設為 **0**。約再完成 **4 個 Part IV 正常 writing slices** 後做下一次 routine audit；若更早出現文明尺度 structural reveal，先做 architecture checkpoint。
+Audit 021 後已完成 Chapters 084–085 兩個 normal slices。約再完成 **2 個** normal writing slices 後做下一次 routine audit；若更早出現另一個真正 structural reveal，再先做 architecture checkpoint。
 
 ## Part III endpoint — achieved
 
@@ -218,14 +244,14 @@ Part III 四項條件全部完成：
 - 第一個通往更大隱藏系統方向的可靠、局部、操作性 bridge：**Chapter 073 達成**；
 - 林澈完整當代人生與 2162 歷史人物被同一更大 historical/system question 同時捕捉：**Chapter 079 達成。**
 
-Part III 結束時仍不知道 H-U01 是誰，也不知道 candidate 為何形成；這正是 Part IV 的入口，而不是 continuity error。
+Part III 結束時仍不知道 H-U01 是誰；Part IV 已進一步證明 relation 早於 2164 consolidation，但仍不知道 predecessor assertion 為何形成。這是下一階段問題，不是 continuity error。
 
 ## Long-form reveal ladder
 
 - **Part I〈錯誤年代〉**：一個檔案 → 可獨立存在的異常。Completed Ch.001–029.
 - **Part II〈被修補的歷史〉**：一個案件 → 歷史系統本身的斷裂。Completed Ch.030–044.
 - **Part III〈沒有前史的人〉**：歷史問題 → 林澈身份／歷史人物關係 → evidence-earned legacy bridge → pre-2187 identity convergence。Completed Ch.045–079.
-- **Part IV〈第七座墓〉**：由 2164 candidate-origin problem 逐層進入 prior-civilization／reconstruction truth；先證實一個 prior civilization，再談七次。**Open；尚未有正文。**
+- **Part IV〈第七座墓〉**：2164 candidate-origin → pre-consolidation relation provenance → prior-civilization／reconstruction truth；先證實一個 prior civilization，再談七次。**Active through Chapter 085.**
 - **Part V〈第八次黎明〉**：把「發生了什麼」轉成「人類是否有權拒絕下一次被拯救」，完成主要伏筆與不可逆選擇。
 
 ## Long-form constraint
