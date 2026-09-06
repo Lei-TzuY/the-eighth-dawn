@@ -1,6 +1,6 @@
 # ARCHITECTURE — Full-novel macro plan
 
-> Status: Architecture Checkpoint 006 completed after Chapter 079. Part I〈錯誤年代〉completed Ch.001–029; Part II〈被修補的歷史〉completed Ch.030–044; Part III〈沒有前史的人〉completed Ch.045–079. Chapter 073 established the first directly verified cross-branch institutional bridge through `市政連續性服務`; Chapter 079 then established identity convergence by proving that a 2164 subject-separation witness had already placed child Lin Che’s education subject and the A-2162-02 historical subject region into one continuity candidate before the 2187 investigation. Part IV〈第七座墓〉is now open for the next writing slice, but no Part IV prose has yet been drafted. `CONTINUITY.md` controls established facts; if this file conflicts with continuity, continuity wins unless explicitly revised.
+> Status: Architecture Checkpoint 007 completed after Chapter 085. Part I〈錯誤年代〉completed Ch.001–029; Part II〈被修補的歷史〉completed Ch.030–044; Part III〈沒有前史的人〉completed Ch.045–079. Chapter 073 established the first directly verified cross-branch institutional bridge through `市政連續性服務`; Chapter 079 established identity convergence by proving that a 2164 subject-separation witness had already placed child Lin Che’s education subject and the A-2162-02 historical subject region into one continuity candidate before the 2187 investigation. Chapter 085 then established that the **specified pair’s proposal was not newly formed by the 2164 consolidation layer**: it was carried forward from a pre-consolidation subject-continuity assertion, with one cryptographically bound predecessor relation pointer retained but unopened. Part IV〈第七座墓〉remains active; Part V is not open. `CONTINUITY.md` controls established facts; if this file conflicts with continuity, continuity wins unless explicitly revised.
 
 ## Target shape
 
@@ -17,7 +17,7 @@
 - Avoid more than two consecutive chapters dominated by procedure/result summaries. After dense technical material, prefer an embodied scene: family, normal work, field action, public consequence, relationship strain, physical risk, or an irreversible choice.
 - Do not repeat the same proof pattern under new terminology. If the structure is again「能力存在 → 正常制度應留痕 → 指定來源缺該痕跡」, compress unless the result changes the model qualitatively.
 - A reveal should normally: close or sharply weaken one ordinary explanation, preserve epistemic discipline, and create a smaller but more dangerous question.
-- After several chapters without a mystery-model change, the next evidence-earned turn should preferably reclaim an existing promise or directly connect established clues rather than add an unrelated mystery box. Chapter 073 did this by connecting the Part II lineage branch and Part III preservation branch through one verified institutional node; Chapter 079 did it again by connecting Lin Che’s ordinary childhood archive directly to an H-2162-U01 source through a pre-existing 2164 subject-separation witness.
+- After several chapters without a mystery-model change, the next evidence-earned turn should preferably reclaim an existing promise or directly connect established clues rather than add an unrelated mystery box. Chapter 073 did this by connecting the Part II lineage branch and Part III preservation branch through one verified institutional node; Chapter 079 did it again by connecting Lin Che’s ordinary childhood archive directly to an H-2162-U01 source through a pre-existing 2164 subject-separation witness; Chapter 085 now moves the relation itself earlier than the 2164 consolidation layer without yet revealing its pre-consolidation origin.
 
 ## Evidence discipline — non-negotiable
 
@@ -31,6 +31,8 @@
 - 2162 child Lin Che + adult H-2162-U01 incompatible with one ordinary linear life ≠ two physical persons proven;
 - a 2164 subject-continuity candidate ≠ same legal identity, same physical person, kinship or known mechanism;
 - a `DO NOT MERGE` witness ≠ proof that the two subjects can never belong to a larger reconstruction/continuity mechanism;
+- a pre-consolidation `subject-continuity assertion` ≠ same identity, strong identity confidence, natural-human continuity or known formation mechanism;
+- a retained predecessor pointer ≠ automatic necessity or authority to open it;
 - Part II historical discontinuity ≠ identity evidence;
 - shared institutional node ≠ shared event, person, content source, cause or hidden master system;
 - a valid 2164 migration receipt ≠ pre-2164 lineage correctness;
@@ -72,7 +74,7 @@ Part III closing question after Chapter 079:
 
 > **Why did a 2164 municipal continuity process already form a subject-continuity candidate between child Lin Che’s ordinary education archive and the anonymous historical subject now preserved as A-2162-02—and then explicitly refuse to merge them because their same-year age states were incompatible?**
 
-That question is now larger than “does the historical man resemble Lin Che?” while remaining smaller than “what is ARK?” The candidate-origin basis is not retained in the minimal witness and is therefore unknown.
+That question was larger than “does the historical man resemble Lin Che?” while remaining smaller than “what is ARK?” Chapter 085 later established that the specified pair’s relation was already being carried into the 2164 consolidation layer from an earlier relation root, but that is a Part IV development rather than a retroactive Part III fact.
 
 ### Achieved through Chapter 079
 
@@ -195,7 +197,7 @@ Checkpoint 004 correctly held the story at a local preservation breadcrumb until
 
 ### Consequence for Part IV
 
-Part IV must not begin by treating `市政連續性服務` as ARK or by dumping a hidden-system index. The new structural question is **why a 2164 process formed the subject-continuity candidate at all** when the retained minimal witness only tells us that it later refused to merge the two subjects.
+Part IV must not begin by treating `市政連續性服務` as ARK or by dumping a hidden-system index. The new structural question after Chapter 079 was **why a 2164 process formed the subject-continuity candidate at all** when the retained minimal witness only tells us that it later refused to merge the two subjects. Chapters 081–083 fairly narrowed the 2164 schema and routing semantics; Chapter 085 later establishes that, for this specified pair, the 2164 consolidation layer did not newly originate the proposal but carried forward an earlier assertion.
 
 The first Part IV movements should:
 1. give Chapter 079 emotional/institutional weight before another dense lookup;
@@ -206,9 +208,44 @@ The first Part IV movements should:
 6. allow a benign or mundane explanation for parts of the service behavior;
 7. only move toward prior-civilization/reconstruction truth when a stronger direct trace makes that conceptual layer necessary.
 
-The full `市政連續性服務` index is still closed. Chapter 079 does not by itself establish necessity to open it. A next access must be justified by a specific question and a specific already-existing pointer or independently surfaced source.
+The full `市政連續性服務` index is still closed. A next access must be justified by a specific question and a specific already-existing pointer or independently surfaced source.
 
 Held identity gates remain held unless a later direct source creates a genuinely new use condition: T-04C person binding, anonymous transit/payment/address, family originals, brow scoring, new sensors, A-2162-01／02 physical-event repeat checks and carrier subtype catalogues.
+
+## Architecture Checkpoint 007 — after Chapter 085
+
+### Decision
+
+**Part IV〈第七座墓〉continues. Part V does not open. The proposal-origin problem has moved from the 2164 consolidation layer to one retained pre-consolidation relation.**
+
+### Checkpoint findings
+
+- Did Chapter 085 arise from a lawful, independent operational trigger? **Yes.** A verifier root used by a broad class of 2164 consolidation-exchange receipts is retiring; those receipts require re-anchoring regardless of Lin Che, H-2162-U01 or the person case.
+- Did the routing match depend on Lin Che’s name, face, family data or a new person search? **No.** It matched the two already-established preservation roots under the Chapter 083 historical-continuity passive route.
+- Was Chapter 076’s conflict-of-interest firewall preserved? **Yes.** Live interpretation was completed independently; Lin Che received only the finalized relevant result and did not participate in formation, scope design or query execution.
+- What model changed? **The specified child-education-root ↔ A-2162-02 proposal was not newly generated by the 2164 consolidation layer.** The exchange receipt records `CARRY-FORWARD` from a pre-consolidation `subject-continuity assertion`.
+- Is there now a direct next object? **Yes, but only as a pointer.** One predecessor relation pointer is retained and cryptographically bound to the transfer receipt. It remains **unopened** while independent scope review determines necessity.
+- Does this prove when the predecessor relation was formed? **No.** It proves only that it existed before consolidation intake; exact date is not established by the receipt.
+- Does it prove the predecessor source domain, proposer, evidence basis, strength or correctness? **No.** All remain unknown.
+- Does `subject-continuity assertion` mean same identity? **No.** It is a relation class carried forward by the exchange layer; its semantics and evidentiary strength are not yet established.
+- Does this prove `市政連續性服務` created the predecessor relation? **No.** The service remains established as the 2164 separation-stage issuer and through its earlier verified ordinary duties, but Chapter 085 does not identify the predecessor originator.
+- Does this link the predecessor relation to B-17, `MUNI-LEGACY/INGEST`, the 327-year baseline, 64-bit/8-prefix, ARK, reconstruction or civilization cycles? **No.** Those bridges remain unestablished.
+- Is this a prior-civilization reveal? **No.** The relation is only known to predate the 2164 consolidation layer. Ordinary pre-consolidation migration/carryover/identity-continuity mechanisms remain viable until the predecessor relation’s own semantics are lawfully tested.
+
+### New Part IV structural question
+
+> **What pre-consolidation subject-continuity assertion already related the child Lin Che education root and A-2162-02 root before the 2164 consolidation intake, when and where was it formed, and what evidence class gave it enough standing to be carried forward?**
+
+This question is now the preferred narrow route. It is more specific than “why did the 2164 system form a candidate?” and still much smaller than ARK/reconstruction.
+
+### Access / pacing consequences
+
+- The predecessor pointer’s **existence is evidence; its content is not yet evidence**. Do not narratively treat `unopened` as a teaser that grants automatic access.
+- Independent scope review must first establish whether opening this one pointer is necessary under the historical-continuity question. Lin Che cannot design that necessity decision.
+- If the pointer is approved later, follow only the single cryptographically bound predecessor relation. Do not use it to open sibling references, the full `市政連續性服務` index, identity search, T-04C, family data, transit/payment/address, brow scoring, new sensors or carrier catalogues.
+- A denial or narrow result must remain narratively valid; do not force the pointer to reveal a civilization-scale truth merely because Part IV needs escalation.
+- The next prose slice should preferably let the scope decision or the human weight of “the relation predates consolidation” land in a scene with a different grammar from Chapters 081–083. Avoid immediately repeating another long table tutorial.
+- If the predecessor relation later proves ordinary, that ordinary answer must be allowed to stand. If it instead carries a direct trace that ordinary pre-consolidation mechanisms cannot explain, only then is a prior-civilization layer earned.
 
 ## Part III endpoint — achieved at Chapter 079
 
@@ -220,13 +257,17 @@ All four conditions are now satisfied:
 
 Part III closes without identifying H-2162-U01, without proving same identity, and without naming ARK. Its payoff is that the relation itself is historical and system-level, not a by-product of the current investigation.
 
-## Part IV — 第七座墓 (roughly Chapter 080–105+, flexible) — open after Checkpoint 006; no prose yet
+## Part IV — 第七座墓 (roughly Chapter 080–105+, flexible) — active through Chapter 085
 
-Function: convert the historical/identity mystery into civilization-scale truth.
+Function: convert the historical/identity mystery into civilization-scale truth without skipping the ordinary historical mechanisms that can explain intermediate layers.
 
-Opening question:
+Opening question after Chapter 079:
 
 > **What caused a 2164 continuity process to consider child Lin Che’s ordinary education subject and the anonymous A-2162-02 subject region candidates for continuity at all?**
+
+Current structural question after Chapter 085:
+
+> **What pre-consolidation subject-continuity assertion already related those two source roots before 2164 consolidation intake, and what evidence/lineage formed it?**
 
 Reveal discipline:
 - reveal prior reconstruction in layers; one verified prior civilization is stronger than a lore dump claiming seven at once;
@@ -234,7 +275,7 @@ Reveal discipline:
 - distinguish what ARK was designed to do, what it currently does, and what humans/subsystems later did in its name;
 - at least one ominous clue should receive a benign or morally complex explanation; at least one ordinary-looking clue should become devastating in retrospect;
 - the number of cycles becomes explicit only through evidence stronger than symbolic coincidence;
-- do not interpret the 2164 `subject-separation witness` as a reconstruction record unless a new direct source establishes that semantics;
+- do not interpret the 2164 `subject-separation witness`, the Chapter 085 transfer receipt, the pre-consolidation assertion label or the unopened predecessor pointer as a reconstruction record unless a new direct source establishes that semantics;
 - preserve the possibility that ordinary migration/deduplication/continuity-safety mechanisms explain some or most of the observed behavior before a civilization-scale layer is required.
 
 Endpoint: by late Part IV, core reconstruction truth may be known; the dramatic question shifts from “what happened?” to “what should be done now?”.
@@ -258,32 +299,36 @@ Final-choice space: preservation vs autonomy, continuity vs truth, guaranteed su
 
 The title *The Eighth Dawn* should ultimately mean not only the eighth reconstruction, but a dawn whose future is no longer fully predetermined by the previous seven.
 
-## Reader-promise ledger — after Chapter 079
+## Reader-promise ledger — after Chapter 085
 
 | Promise | Current state | Preferred payoff |
 | --- | --- | --- |
 | 327-year absolute baseline | shared epoch, still untrusted | Part IV; causal answer by Part V |
-| Lin Che / historical-person resemblance | high similarity; ordinary single-life model incompatible; 2164 subject-separation witness proves the two source-subjects were already placed into one continuity candidate before the 2187 investigation | mechanism/relation clarified through Part IV–V |
+| Lin Che / historical-person resemblance | high similarity; ordinary single-life model incompatible; 2164 subject-separation witness proves the two source-subjects were already placed into one continuity candidate before the 2187 investigation; Ch085 proves this specified proposal was carried into 2164 consolidation from an earlier relation root | mechanism/relation clarified through Part IV–V |
 | acquired left-brow feature | unresolved high-value anomaly; no new independent use condition yet | only when a genuinely independent relation creates a new question |
 |「你看過了。」| blind-review positional compatibility only | Part IV |
-| H-2162-U01 | three independent 2162 sources; public context; A-2162-03 has contemporaneous event-level physical binding; A01/A02 lack equivalent binding; A-2162-02 now has a verified 2164 subject-separation relation to child Lin’s education subject; candidate origin unknown | Part IV–V |
+| H-2162-U01 | three independent 2162 sources; public context; A-2162-03 has contemporaneous event-level physical binding; A01/A02 lack equivalent binding; A-2162-02 has a verified 2164 subject-separation relation to child Lin’s education subject; Ch085 adds pre-consolidation carry-forward provenance but not identity strength | Part IV–V |
 | `T-04C` | responsibility continuity supported; direct person binding absent and paused | only if a new direct bridge appears |
-| `市政連續性服務` | directly verified common institutional node: A01–03 continuity-witness strategy owner; R-12 2164 migration issuer; R-12 checkpoint preservation witness; 2164 subject-separation issuer for child Lin ↔ A02 candidate. Full index closed; not a proven originator/master system | Part IV; define candidate-formation semantics before larger linkage |
+| `市政連續性服務` | directly verified common institutional node: A01–03 continuity-witness strategy owner; R-12 2164 migration issuer; R-12 checkpoint preservation witness; 2164 subject-separation issuer for child Lin ↔ A02 candidate. Ch085 does not establish it as predecessor relation originator. Full index closed; not a proven originator/master system | Part IV; define predecessor relation before larger linkage |
+| pre-consolidation predecessor relation | existence established by Ch085 transfer receipt; one cryptographically bound pointer retained but unopened; date/source domain/basis/strength/correctness unknown | near-term Part IV under independent scope review |
 | 2158/2160 discontinuity | independently confirmed, cause unknown; later R-12 continuity handoff does not repair it | Part IV |
-| B-17 source-object gap | hardware family understood, parent source absent | Part IV |
+| B-17 source-object gap | hardware family understood, parent source absent; no Ch085 linkage | Part IV |
 | 64-bit / 8 prefixes | meaning unknown; not evidence of eight civilizations | Part IV |
-| ARK | author-only truth; characters unaware; no direct link to Municipal Continuity Service | first genuinely ARK-level operational trace only after stronger evidence; explicit truth in Part IV |
+| ARK | author-only truth; characters unaware; no direct link to Municipal Continuity Service or Ch085 predecessor pointer | first genuinely ARK-level operational trace only after stronger evidence; explicit truth in Part IV |
 | seven prior reconstructions | author-only truth | Part IV |
 
-## Current writing gate after Chapter 079
+## Current writing gate after Chapter 085
 
-- Audit 020 and Architecture Checkpoint 006 are complete.
-- Part III is closed at Chapter 079. Part IV is open for the **next** prose slice; no Part IV prose has yet been written.
-- The next structural question is the missing `candidate-origin basis`: why did the 2164 process consider child Lin Che’s education subject and A-2162-02’s anonymous subject region continuity candidates before rejecting the merge?
-- Do **not** assume the full `市政連續性服務` index is the next step. Access still requires a specific, independently justified source or pointer.
-- Keep ordinary 2164 migration/deduplication/identity-continuity mechanisms alive and test them fairly before invoking a civilization-scale explanation.
-- Lin Che remains an affected person / technical declarant. Shared-node live interpretation/candidate formation continues to occur independently before he receives finalized relevant results.
-- Do not use Chapter 079 to reactivate T-04C, anonymous travel/payment/address, family originals, brow scoring, A-2162-01／02 physical-event repeat checks, new sensors or carrier subtype catalogues.
-- Do not connect `市政連續性服務` to `MUNI-LEGACY/INGEST`, B-17, 327 years, 8-prefix, ARK, reconstruction or civilization cycles without new direct evidence.
-- The first Part IV slice should preferably include embodied aftermath or an independently triggered new source with a qualitatively different function; avoid immediately returning to another “permission → one table → boundary” scene.
-- Routine writing-slice counter resets after Audit 020. Next normal audit target: after roughly **4 Part IV writing slices**, unless another structural checkpoint is triggered earlier.
+- Audit 021 is complete after Chapter 083. Chapter 084 and Chapter 085 are the first two post-audit normal writing slices.
+- Architecture Checkpoint 007 is complete after Chapter 085. Part IV remains active; Part V is closed.
+- The 2164 consolidation layer is no longer the specified pair’s proposal origin. A pre-consolidation `subject-continuity assertion` was carried forward into consolidation.
+- One cryptographically bound predecessor relation pointer is now **established but unopened**. Independent scope review is pending; do not open it by narrative fiat.
+- If the independent scope review approves a follow-up, the only presumptively eligible object is that **single predecessor pointer** under the historical-continuity question. Sibling references, service-wide indexes and person-identity expansion remain closed.
+- Lin Che remains an affected person / technical declarant. He cannot participate in live interpretation, necessity design or scope expansion around the predecessor relation; he may receive independently finalized relevant results.
+- Do not infer that `市政連續性服務` authored the predecessor assertion. Ch085 does not identify the predecessor source domain or proposer.
+- Keep ordinary pre-consolidation migration/deduplication/identity-continuity/high-recall mechanisms alive and test them fairly if the pointer is ever lawfully opened.
+- Do not reactivate T-04C, anonymous travel/payment/address, family originals, brow scoring, A-2162-01／02 physical-event repeat checks, new sensors or carrier subtype catalogues.
+- Do not connect the predecessor pointer or `市政連續性服務` to `MUNI-LEGACY/INGEST`, B-17, 327 years, 8-prefix, ARK, reconstruction or civilization cycles without new direct evidence.
+- The next slice should avoid a simple repeat of “permission → one table → boundary.” A scope decision may be delivered compactly; if access is approved, the actual predecessor relation should be treated as a distinct evidence problem with human/institutional consequences. If access is denied, that denial may stand without forcing a substitute clue.
+- No prior-civilization reveal has yet been established. Chapter 085 moves the date boundary earlier but does not cross a civilization boundary.
+- Next routine audit target remains after roughly **2 more normal writing slices**, unless another genuine structural reveal triggers an earlier checkpoint.
