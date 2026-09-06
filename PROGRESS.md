@@ -4,11 +4,11 @@
 
 - Status: active drafting.
 - Latest completed正文：`chapters/083.md`〈把名字拿掉以後〉。
-- Completed writing slices since last audit: **4**。Audit 020 已在 Chapter 079 endpoint 提前執行並重設 counter；Chapters 080–083 為四個 Part IV slices。
-- Last audit: **Audit 020 completed after Chapter 079.**
-- Architecture status: **Architecture Checkpoint 006 completed after Chapter 079. Part III〈沒有前史的人〉is complete; Part IV〈第七座墓〉is active from Chapter 080.**
-- Next gate: **Audit 021 must run before another normal writing slice**, unless a newly discovered live-repo inconsistency requires maintenance first.
-- Current phase: Part IV opening after identity convergence. Chapter 079 established that a 2164 municipal continuity process had already formed a subject-continuity candidate between child Lin Che’s ordinary education subject and the A-2162-02 historical subject region, then prohibited auto-merge because their same-year age states conflicted. Chapter 080 gave that landmark an embodied family consequence. Chapter 081 fairly tested the ordinary 2164 schema and established that the `subject-separation witness` is a merge-safety disposition witness which receives an already-formed upstream `continuity proposal`; missing proposal-origin basis is normal schema behavior, not deletion/suppression. Chapter 082 then used a deliberately unrelated contemporary service case to show only that high-recall ordinary carryover can produce a false candidate, so “candidate existed” does not itself prove a strong same-identity belief. Chapter 083 changes the institutional problem type without adding evidence: independent scope review separates **Question A: H-2162-U01 ↔ Lin Che true relation** from **Question B: what upstream 2164 process formed the child-education-subject ↔ A-2162-02 continuity proposal**. Question B is retained as a historical-continuity passive-trigger problem that can be evaluated without using Lin Che’s name, face, family data or current identity as search conditions; affected-person finalized-result notification remains retained separately. No active lookup, direct pointer or service-wide expansion is created.
+- Completed writing slices since last audit: **0**。Audit 021 已在 Chapter 083 後完成並重設 counter。
+- Last audit: **Audit 021 completed after Chapter 083.**
+- Architecture status: **Architecture Checkpoint 006 completed after Chapter 079. Part III〈沒有前史的人〉is complete; Part IV〈第七座墓〉remains active. No Checkpoint 007 is triggered by Chapters 080–083.**
+- Next gate: normal Part IV drafting may resume from Chapter 084, subject to the existing evidence/trigger rules below. Next routine audit target is after roughly **4** more normal writing slices, unless a genuine structural reveal requires an architecture checkpoint earlier.
+- Current phase: Part IV opening after identity convergence. Chapters 080–083 have completed one coherent opening block: Chapter 080 gave the Chapter 079 landmark an embodied family consequence; Chapter 081 established that the 2164 `subject-separation witness` is ordinary merge-safety output that receives an already-formed upstream `continuity proposal`; Chapter 082 used a deliberately unrelated contemporary service case only to show that high-recall carryover can produce a false candidate, reducing the evidentiary weight of “candidate existed” as proof of strong same-identity belief; Chapter 083 then separated **Question A: H-2162-U01 ↔ Lin Che true relation** from **Question B: what upstream 2164 process formed the child-education-subject ↔ A-2162-02 continuity proposal**, retaining Question B as a historical-continuity passive-trigger problem without using Lin Che’s identifying data as search conditions. Audit 021 finds this block coherent and boundary-safe, but also finds that candidate/schema/routing semantics have now been explained enough. The next normal mystery-bearing slice should not perform a fourth variation of the same lesson. If a legitimate independently surfaced source or already-retained pointer appears, it should change the historical model; otherwise prefer a qualitatively different human/institutional consequence over manufactured access.
 
 ## Part III completed state through Chapter 079
 
@@ -79,6 +79,18 @@
 
 ## Audit / architecture status
 
+### Audit 021 — after Chapter 083
+
+**PASS. Chapters 080–083 contain no hard continuity contradiction and require no正文 rewrite.**
+
+- **Continuity / knowledge:** Chapter 080 stays within the mother’s established high-level knowledge boundary and does not open family data. Chapter 081 uses only independently finalized synthetic conformance material; Chapter 082 is an unrelated current-citizen service case; Chapter 083 is scope/routing governance rather than evidence. Story time advances coherently from Day 23 evening into Day 24 evening.
+- **Evidence discipline:** Chapter 081 correctly narrows the 2164 witness to merge-safety semantics and moves proposal origin upstream without inventing a pointer. Chapter 082 proves only that false/high-recall candidates are an ordinary contemporary possibility and never projects its `temporary household slot alias` backward into 2164. Chapter 083 adds no proposer, source domain, lineage, identity strength or hidden-system evidence.
+- **Role / consent:** Chapter 076’s firewall remains intact through all four slices. Lin Che sees only finalized permitted material, does not participate in live case candidate formation or scope expansion, and retains only affected-person finalized-result notification. Person-search, family, T-04C, transit/payment/address, left-brow, new-sensor and carrier-subtype gates remain closed.
+- **Scene function / prose:** 080 = embodied family aftermath; 081 = generic 2164 schema test; 082 = public-service ordinary counterexample; 083 = institutional routing consequence. These are distinct enough to avoid a hard repetition failure. The recurring whole-manuscript `Chapter N` meta-reference convention remains separate manuscript-wide prose debt and is not locally repaired here.
+- **Pacing warning:** 081–083 collectively spend substantial reader attention on candidate/schema/routing semantics. That explanatory block is now complete. A fourth variation would become procedural repetition. After this audit, the next normal mystery-bearing turn should preferentially come from an independently justified operational source or already-retained pointer and **change the model**, not merely restate how candidates are governed. If no such source exists, use a qualitatively different human/institutional consequence rather than fabricate a clue.
+- **Architecture:** Checkpoint 006 still adequately controls Part IV. Chapters 080–083 do not establish a prior civilization, reconstruction mechanism, ARK-level trace, service-wide origin system or civilization-scale reveal. **No Architecture Checkpoint 007 is triggered.**
+- **Durable character state:** Chapters 081–083 add lasting knowledge/role changes for Lin Che—ordinary omission of proposal origin, candidate-strength caution, and historical-continuity routing detached from his identifying data—so `CHARACTERS.md` should be synchronized through Chapter 083. No other protected document requires semantic change from the audit itself.
+
 ### Audit 020 — after Chapter 079
 
 **PASS.** Chapters 077–079 contain no hard continuity contradiction and require no正文 rewrite.
@@ -147,24 +159,25 @@ PASS. Chapters 061–064 maintained evidence/consent boundaries and moved the st
 - **082**：unrelated current citizen service work demonstrates that an ordinary high-recall carryover mechanism can create a false continuity candidate and later merge-safety can correctly keep subjects separate. The citizen’s own qualification proceeds without identifying the counterpart. This is not 2164 case evidence; it only establishes that “candidate existed” need not equal “strong same-identity belief.”
 - **083**：independent scope review creates no evidence but changes the problem routing: person relation remains unresolved/no-active-search, while the 2164 upstream proposal-origin question is retained separately as a historical-continuity passive-trigger problem stripped of Lin Che’s identifying data as search conditions. Finalized affected-person notification remains retained.
 
-## Next-slice handoff — Audit 021 after Chapter 083
+## Next-slice handoff — Part IV after Audit 021
 
 Next run must re-read live repo, `ARCHITECTURE.md` Checkpoint 006, fixed bible/continuity/progress and latest 2–3正文 before acting.
 
 Priorities:
 
-1. **Audit 021 is mandatory next. Do not write Chapter 084 before completing it**, unless live repository state shows a genuine maintenance inconsistency that must be repaired first.
-2. Audit Chapters **080–083** for continuity, plot movement, prose/rhythm, character drift and evidence-boundary discipline.
-3. Verify the four slices remain functionally distinct: 080 = embodied family aftermath; 081 = ordinary 2164 witness-schema semantics; 082 = unrelated current-day false-candidate example; 083 = institutional problem-routing / identity-data separation. Flag repetition if 081–083 collectively over-teach candidate semantics even though their scene functions differ.
-4. Confirm Chapter 083 creates **no new historical evidence**. The passive historical-continuity route is governance only; it does not establish proposer identity, source domain, direct pointer, service lineage or a hidden system.
-5. Confirm Chapter 082 remains a contemporary ordinary example only; `temporary household slot alias`, high-recall carryover and current identity-service architecture must not be projected backward into 2164.
-6. Confirm Chapter 076 firewall remains intact through 081–083: Lin Che sees finalized allowed material, does not join live candidate formation, and receives only finalized relevant consequences.
-7. Confirm person-case holds remain closed: no T-04C binding, anonymous travel/payment/address, family originals, brow reuse/scoring, new sensors, A-2162-01／02 physical-event repeat checks or carrier-subtype hunting.
-8. Assess **Part IV pacing** explicitly. Four opening slices after the Chapter 079 landmark have mainly narrowed ordinary explanations and changed governance rather than adding new historical evidence. That is not automatically stagnation, but after Audit 021 the next normal mystery-bearing slice should preferentially arise from a genuinely independent operational source or already-retained pointer and should change the model, not perform a fourth candidate/schema/routing explanation.
-9. Do not manufacture that source merely because the audit finds pacing pressure. If no legitimate evidence-bearing trigger exists, a different high-value consequence slice is still safer than a fake clue.
-10. `市政連續性服務` remains unlinked to `MUNI-LEGACY/INGEST`, B-17, 327 years, 8-prefix, ARK or civilization cycles absent new direct evidence.
-11. No Architecture Checkpoint 007 is triggered by Chapter 083 alone: there is no civilization-scale reveal, no prior-civilization evidence and no ARK-level operational trace. Audit 021 should decide whether Checkpoint 006 still adequately controls the next block.
-12. The recurring whole-manuscript `Chapter N` meta-reference convention remains separate prose debt; do not locally clean only recent chapters unless a deliberate manuscript-wide pass is chosen.
-13. If Audit 021 PASS and no prose repair is required, update only semantically necessary state documents. Since the gate/counter must advance from Audit 020/4 slices to Audit 021/0 slices, `PROGRESS.md` will normally require a real audit-record update; do not fabricate unrelated changes.
+1. **Audit 021 is complete. Normal Part IV drafting may resume from Chapter 084.** Architecture Checkpoint 006 remains controlling; no Checkpoint 007 has been triggered.
+2. Do **not** write another candidate/schema/routing tutorial. Chapters 081–083 have completed that explanatory block.
+3. The historical question remains: **what upstream `continuity proposal` caused child Lin Che’s education subject and A-2162-02’s anonymous subject region to enter the 2164 merge-safety stage?** There is still no direct source-domain pointer.
+4. The preferred next mystery-bearing step is a genuinely independent operational source or already-retained pointer whose lawful emergence can distinguish actual 2164 upstream proposal formation from generic candidate behavior and can change the model.
+5. Do not manufacture such a source because pacing now wants movement. If no legitimate trigger exists, choose a qualitatively different embodied human/institutional consequence instead of an invented clue.
+6. Chapter 083’s historical-continuity passive route is governance only. It does not itself authorize lookups, service-index expansion or person-data use.
+7. Chapter 076 firewall remains active. Lin Che can receive independently finalized relevant results but cannot participate in live shared-node candidate formation, intermediate interpretation or scope-expansion design.
+8. Chapter 082 remains a contemporary ordinary example only. Do not project `temporary household slot alias`, current high-recall logic or modern identity-service architecture backward into 2164.
+9. H-U01 remains provisional and unnamed. No same legal identity, kinship, same physical body or natural-human conclusion has been established.
+10. Person-case holds remain: no T-04C person binding, anonymous transit/payment/address, family originals, left-brow reuse/scoring, new sensors, A-2162-01／02 physical-event repeat checks or carrier subtype catalogues without a genuinely new direct-use condition.
+11. `市政連續性服務` remains unlinked to `MUNI-LEGACY/INGEST`, B-17, 327 years, 8-prefix, ARK or civilization cycles absent new direct evidence.
+12. Part IV now needs model movement over more procedural narrowing. A future reveal should preferably reclaim an established promise or connect established branches with direct evidence rather than add another unrelated mystery box.
+13. First prior-civilization/reconstruction reveal must remain evidence-earned and layered. One verified prior civilization is stronger than jumping to seven; the number 8 cannot prove cycles.
+14. The recurring whole-manuscript `Chapter N` meta-reference convention remains separate prose debt; do not locally clean only recent chapters unless a deliberate manuscript-wide pass is chosen.
 
-Next gate: **Audit 021 before any Chapter 084 normal drafting.**
+Next routine audit target: after roughly **4** more normal writing slices; earlier only if a genuine structural reveal triggers another architecture checkpoint.
