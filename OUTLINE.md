@@ -172,48 +172,74 @@
 - Chapter 085 的 2164 consolidation-exchange receipt verifier retirement 是獨立 operational trigger；root-pair match 不使用林澈姓名、臉、家庭資料或人物 active search。
 - 指定 child-education-root ↔ A-2162-02 proposal 在 2164 consolidation layer 的 `proposal formation` 為 **NO**；transfer mode 為 **`CARRY-FORWARD`**；input relation class 為 **`pre-consolidation subject-continuity assertion`**。
 - 因此「這一對指定 roots 是 2164 consolidation 本身用 generic candidate formation 新湊出來」已不再成立。Relation 已存在於 consolidation intake 以前；但這**不排除更早的 ordinary migration／carryover／dedup／high-recall mechanism**。
-- 一個 cryptographically bound predecessor relation pointer 已建立，但仍 **unopened**；independent scope review 必須先判斷必要性。
-- predecessor exact date、source domain、proposer、basis、strength、correctness 全未知；`subject-continuity assertion` 不等於 same identity。
-- Chapter 085 不建立 `市政連續性服務` 是 predecessor originator，也不建立 B-17／`MUNI-LEGACY/INGEST`／327／8-prefix／ARK／reconstruction／cycles 任何 direct link。
+- 一個 cryptographically bound predecessor relation pointer 已建立，並已於 Chapters 086–087 依獨立核准範圍完成解析。
+- Chapter 087 建立 predecessor object = `legacy subject-alias continuity assertion`、最晚可驗至 2163-Q2、high-recall／non-merge-authoritative；兩端共同引用同一 opaque `legacy subject anchor`。Anchor origin／payload 仍未知。
+- Chapter 085–087 不建立 `市政連續性服務` 是 predecessor originator，也不建立 B-17／`MUNI-LEGACY/INGEST`／327／8-prefix／ARK／reconstruction／cycles direct link。
 
-## Part IV — 第七座墓 — active through Chapter 085
+## Audit 022 — completed after Chapter 087
 
-### Current objective after Checkpoint 007
+- **PASS；084–087 無 hard continuity contradiction，不需回寫正文。**
+- 084 是 workflow consequence；085 是 model-changing transfer provenance；086 是 bounded scope／scheduled consequence；087 是獨立 read 的 finalized result。
+- Chapter 087 把 generic contemporary high-recall possibility 升格成對這一 predecessor object 的直接歷史支持，但仍不允許把 Chapter 082 的具體 alias-reuse 機制倒推回去。
+- Chapter 087 的 shared anchor 建立的是 relation basis，不是 same identity／same body／kinship／natural-human proof。
+- Anchor semantic payload／origin 需要新的 source-level／sibling necessity；`INSUFFICIENT WITHIN CURRENT SCOPE` 不是 suppression，也不是自動擴權。
+- Pacing gate：085–087 已形成完整「transfer → scope → result」小弧，之後必須換 scene grammar；Chapters 088–090 已做到。
 
-Part IV 開場的 2164 candidate-origin 問題已經被 Chapters 081–085 逐步縮窄。現在真正要問的不是「2164 separation system 為什麼覺得兩端是一個人」，也不是「2164 consolidation 怎麼新做出這個 pair」，而是：
+## Architecture Checkpoint 008 — completed after Chapter 091
 
-> **在 2164 consolidation intake 以前，什麼 `subject-continuity assertion` 已經把兒童林澈 education root 與 A-2162-02 root 放進同一 relation；它何時／何處形成、由什麼 evidence class 或 lineage 支撐，為什麼值得被 carry forward？**
+- **Part IV 繼續；Part V 不開。**
+- Chapters 088–090 先給 Chapter 087 的家庭、不可逆 retention 與同地點普通工作後果；沒有新 historical evidence。
+- Chapter 091 的 parser incident 是與人物案件無關的 normal operational trigger：31 份 2161–2163 inter-domain envelopes 因舊欄位類型而被隔離，人物內容／subject values 全程未開。
+- 簽章有效的 2163 generic interface contract 直接建立：`legacy subject anchor` field class 在 `pre-consolidation inter-domain subject handoff` 中由 compatibility namespace **`MUNI-LEGACY/INGEST`** 管理；要求 `preserve verbatim`，local semantic interpretation prohibited，local subject merge authority none，origin authority upstream source domain。
+- 因此第一次以**直接 schema evidence**把 Part IV anchor-provenance 問題與 Part I `MUNI-LEGACY/INGEST` policy family 接起來；這不是共享名詞或作者聯想。
+- 這一橋只到 generic field class／handoff contract。Specific case-anchor value／payload、origin system、correctness、exact 2187 policy revision relation、B-17 ↔ anchor path、`市政連續性服務` anchor origin 全部仍未建立。
+- Handoff layer 現在低支持為 specific anchor 的 semantic originator：它被明文限制為 validate + opaque carry，不能 interpret／merge。真正問題往 upstream source domain 移動。
+- No direct bridge to 327、盲式「你看過了。」、64-bit／8-prefix、ARK、reconstruction or civilization cycles. Part V stays closed.
 
-### Chapters 080–085 — opening movement
+## Part IV — 第七座墓 — active through Chapter 091
 
-- **080：** Chapter 079 identity convergence 的家庭後果；ordinary childhood 保持正面真實，`DO NOT MERGE` 取得可能的 ordinary protective reading，家庭 gate 不開。
-- **081：** authenticated synthetic conformance replay 建立 separation witness 的 ordinary schema：candidate-origin basis 正常不在 minimal witness；separation stage 只接收已形成 proposal。
-- **082：** unrelated contemporary case 證明 high-recall carryover 可以形成 false candidate；只降低「candidate existed = strong same-identity belief」的推論，不外推為 2164 mechanism。
-- **083：** 將 person relation 與 upstream proposal-origin 拆成兩個治理問題；後者以 source roots／stage metadata 進 historical-continuity passive routing，不拿林澈識別資訊作搜尋條件。
-- **084：** 被動問題卡移出林澈個人工作首頁；他接受問題不需靠自己持續盯著才存在，沒有 evidence turn。
-- **085：** independent verifier-retirement workflow 命中既有 root pair；2164 transfer receipt 證明 specified proposal 是 pre-consolidation assertion 的 `CARRY-FORWARD`，並建立一個 bound predecessor pointer（unopened）。這是 model-changing turn；Checkpoint 007 成立。
+### Current objective after Checkpoint 008
+
+Part IV 的問題已從「2164 為何形成 candidate」一路縮窄到 specific anchor 的上游來源。現在真正控制後續 drafting 的問題是：
+
+> **哪一個 upstream source domain／system 在 2163 handoff layer 以前，對 child-education root 與 A-2162-02 root 附著了同一個 specific `legacy subject anchor`？那個 anchor 實際代表什麼、是否正確；以及這個 specific origin 與 2187 event path 中已知的 `MUNI-LEGACY/INGEST` family 究竟有沒有更直接的 lineage？**
+
+### Chapters 080–091 — Part IV movement so far
+
+- **080：** identity-convergence 的家庭後果；ordinary childhood 保持正面真實，family gate 不開。
+- **081：** generic conformance replay 證明 separation witness 正常不保存 proposal origin，separation stage 只接收已形成 proposal。
+- **082：** unrelated contemporary case 證明 high-recall candidate 可以是 false candidate；不外推成 2164 mechanism。
+- **083：** person relation 與 upstream proposal-origin 拆成不同治理問題；historical-continuity route 不以林澈識別資訊作搜尋條件。
+- **084：** passive problem card 移出林澈首頁；等待不再偽裝成工作。
+- **085：** independent verifier-retirement workflow 證明 specified relation 由 pre-consolidation assertion `CARRY-FORWARD`，建立 single predecessor pointer。
+- **086：** independent scope review 核准單一 bounded predecessor read，林澈不參與 live interpretation。
+- **087：** predecessor = high-recall `legacy subject-alias continuity assertion`; two roots share one opaque legacy subject anchor; origin stays out of scope.
+- **088：** family/public-life consequence；不把新 relation 變成 family evidence。
+- **089：** R-12 實機依法不可逆銷毀；未解問題不等於永久保存物件。
+- **090：** 林澈回到 A-2162-03 現代月台做 unrelated facility work；地點重量不等於新 evidence／travel entitlement。
+- **091：** unrelated parser compatibility problem surfaces signed 2163 generic handoff contract；首次直接建立 `legacy subject anchor` field class ↔ `MUNI-LEGACY/INGEST` family schema bridge，並把 handoff layer 限定為 opaque carrier、非 semantic originator。
 
 ### Current access gate
 
-1. **Architecture Checkpoint 007 controls.** Part IV remains active; Part V is closed.
-2. predecessor relation pointer 的**存在**已證明；其內容／語意尚未證明。不得把 `unopened` 當作自動授權。
-3. independent scope review 必須先判斷此單一 pointer 是否在 historical-continuity 問題下具有必要性；林澈不得參與 necessity design／live interpretation。
-4. 若 scope review 核准，只追**這一個 cryptographically bound pointer**；不得打開 sibling references、完整 `市政連續性服務` index、人物資料擴張或 service-wide search。
-5. 若 scope review 拒絕，拒絕可以成立；不得為了節奏硬造另一個可開入口。
-6. 即使 pointer 獲准，也先公平測試 ordinary pre-consolidation migration／identity continuity／deduplication／high-recall carryover semantics；不能因 relation 更早就跳到 prior civilization。
-7. `市政連續性服務` 目前不是 predecessor originator；source domain／proposer 未知。
-8. 不重啟 T-04C 人物繫結、匿名交通／支付／住址、家庭原件、左眉 scoring、新感測器、A-2162-01／02 physical-event repeat checks、carrier subtype catalogues。
-9. 不把 Chapter 085 predecessor pointer 接到 B-17、`MUNI-LEGACY/INGEST`、327、8-prefix、ARK／reconstruction／cycles；任何橋接都必須來自新 direct evidence。
-10. Chapter 085 已是本區塊 model-changing turn；Chapter 086 不應立刻再變成長篇「申請 → table → boundary」。如果 scope review 有結果，可以壓縮；真正的下一個 technical scene 應讓 predecessor relation 本身回答**不同的問題**。
+1. **Architecture Checkpoint 008 controls.** Part IV remains active; Part V is closed.
+2. Chapter 091 建立的是 **generic schema bridge，不是 specific anchor payload pointer**。不得把 namespace 直接當作 case-anchor access。
+3. Anchor semantic payload、specific anchor value、anchor-origin lineage、source-level／sibling traversal、full `MUNI-LEGACY/INGEST` index 與 full `市政連續性服務` index 均維持關閉，除非新的獨立 operational necessity 直接指向 specific case anchor/origin。
+4. B-17 仍是獨立 reader promise：它確實支援 MUNI compatibility family，但**沒有 direct evidence 證明 B-17 曾攜帶 specific legacy subject anchor**。不得因 family-level schema bridge 就自動搜尋／指定 B-17。
+5. 2187 event exact MUNI policy revision／delivery provenance 仍與 Chapter 091 generic 2163 contract 分開；family relation ≠ exact revision/content lineage。
+6. Chapter 076 firewall 繼續控制。林澈仍是 affected person／technical declarant，不是 anchor-origin query designer；live interpretation／necessity design 由獨立端先做。
+7. 人物案件仍【未結／無主動查詢】；不得重啟 T-04C、匿名交通／支付／住址、家庭原件、左眉 scoring、新 sensor、A01/A02 physical-event repeat checks、carrier subtype catalogues。
+8. R-12 hardware 已銷毀；A-2162-03 physical evidence strength unchanged。不得用 089／090 倒接新 anchor lineage。
+9. 不連 327、盲式「你看過了。」、64-bit／8-prefix、ARK／reconstruction／cycles，除非新的 direct bridge 自己出現。
+10. No automatic access follows from a successful structural reveal. If no legitimate specific-origin trace exists, a denial／silence／human-consequence slice may stand.
 
 ### Near-term Part IV targets
 
-- 等待／處理 predecessor pointer 的 independent necessity decision；不替結果預設核准。
-- 若獲准，建立 predecessor relation 的最小 object class／formation semantics／time boundary／source domain；優先回答「這是什麼 relation」而非直接追「那個人是誰」。
-- 允許一個 ordinary predecessor mechanism 得到支持；只有 ordinary layer 真的不足，才往 prior-civilization evidence 推進。
-- 在更大 reveal 前，繼續保護 B-CURRENT ordinary life、H-U01 provisional subject 與 physical evidence 三條層次不互相偷渡。
-- 回收 reader promises 優先於新增 mystery box；B-17、327、「你看過了。」、64-bit／8-prefix 都可以是未來方向，但**只有 direct predecessor evidence 自己建立入口時**才能接。
-- 第一個 civilization-scale reveal 仍必須先證實**一個** prior civilization／reconstruction-level trace，再談七次；數字 8 不能自己完成工作。
+- **優先回答 specific anchor origin，而不是再確認 generic namespace。** 下一個 mystery-bearing source 若成立，應直接改變「誰／什麼 upstream system 附著 anchor」的模型。
+- 若沒有合法 specific-origin source，優先安排 distinct scene grammar：human/institutional consequence、field/public action、relationship/risk，而不是立刻「open MUNI index → another table」。
+- 若 future evidence 自己建立 B-17 ↔ specific anchor direct relation，才可回收 B-17；否則保持 family-capability 與 case-anchor path 分離。
+- 若 future evidence 自己建立 exact 2187 MUNI revision ↔ case-anchor lineage，才可把 early event path 與 current anchor path 接成 content/delivery chain。
+- 第一個 civilization-scale reveal 仍必須先證實**一個** prior-civilization／reconstruction-level trace，再談七次；目前還沒有。
+- 回收 reader promises 優先於新增 mystery box，但每一條回收都需要 direct evidence，不靠詞彙或作者知道真相。
 
 ### Explicit holds
 
@@ -223,18 +249,18 @@ Part IV 開場的 2164 candidate-origin 問題已經被 Chapters 081–085 逐�
 - 不追匿名乘車序列、支付身份、住址或生活圈，只因「想知道他去哪裡」。
 - 不重新使用家庭原件做身份／血緣模型；若未來需要，必須有新的必要性與母親本人同意。
 - 不把左眉當萬能破局鍵；只有新的獨立來源能讓它被問一個不同問題時才回收。
-- 不因 `市政連續性服務` 已有多種可驗 ordinary duty 就推定它是 ARK 或隱藏主系統。
-- 不因 predecessor relation 早於 2164 consolidation 就推定它跨文明、來自重建或證明時間旅行／clone。
+- 不因 `市政連續性服務` 已有多種 ordinary duty 就推定它是 ARK／anchor originator／hidden master system。
+- 不因 `MUNI-LEGACY/INGEST` 現在與 anchor field class 有 direct generic schema relation，就推定 specific anchor 來自 B-17、exact 2187 revision、prior civilization 或 ARK。
 
 ### Scene pacing constraint
 
-- Chapter 085 已承擔 technical/model turn；下一章優先讓 scope consequence／人際或 institutional weight 佔有足夠空間，除非 predecessor pointer 的合法解析本身形成質不同的 source。
-- 若下一章含 scope decision，不需要重演完整申請流程；只寫真正改變人物可做／不可做的部分。
-- 林澈仍是受影響當事人／技術陳述人，不是 query designer；predecessor relation 的未定案推論先在沒有他的情況下完成。
+- Chapter 091 是 technical/model turn；下一個 normal slice優先採不同 scene grammar，除非一個 genuinely independent specific-anchor-origin source 立即成立且問題類型明顯不同。
+- 不重演「generic contract → namespace → boundary」；如果下一個 technical result只是再證明 MUNI family存在，應壓縮或不寫。
+- 林澈仍是受影響當事人／技術陳述人，不是 query designer；anchor-origin 未定案推論先在沒有他的情況下完成。
 
 ### Next audit gate
 
-Audit 021 後已完成 Chapters 084–085 兩個 normal slices。約再完成 **2 個** normal writing slices 後做下一次 routine audit；若更早出現另一個真正 structural reveal，再先做 architecture checkpoint。
+Audit 023 已在 Chapter 091 後完成並重設 counter。Chapter 092 可正常續寫；約再完成 **4 個** normal writing slices 後做 routine audit，除非更早出現真正 structural reveal／architecture checkpoint。
 
 ## Part III endpoint — achieved
 
@@ -244,14 +270,14 @@ Part III 四項條件全部完成：
 - 第一個通往更大隱藏系統方向的可靠、局部、操作性 bridge：**Chapter 073 達成**；
 - 林澈完整當代人生與 2162 歷史人物被同一更大 historical/system question 同時捕捉：**Chapter 079 達成。**
 
-Part III 結束時仍不知道 H-U01 是誰；Part IV 已進一步證明 relation 早於 2164 consolidation，但仍不知道 predecessor assertion 為何形成。這是下一階段問題，不是 continuity error。
+Part III 結束時仍不知道 H-U01 是誰；Part IV 已把 relation 往 pre-consolidation anchor/MUNI schema 層推進，但仍不知道 specific anchor 的 upstream origin／meaning。這是下一階段問題，不是 continuity error。
 
 ## Long-form reveal ladder
 
 - **Part I〈錯誤年代〉**：一個檔案 → 可獨立存在的異常。Completed Ch.001–029.
 - **Part II〈被修補的歷史〉**：一個案件 → 歷史系統本身的斷裂。Completed Ch.030–044.
 - **Part III〈沒有前史的人〉**：歷史問題 → 林澈身份／歷史人物關係 → evidence-earned legacy bridge → pre-2187 identity convergence。Completed Ch.045–079.
-- **Part IV〈第七座墓〉**：2164 candidate-origin → pre-consolidation relation provenance → prior-civilization／reconstruction truth；先證實一個 prior civilization，再談七次。**Active through Chapter 085.**
+- **Part IV〈第七座墓〉**：2164 candidate-origin → pre-consolidation relation provenance → anchor/MUNI schema bridge → specific anchor upstream origin → prior-civilization／reconstruction truth；先證實一個 prior civilization，再談七次。**Active through Chapter 091.**
 - **Part V〈第八次黎明〉**：把「發生了什麼」轉成「人類是否有權拒絕下一次被拯救」，完成主要伏筆與不可逆選擇。
 
 ## Long-form constraint
