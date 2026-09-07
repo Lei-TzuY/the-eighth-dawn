@@ -8,7 +8,7 @@
 - 外觀／識別：左眉骨有一道很淺的凹痕；11 歲時從維修梯摔落後留下。
 - 性格基線：理性，習慣先排除技術性錯誤；並非天生反程序。第一晚未授權保留、完整性稽核與後續利益衝突處置後，已把「獨立驗證」視為結果可信度的一部分。
 
-### Current state after Chapter 091
+### Current state after Chapter 093
 
 - 不持有原始來源晶片或離線診斷晶片；封存副本由資料完整性室保管，編號 `DI-2187-0612-4431`。
 - 保有紙本現場筆記、四組原始雜湊與完整性室正式收據；沒有第二份完整影像副本。
@@ -53,10 +53,12 @@
 - Chapter 089：在 R-12 已獲授權的實體釋放／拆解流程中，以技術陳述人身分只確認既有 bounded lineage state、migration receipt／checkpoint 可重驗邊界與實機封條；沒有開 payload、index 或新查詢。制度上雖可在具體問題仍需實機本體時提出 discretionary hold，他主動判定目前沒有這種必要性，並拒絕把 opaque legacy subject anchor 當保留理由，因兩線沒有 direct relation。R-12 硬體最終被拆解銷毀，他能接受「問題還在」與「物件可以消失」同時成立。
 - Chapter 090：接受一件與案件無關、但現場正是 A-2162-03 舊月台所在地的普通軌道設施來源工作；主管提供無成本換人選項，他仍照常執行。林澈不開 2162 事故影像、不追匿名乘車／支付／住址，也不把現行乘客、現行設施或自己對十八秒舊畫面的記憶變成新 evidence。這讓他能把「同一個地方」與「更多查詢權」徹底分開：地點可以仍有私人重量，卻不因此永久屬於案件。
 - Chapter 091：在與人物案件無關的 parser-compatibility 工作中認出 `legacy subject anchor` field class，之後又從簽章有效的 2163 generic interface contract 看見 `MUNI-LEGACY/INGEST`。他沒有用自己的案件作業務輸入、沒有要求打開 31 份 unrelated legacy envelopes 的 person payload／subject values，也沒有接手較資淺修復員的格式修正。主管只把 generic contract metadata 交給獨立歷史完整性端；林澈只接收 finalized relation update。現在他知道 `legacy subject anchor` field class 與 `MUNI-LEGACY/INGEST` 在 2163 handoff schema 中有直接關係，且 handoff layer 只能 validate + preserve opaque value、不能 interpret／merge，origin authority 在 upstream source domain；他仍不知道 specific case-anchor payload／origin、exact 2187 revision、B-17 path，也沒有因此取得新的 access。
+- Chapter 092：generic schema bridge 觸發 31 份 unrelated envelopes 是否應 blanket hold 的 records-purpose review；林澈沒有開 subject values、anchor values、person payload或 envelope IDs。獨立 reviewer 定案 generic contract／parser regression fixture／batch-level compatibility witness 已足以重驗 Chapter 091，個別 envelopes 回原保存期限、不進 case。林澈接受「未來合法到期可能讓未來問題少一條路」與「今天仍沒有權把所有人的資料留下」可以同時成立，也沒有建立私人清單。
+- Chapter 093：較資淺修復員取得 bounded 普通來源修復獨立送件資格時，林澈沒有用 broad「值得信任」評語替她背書，只留下兩項自己實際見證的可驗能力觀察。她做第一件獨立市場通風來源工作時，他不先替她看完整份結果；只在她提出一個具體問題時用工作目的幫她界定證據層級，也不替她決定「獨立送件／同儕預審」兩個都合法的選項。她獨立送件後，林澈不再把持續看著她工作當成責任或自己的成長證明；兩人關係轉為普通同事而非 formal mentor／apprentice。
 
 ### Current character arc
 
-林澈已從「證明那個人是不是我」轉向「先讓那個人作為獨立歷史主體留下自己的證據」，並在 Chapter 079 之後進入更難的一層：**兩端確實早已被歷史制度放進同一個問題，但這仍不等於答案已經是『同一個人』。** Chapters 080–083 再把這一層逐步拆開：普通童年仍是真實正面證據；`DO NOT MERGE` 可有正常保護語意；candidate 本身可以是高召回而非強身份結論；而真正的 upstream historical question 最終甚至可以在不把「林澈」當搜尋條件的情況下繼續存在。Chapters 084–087 又把這個變化落到角色位置、等待方式與結果承受上：他能讓未解問題離開自己的首頁；在 predecessor pointer 出現時先接受「它存在」而不把存在偷換成讀取權；在一個明確時間的 offscreen read 發生時照常完成普通工作；最後也能接受一個把歷史 relation 從「臉太像」改寫成「更早共享 opaque anchor」的 model-changing result，而不把新問題立即變成自己的下一次查詢權。Chapter 088 再把這個 model change 帶回家庭生活：他能只說能站住的高層次事實，不把母親變成來源、不把未知補成說法，也接受**問題的起點可以改變，而今天這個人的普通人生不必因此被改寫。** Chapter 089 則把 retention arc 推到不可逆的一步：他不只是不多留一份，而是能在一個仍牽涉未解歷史的實體物件真正被拆掉時，要求自己先回答「留下它究竟還能回答什麼」，並在沒有具體答案時讓它消失。Chapter 090 又把一個曾經只以十八秒案件畫面存在的月台還回普通公共生活；Chapter 091 則第一次讓一條 Part I reader promise 以 direct schema evidence 真正接回 Part IV，而林澈仍不把 bridge 偷換成 payload／index access。其核心成長不再只是變得更守程序，而是理解：
+林澈已從「證明那個人是不是我」轉向「先讓那個人作為獨立歷史主體留下自己的證據」，並在 Chapter 079 之後進入更難的一層：**兩端確實早已被歷史制度放進同一個問題，但這仍不等於答案已經是『同一個人』。** Chapters 080–083 再把這一層逐步拆開：普通童年仍是真實正面證據；`DO NOT MERGE` 可有正常保護語意；candidate 本身可以是高召回而非強身份結論；而真正的 upstream historical question 最終甚至可以在不把「林澈」當搜尋條件的情況下繼續存在。Chapters 084–087 又把這個變化落到角色位置、等待方式與結果承受上：他能讓未解問題離開自己的首頁；在 predecessor pointer 出現時先接受「它存在」而不把存在偷換成讀取權；在一個明確時間的 offscreen read 發生時照常完成普通工作；最後也能接受一個把歷史 relation 從「臉太像」改寫成「更早共享 opaque anchor」的 model-changing result，而不把新問題立即變成自己的下一次查詢權。Chapter 088 再把這個 model change 帶回家庭生活：他能只說能站住的高層次事實，不把母親變成來源、不把未知補成說法，也接受**問題的起點可以改變，而今天這個人的普通人生不必因此被改寫。** Chapter 089 則把 retention arc 推到不可逆的一步：他不只是不多留一份，而是能在一個仍牽涉未解歷史的實體物件真正被拆掉時，要求自己先回答「留下它究竟還能回答什麼」，並在沒有具體答案時讓它消失。Chapter 090 又把一個曾經只以十八秒案件畫面存在的月台還回普通公共生活；Chapter 091 則第一次讓一條 Part I reader promise 以 direct schema evidence 真正接回 Part IV，而林澈仍不把 bridge 偷換成 payload／index access。Chapter 092 把 generic schema relevance 落到他人資料保存權：他能接受不把 31 個可能未來有用的人生先留下。Chapter 093 再把「不用 broad trust 替代可驗事實」帶進專業關係：他能支持一名較資淺同事成為獨立修復員，而不把她的資格當成自己的救贖、推薦權或持續監看的理由。其核心成長不再只是變得更守程序，而是理解：
 
 - 相似不等於佔有；
 - 想知道不自動等於有權打開；
@@ -80,9 +82,11 @@
 - **一個 model-changing historical fact 可以改變「問題從哪裡開始」，但不自動把現在的工作、童年、家人或普通人生改寫成證據；**
 - **不知道、重要、可能未來有用，也都不是永久保存一個實體物件的充分理由；retention 必須能對應到一個該物件仍能回答的具體問題；**
 - **身處與舊線索相同的物理位置，不會因此增加對另一個人歷史生活的資料權利或 evidence strength；**
-- **一條直接的舊伏筆 bridge 可以成立，而 specific payload、origin 與 access 仍然保持未知／關閉。**
+- **一條直接的舊伏筆 bridge 可以成立，而 specific payload、origin 與 access 仍然保持未知／關閉；**
+- **generic field-class relevance 不足以把所有攜帶該欄位的人的資料變成自己的案件資料；**
+- **支持另一個人的專業獨立，不等於替對方保證不犯錯，也不等於自己必須一直站在旁邊看；bounded competence 應由具體工作事實支撐。**
 
-Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違規：他現在能接受**留下足夠回答問題的東西，而不是留下能留下的一切。** Chapters 065–066 又把這個原則推進一層：他能接受一份來源回答得更深、另外兩份只保留各自原本有責任回答的問題，而不為了完整感去製造新的證據。Chapters 067–068 把界線從「何時停止查」推到「誰有權決定」；Chapters 069–072 則把抽象界線轉成普通工作、同事關係、實際職務成本與家庭生活。Chapters 073–076 把界線推到跨支線制度橋接後的角色治理；Chapter 077 讓他接受可信結果不必由自己親眼看著形成；Chapter 078 讓他把「修復／重建」區分交給另一名修復員實際承擔。Chapter 079 最終讓他接受：即使歷史已經證明「兩端曾經被同一制度放進一個 continuity candidate」，他仍必須停在 `candidate-origin basis` 未知的位置，不用 landmark 替自己越權。Chapter 080 讓他在家庭場景裡守住另一條界線：**新事實可以很大，但不因此把母親、童年與每一段普通記憶都改造成證物。** Chapters 081–083 再把「候選形成」從個人身份直覺中剝開：先確認 missing origin 是 normal schema behavior，再確認 candidate 可以只是 high-recall question，最後接受 upstream historical question 可以不用自己的名字作為入口。Chapter 084 讓他把「問題不必一直掛在眼前」落實成日常選擇；Chapter 085 則讓他在真正出現 predecessor pointer 時仍守住相同原則：先讓獨立端決定 necessity，而不是因路徑終於出現就把路徑當成權利。Chapters 086–087 再把這個原則從「等待審查」推到「承受結果」：他能讓 read 在自己不在場時真正發生，能在那段時間做普通工作，也能在 shared anchor 出現後停在 `INSUFFICIENT WITHIN CURRENT SCOPE`，不把新問題偷換成新授權。Chapter 088 則把「承受結果」推到更私人但更克制的位置：**他可以把結果帶回家，卻不需要把不知道的部分填成故事，也不需要讓家人成為證據的一部分。** Chapter 089 最後把第一夜的 preservation wound 反向完成一次：**這次東西真的會消失，而他沒有因為害怕未來後悔就先留下；因為真正該留下的，是足以回答已成立問題的可重驗紀錄，而不是所有還能抓住的物件。** Chapter 090 再證明同一原則可作用於空間：**案件曾在這裡發生，不代表這裡從此只能是一個等待被解碼的現場。** Chapter 091 則進一步證明：**即使早期伏筆終於由直接證據接回來，也只應該接回它真正被證明的層次；generic schema relation 成立，不代表 specific origin／payload／delivery path 已經成立。**
+Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違規：他現在能接受**留下足夠回答問題的東西，而不是留下能留下的一切。** Chapters 065–066 又把這個原則推進一層：他能接受一份來源回答得更深、另外兩份只保留各自原本有責任回答的問題，而不為了完整感去製造新的證據。Chapters 067–068 把界線從「何時停止查」推到「誰有權決定」；Chapters 069–072 則把抽象界線轉成普通工作、同事關係、實際職務成本與家庭生活。Chapters 073–076 把界線推到跨支線制度橋接後的角色治理；Chapter 077 讓他接受可信結果不必由自己親眼看著形成；Chapter 078 讓他把「修復／重建」區分交給另一名修復員實際承擔。Chapter 079 最終讓他接受：即使歷史已經證明「兩端曾經被同一制度放進一個 continuity candidate」，他仍必須停在 `candidate-origin basis` 未知的位置，不用 landmark 替自己越權。Chapter 080 讓他在家庭場景裡守住另一條界線：**新事實可以很大，但不因此把母親、童年與每一段普通記憶都改造成證物。** Chapters 081–083 再把「候選形成」從個人身份直覺中剝開：先確認 missing origin 是 normal schema behavior，再確認 candidate 可以只是 high-recall question，最後接受 upstream historical question 可以不用自己的名字作為入口。Chapter 084 讓他把「問題不必一直掛在眼前」落實成日常選擇；Chapter 085 則讓他在真正出現 predecessor pointer 時仍守住相同原則：先讓獨立端決定 necessity，而不是因路徑終於出現就把路徑當成權利。Chapters 086–087 再把這個原則從「等待審查」推到「承受結果」：他能讓 read 在自己不在場時真正發生，能在那段時間做普通工作，也能在 shared anchor 出現後停在 `INSUFFICIENT WITHIN CURRENT SCOPE`，不把新問題偷換成新授權。Chapter 088 則把「承受結果」推到更私人但更克制的位置：**他可以把結果帶回家，卻不需要把不知道的部分填成故事，也不需要讓家人成為證據的一部分。** Chapter 089 最後把第一夜的 preservation wound 反向完成一次：**這次東西真的會消失，而他沒有因為害怕未來後悔就先留下；因為真正該留下的，是足以回答已成立問題的可重驗紀錄，而不是所有還能抓住的物件。** Chapter 090 再證明同一原則可作用於空間：**案件曾在這裡發生，不代表這裡從此只能是一個等待被解碼的現場。** Chapter 091 則進一步證明：**即使早期伏筆終於由直接證據接回來，也只應該接回它真正被證明的層次；generic schema relation 成立，不代表 specific origin／payload／delivery path 已經成立。** Chapter 092 再把這條線推到 records-purpose：**可重驗 generic contract 不需要把每一個曾攜帶該欄位的人一起保存。** Chapter 093 則把同一精神落到同事身上：**可驗的具體能力比「我相信她」更適合承擔資格，而真正的獨立也意味著林澈不再是預設的第二雙眼睛。**
 
 ### Knowledge boundary
 
@@ -118,6 +122,8 @@ Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違�
 - Chapter 090 後，知道到訪 A-2162-03 現代月台沒有新增 2162 source、transit relation、identity relation 或 physical-carrier evidence；同地點只增加人物感受，不增加 access。
 - Chapter 091 後，知道 signed 2163 generic contract 直接建立 `legacy subject anchor` field class ↔ `MUNI-LEGACY/INGEST` compatibility namespace；handoff layer 的權限只有 validate + carry opaque field，不能 interpret／merge，anchor origin authority 在 upstream source domain。
 - Chapter 091 後，也知道這是**generic schema relation**而不是 specific case-anchor delivery lineage：specific payload／origin、exact 2187 policy revision relation、B-17 ↔ anchor relation、`市政連續性服務` anchor origin 全部仍未建立。
+- Chapter 092 後，知道 Chapter 091 的 generic schema bridge 不需要靠保存 31 份 unrelated subject payload 才能重驗；generic contract／parser regression fixture／batch-level no-subject-values witness 足夠，individual envelopes 已回原 retention schedules。
+- Chapter 093 後，知道第三組較資淺修復員已取得**普通來源修復獨立送件資格**，其權限明確不包含 unknown/immediate-clear sources、identity conflict、historical-integrity disputes 或 controlled person data；她的資格也不給她任何 MUNI／anchor／person-case access。
 - 2187 的現行姓名映射到期實務與 2162 舊服務只有主題／制度方向相似，沒有已建立 lineage。
 - 2158／2160 已確認形成跨系統歷史時間不一致，但不能替身份結論加權。
 - 未解析檔案頭存在 64-bit 週期與 8 次固定前綴，含義未知。
@@ -143,7 +149,7 @@ Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違�
 
 - 林澈的直接主管，正常制度角色。
 - 維持林澈案件利益衝突界線與來源鏈／封存媒介禁權。
-- 已知 Chapter 014–091 的主要受控覆核、ordinary false-resolution、歷史 discontinuity、營運後果、人物關聯結果、shared-node 角色邊界、Chapter 079 identity-convergence result、Chapters 081–083 proposal-origin／routing 定案狀態、Chapters 085–087 pre-consolidation carry-forward／legacy anchor finalized result，以及 Chapter 091 generic anchor↔MUNI schema bridge。Chapter 088 沒有向主管新增案件結果；Chapter 089 她與林澈共同見證 R-12 已授權的實體拆解；Chapter 090 她只安排 unrelated present-day platform work。
+- 已知 Chapter 014–093 的主要受控覆核、ordinary false-resolution、歷史 discontinuity、營運後果、人物關聯結果、shared-node 角色邊界、Chapter 079 identity-convergence result、Chapters 081–083 proposal-origin／routing 定案狀態、Chapters 085–087 pre-consolidation carry-forward／legacy anchor finalized result、Chapter 091 generic anchor↔MUNI schema bridge，以及 Chapter 092 retention boundary。Chapter 093 沒有新增案件結果；她只核准較資淺修復員的 ordinary-source independent submission qualification。
 - Chapter 061 知道林澈承認想追匿名乘車序列但選擇不要求重啟；沒有鼓勵繞過程序。
 - Chapter 062 與林澈一起看見最簡單平面載體支持下降，仍沒有替他下「真人／模型／物理人」超出證據的結論。
 - Chapter 063 知道 `持續可驗證保存` 與 `市政連續性服務` 的最窄普通保存含義；知道舊制度索引存在但未展開。
@@ -168,8 +174,24 @@ Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違�
 - Chapter 089 在資產回收中心沒有主導拆解，也沒有暗示應保留 R-12；她只提醒林澈制度上可提出具體 hold 問題，並接受他在找不到 hardware-specific necessity 後不提出。這維持她作為正常制度主管，而不是替案件藏答案或替林澈開後門的人。
 - Chapter 090 提供無成本換人選項，確認林澈回到 A-2162-03 現址是 ordinary work choice，不是調查命令；沒有把現場變成新 case source。
 - Chapter 091 看見 2163 generic contract 中 `MUNI-LEGACY/INGEST` 後，先確認林澈沒有拿它去碰 historical-continuity scope；只把 generic contract identification／signature／field definition 送交獨立歷史完整性端，不送 31 份 subject values。Finalized schema relation 回來後，她沒有開 anchor payload、MUNI full index、B-17 或 service-wide search。
+- Chapter 092 把 31 份 unrelated envelopes 的 blanket-hold 問題交給獨立 records-purpose reviewer，而不是由自己或林澈決定；接受 reviewer 以可重驗 generic artifacts 取代 subject-level retention，未把「可能有用」當成保存目的。
+- Chapter 093 核准較資淺修復員取得 ordinary-source independent submission qualification，依據是已記錄的具體 competencies，而不是把林澈的廣泛信任或 endorsement 當資格來源；同時把高風險來源、identity、historical-integrity 與 controlled-person-data 明確排除在資格外。這不是把她升成案件成員，也沒有把林澈指定成 formal mentor／approver。
 - Chapter 026 明確承認林澈違規成立但不建議停職；沒有用後來證據替其免責。
 - 不知道 ARK、文明循環、影像男子身份或 327 年標記真假；不得寫成隱藏知情者。
+
+## 第三組較資淺修復員（姓名未定）
+
+- Chapter 070 首次以第三組較資淺／新修復員身分跟隨林澈半天；這不是正式 mentorship、升遷或人物案件安排。她從工作中知道林澈曾因未授權保留收到書面警示，也知道 purpose-limited working copy 與「可能有用」不會倒推權力。
+- Chapter 078 在南堤公共記憶站作為 primary operator，能對外清楚區分來源修復與明示重建：可生成的紀念性版本有合法用途，但不能冒充原始來源找回的內容。
+- Chapter 082 參與現行市民資格更新來源修復，能在用途固定時不打開匿名 counterpart，並看見 high-recall candidate／merge-safety 的 ordinary contemporary example；不得把該例外推為 2164 case mechanism。
+- Chapters 086–087 與林澈一起做普通來源工作時，知道他有某些受限制的 finalized-result notification，但沒有因此取得 historical-continuity live interpretation 或 scope authority；Day 28 她在灰色通知到達時主動讓出可能涉及受控結果的視線範圍。
+- Chapter 090 與林澈一起完成 A-2162-03 現址的**當代**設施 provenance 工作；只高層次知道該月台曾出現在林澈的舊事故影像問題裡，不取得人物案件 technical access，也不把現場當新歷史來源。
+- Chapter 091 主導 unrelated legacy-parser operational fix。她拒絕直接 drop unknown field 或映射成 current subject identifier，先查 signed source contract；知道 generic `legacy subject anchor` field class 在 2163 handoff contract 下屬 `MUNI-LEGACY/INGEST`、必須 opaque carry／不得 local interpret/merge。她沒有看 31 份 person payload／subject values，也不是 historical-continuity reviewer；generic contract 與 Lin Che case 的正式 relation 由獨立端定案。
+- Chapter 092 參與 records-purpose 問題的 ordinary operational side，但沒有取得 31 個 anchor values／envelope IDs；知道 blanket investigative hold 被拒絕、generic contract/regression fixture/batch witness 可在無 subject values 下保留可重驗性。這不給她任何 specific anchor access。
+- **Chapter 093 起正式取得【普通來源修復／獨立送件資格】。** 可獨立送件的範圍只限：來源狀態已確認、用途固定、無即時清除風險的一般案件。明確排除：來源狀態不明／即時清除、identity conflict、historical-integrity dispute、controlled person data，以及任何需要 MUNI／anchor／人物案件 live interpretation 的工作。
+- Chapter 093 第一件獨立送件為南區市場地下通風設備年度來源鏈；她拒絕把只證明欄位名稱對應的設備商 automatic mapping 當成指定實機 continuity evidence，改以更換驗收時同一轉速基準器的實測紀錄支撐 `fan_rpm_raw` ↔ `rotation_rate` 的 batch-specific continuity，並把結論限在指定設備批次／列明來源。
+- 她可以在有**具體不確定**時主動請求 peer pre-review；但 Chapter 093 已證明她不需要把單純「怕錯」自動轉成林澈的事前批准。Lin Che 是普通同事／可被問具體工作問題的人，不是她的 formal mentor、manager 或 mandatory approver。
+- 姓名仍未建立。不得因取得資格而任意命名、升格成案件成員或讓她知道未經合法工作／公開互動得知的 H-U01／specific anchor／ARK 技術內容。
 
 ## 林澈母親（姓名未定）
 
@@ -188,9 +210,9 @@ Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違�
 - Chapters 081–087 沒有再向她更新 technical result，也沒有取得任何新家庭資料或同意。
 - Chapter 088 在屋頂公共水槽例行確認時，她只收到一個**高層次、非技術**更新：歷史 relation 現已知不是由臉部相似或姓名形成，而是更早已有某種 relation marker；marker 的意義、來源、誰建立以及為何兩端都有仍未知。她沒有得到或要求 `市政連續性服務` 名稱、A-2162-02 代碼、R-12、2163-Q2、`legacy subject-alias continuity assertion`、`legacy subject anchor`、source domain、scope mechanics 或其他 technical payload。
 - Chapter 088 她沒有提交任何家庭資料、沒有要求搜尋自己的資料、沒有提供新 consent，也沒有把住戶水槽標記／簽認變成案件來源。她的持久人物立場再增加一點：**先問一個新歷史事實現在實際改變了什麼；如果它沒有改寫林澈的工作、童年與母子關係，就不要求他把未知部分先補成一個完整故事。**
-- Chapters 089–091 沒有出場，也沒有收到 R-12 銷毀、A-2162-03 現址外勤、MUNI schema bridge 或其他新 technical result。
-- 她仍不知道 T-04C、工作包、A-2162-03 代碼、Chapter 057–059 技術細節、Chapter 062 平面載體覆核、Chapter 063–066 保存架構／事件關係細節、`市政連續性服務` 名稱與 Chapter 073／079 制度細節、Chapter 074–075 R-12 lineage、Chapter 081–091 proposal／routing／predecessor／MUNI technical 細節、R-12 physical destruction、2158／2160 discontinuity、327 年標記真假、ARK 或文明循環。
-- Chapter 045–091 沒有重新取得家庭影像身份建模／家族推論用途同意；她沒有成為案件參與者。
+- Chapters 089–093 沒有出場，也沒有收到 R-12 銷毀、A-2162-03 現址外勤、MUNI schema bridge、31-envelope retention decision、junior qualification 或其他新 technical result。
+- 她仍不知道 T-04C、工作包、A-2162-03 代碼、Chapter 057–059 技術細節、Chapter 062 平面載體覆核、Chapter 063–066 保存架構／事件關係細節、`市政連續性服務` 名稱與 Chapter 073／079 制度細節、Chapter 074–075 R-12 lineage、Chapter 081–093 proposal／routing／predecessor／MUNI technical 細節、R-12 physical destruction、2158／2160 discontinuity、327 年標記真假、ARK 或文明循環。
+- Chapter 045–093 沒有重新取得家庭影像身份建模／家族推論用途同意；她沒有成為案件參與者。
 - Chapter 068 她主動要求保留自己的未來選擇權：若日後真的出現具體、必要且現有資料無法回答的家庭資料問題，必須先向她說明用途、衍生資料、可見範圍與保存風險，再由她本人決定；這不是預先同意，也不代表家庭 gate 已鬆動。
 - Chapter 072 她不替林澈否認原錯誤，也不要求他對公平限制感到平靜；她接受「限制合理／代價真實／本人仍不高興」可以同時成立。
 - Chapter 077 她提出：若未來得到一個林澈不喜歡但流程站得住的答案，先判斷它是否站得住，而不是要求自己先喜歡它。
@@ -208,7 +230,7 @@ Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違�
 - 維持：兩份 2162 影像各自跨門檻不能與既有 97.6% 相加；`H-2162-U01` 只是暫定人物節點；三來源場景相容性、`LIVE-SENSOR`、非影像物理占位、多姿態幾何或保存架構都不能單獨升格成真人身份。
 - Chapter 065–066 明確維持「事件級物理綁定成立 ≠ 自然人／真實外觀成立」與「其他來源沒保存同類關係 ≠ 有人刻意移除」。
 - Chapter 079 的 A-2162-02 subject-separation relation 若後續需要內容覆核端參與，也只能作為 historical subject-governance relation；不能因此把先前的 face/source evidence 升格成同一身份或真人結論。
-- Chapters 081–091 沒有新增需由內容覆核員下結論的人物影像 evidence；不得因 proposal／routing／predecessor provenance／legacy subject anchor、Chapter 088 家庭承接、Chapter 089 R-12 銷毀、Chapter 090 現址外勤或 Chapter 091 generic MUNI schema relation而升級既有 face/source 結論。
+- Chapters 081–093 沒有新增需由內容覆核員下結論的人物影像 evidence；不得因 proposal／routing／predecessor provenance／legacy subject anchor、Chapter 088 家庭承接、Chapter 089 R-12 銷毀、Chapter 090 現址外勤、Chapter 091 generic MUNI schema relation、Chapter 092 retention 或 Chapter 093 ordinary qualification 而升級既有 face/source 結論。
 - 未建立為盟友、反派或知情者。
 
 ## 系統稽核員（姓名未定）
@@ -231,6 +253,8 @@ Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違�
 - Chapter 087 的獨立團隊完成 bounded read，正式建立 relation class、2163-Q2 formation boundary、pre-consolidation inter-domain subject-handoff source domain、high-recall/non-merge-authoritative semantics 與 shared opaque legacy subject anchor；anchor origin 仍因超出 scope 停止，未開 full index 或其他 subject links。
 - Chapters 088–090 沒有新增 historical-integrity access state；Chapter 089 只是執行早已核准的 R-12 physical asset disposition，既有 bounded records 仍維持；Chapter 090 現址外勤不是 historical source。
 - Chapter 091 接收主管送來的**generic signed interface contract**而非 31 份 subject envelopes；finalized relation update 建立 `legacy subject anchor` field class ↔ `MUNI-LEGACY/INGEST` generic schema relation，並保留 specific payload/origin、B-17、exact 2187 revision、service origin 等否定邊界。沒有因此開 MUNI index、anchor payload 或 broader search。
+- Chapter 092 的 records-purpose review 沒有由歷史完整性端把 31 份 unrelated envelopes 收進 case；generic schema evidence 保留可重驗性但 subject-level retention 被拒絕。
+- Chapter 093 沒有新增 historical-integrity evidence/access state；junior qualification屬 ordinary staffing/professional workflow。
 - 不知道 ARK、文明循環或已確認的改史者／動機。
 
 ## 影像中的男子
@@ -243,7 +267,7 @@ Chapter 064 直接回扣第一夜「怕東西消失所以多留一份」的違�
 - Chapter 056 又有第三份獨立 2162 軌道安全來源被納入 `H-2162-U01`，仍沒有建立封存影像男子＝H-2162-U01。
 - Chapter 057–078 的來源模型、物理占位、事件級綁定、平面載體、保存架構、trigger-only 狀態、職務後果、跨支線制度橋接、角色 firewall、private trust 與 reconstruction scene 都沒有新增封存男子本身的身份證據。
 - Chapter 079 新增的不是封存影像男子身份證據，而是 **A-2162-02 subject region 與兒童林澈教育主體在 2164 已存在 subject-continuity candidate／separation relation**。這使 H-2162-U01 來源與林澈普通童年來源的 historical relation 成立，但仍不能判定封存影像男子＝H-U01、H-U01＝林澈，或任何生物／法律身份機制。
-- Chapters 080–091 沒有新增封存影像男子、H-U01 身份或來源 evidence；proposal／anchor／MUNI schema relation均屬 governance/provenance 層，Chapter 090 現址到訪也不是新人物來源。
+- Chapters 080–093 沒有新增封存影像男子、H-U01 身份或來源 evidence；proposal／anchor／MUNI schema relation均屬 governance/provenance 層，Chapter 090 現址到訪、Chapter 092 retention review與 Chapter 093 professional qualification也都不是新人物來源。
 - 左眉區域存在可跨 3 個有效影像幀追蹤的穩定表面凹陷；與林澈後天眉骨凹痕解剖位置高度相容、長軸方向中高相容，但形狀邊界與深度不足。
 - 凹陷是否真為傷痕、成因、身份、年代、是否與林澈存在血緣／人格／重建關係：全部未確定。
 
