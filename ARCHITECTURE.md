@@ -1,6 +1,6 @@
 # ARCHITECTURE — Full-novel macro plan
 
-> Status: Architecture Checkpoint 007 completed after Chapter 085. Part I〈錯誤年代〉completed Ch.001–029; Part II〈被修補的歷史〉completed Ch.030–044; Part III〈沒有前史的人〉completed Ch.045–079. Chapter 073 established the first directly verified cross-branch institutional bridge through `市政連續性服務`; Chapter 079 established identity convergence by proving that a 2164 subject-separation witness had already placed child Lin Che’s education subject and the A-2162-02 historical subject region into one continuity candidate before the 2187 investigation. Chapter 085 then established that the **specified pair’s proposal was not newly formed by the 2164 consolidation layer**: it was carried forward from a pre-consolidation subject-continuity assertion, with one cryptographically bound predecessor relation pointer retained but unopened. Part IV〈第七座墓〉remains active; Part V is not open. `CONTINUITY.md` controls established facts; if this file conflicts with continuity, continuity wins unless explicitly revised.
+> Status: Architecture Checkpoint 008 completed after Chapter 091. Part I〈錯誤年代〉completed Ch.001–029; Part II〈被修補的歷史〉completed Ch.030–044; Part III〈沒有前史的人〉completed Ch.045–079. Chapter 073 established the first directly verified cross-branch institutional bridge through `市政連續性服務`; Chapter 079 established identity convergence by proving that a 2164 subject-separation witness had already placed child Lin Che’s education subject and the A-2162-02 historical subject region into one continuity candidate before the 2187 investigation. Chapter 085 then established that the specified pair’s proposal was carried forward from a pre-consolidation subject-continuity assertion; Chapter 087 resolved that predecessor as a high-recall `legacy subject-alias continuity assertion` whose two roots shared one opaque `legacy subject anchor`; Chapter 091 now directly links that anchor field class to the early `MUNI-LEGACY/INGEST` compatibility family through a signed 2163 generic handoff contract. Part IV〈第七座墓〉remains active; Part V is not open. `CONTINUITY.md` controls established facts; if this file conflicts with continuity, continuity wins unless explicitly revised.
 
 ## Target shape
 
@@ -17,7 +17,7 @@
 - Avoid more than two consecutive chapters dominated by procedure/result summaries. After dense technical material, prefer an embodied scene: family, normal work, field action, public consequence, relationship strain, physical risk, or an irreversible choice.
 - Do not repeat the same proof pattern under new terminology. If the structure is again「能力存在 → 正常制度應留痕 → 指定來源缺該痕跡」, compress unless the result changes the model qualitatively.
 - A reveal should normally: close or sharply weaken one ordinary explanation, preserve epistemic discipline, and create a smaller but more dangerous question.
-- After several chapters without a mystery-model change, the next evidence-earned turn should preferably reclaim an existing promise or directly connect established clues rather than add an unrelated mystery box. Chapter 073 did this by connecting the Part II lineage branch and Part III preservation branch through one verified institutional node; Chapter 079 did it again by connecting Lin Che’s ordinary childhood archive directly to an H-2162-U01 source through a pre-existing 2164 subject-separation witness; Chapter 085 now moves the relation itself earlier than the 2164 consolidation layer without yet revealing its pre-consolidation origin.
+- After several chapters without a mystery-model change, the next evidence-earned turn should preferably reclaim an existing promise or directly connect established clues rather than add an unrelated mystery box. Chapter 073 did this by connecting the Part II lineage branch and Part III preservation branch through one verified institutional node; Chapter 079 did it again by connecting Lin Che’s ordinary childhood archive directly to an H-2162-U01 source through a pre-existing 2164 subject-separation witness; Chapter 085 moved the relation itself earlier than the 2164 consolidation layer; Chapter 091 now reconnects the resulting opaque anchor field class to the early `MUNI-LEGACY/INGEST` policy family through direct signed schema evidence.
 
 ## Evidence discipline — non-negotiable
 
@@ -33,6 +33,7 @@
 - a `DO NOT MERGE` witness ≠ proof that the two subjects can never belong to a larger reconstruction/continuity mechanism;
 - a pre-consolidation `subject-continuity assertion` ≠ same identity, strong identity confidence, natural-human continuity or known formation mechanism;
 - a retained predecessor pointer ≠ automatic necessity or authority to open it;
+- a direct generic `legacy subject anchor` ↔ `MUNI-LEGACY/INGEST` schema relation ≠ the specific case-anchor payload, its originating system, the exact 2187 policy revision, or a B-17 delivery path;
 - Part II historical discontinuity ≠ identity evidence;
 - shared institutional node ≠ shared event, person, content source, cause or hidden master system;
 - a valid 2164 migration receipt ≠ pre-2164 lineage correctness;
@@ -332,3 +333,52 @@ The title *The Eighth Dawn* should ultimately mean not only the eighth reconstru
 - The next slice should avoid a simple repeat of “permission → one table → boundary.” A scope decision may be delivered compactly; if access is approved, the actual predecessor relation should be treated as a distinct evidence problem with human/institutional consequences. If access is denied, that denial may stand without forcing a substitute clue.
 - No prior-civilization reveal has yet been established. Chapter 085 moves the date boundary earlier but does not cross a civilization boundary.
 - Next routine audit target remains after roughly **2 more normal writing slices**, unless another genuine structural reveal triggers an earlier checkpoint.
+
+## Architecture Checkpoint 008 — after Chapter 091
+
+### Decision
+
+**Part IV〈第七座墓〉continues. Part V remains closed. Chapter 091 establishes the first direct schema-level bridge between the specific mystery’s `legacy subject anchor` field class and the early `MUNI-LEGACY/INGEST` policy family, but it does not yet establish the specific case-anchor’s origin, payload, exact policy revision, B-17 path or any prior-civilization／ARK mechanism.**
+
+### Why this is a structural reveal
+
+- Chapter 091 arises from an independent operational trigger: a routine parser update quarantines 31 unrelated 2161–2163 inter-domain envelopes because the old field class lacks a current mapping. The work would happen without Lin Che or the person case.
+- The signed 2163 generic interface contract is direct technical evidence, not a shared-word inference: `legacy subject anchor` is explicitly governed under compatibility namespace `MUNI-LEGACY/INGEST` for `pre-consolidation inter-domain subject handoff`.
+- The contract defines the handoff layer as **carrier, not semantic originator**: `preserve verbatim`, local semantic interpretation prohibited, local subject merge authority none, origin authority upstream source domain.
+- This directly reconnects a Part IV anchor-provenance question with an established Part I policy family and therefore changes the reader’s model of where the mystery sits. The problem is no longer merely “why did two roots share an opaque anchor?”; the anchor field belongs to a known legacy compatibility architecture whose handoff layer was designed to preserve an upstream value without interpreting it.
+- The bridge remains generic. The 31 unrelated envelopes contribute no subject values or identity examples; their payloads remain closed.
+
+### What remains unproved
+
+- the specific case-anchor value／payload;
+- which upstream source domain or system minted／attached that specific shared anchor;
+- whether the anchor was correct or represented one human identity;
+- whether the 2187 event envelope used the same exact `MUNI-LEGACY/INGEST` revision or delivery path;
+- B-17 ↔ anchor direct relation, or B-17 as carrier/origin;
+- `市政連續性服務` as anchor originator or generic contract owner;
+- any link to 327 years, 「你看過了。」, 64-bit／8-prefix, ARK, reconstruction or civilization cycles.
+
+### New controlling Part IV question
+
+> **What upstream source domain or system attached the specific shared `legacy subject anchor` to both the child-education root and A-2162-02 root before the 2163 handoff layer, what did that anchor mean, and how—if at all—does that specific origin relate to the `MUNI-LEGACY/INGEST` family already seen in the 2187 event path?**
+
+### Access / pacing consequences
+
+- Chapter 091 creates a **direct schema bridge, not a new payload pointer**. It does not grant automatic access to anchor payload, sibling/source lineage, the full MUNI index, the full `市政連續性服務` index or any person data.
+- Do not immediately follow Chapter 091 with “open MUNI index → find B-17 → reveal ARK.” A lawful next mystery turn needs a new direct operational relation to the **specific case anchor or its origin**, not merely the generic namespace.
+- B-17 remains a separate promise: it is established as a gateway family that supported MUNI compatibility capability, not as a proven `legacy subject anchor` carrier.
+- The exact 2187 policy revision remains a separate promise: family/schema continuity does not prove exact revision/content delivery continuity.
+- Lin Che remains an affected person / technical declarant. Chapter 076 firewall continues to control any live anchor-origin interpretation or access design.
+- After a major schema bridge, prefer at least one different scene grammar or human/institutional consequence before another dense access table unless a genuinely independent source immediately creates a qualitatively different trace.
+- Part V does not open. No prior-civilization/reconstruction trace has yet been established; Chapter 091 still fits an ordinary legacy-compatibility architecture.
+
+## Current controlling writing gate after Chapter 091
+
+- Audit 023 and Architecture Checkpoint 008 are complete. This section supersedes the historical “Current writing gate after Chapter 085” above.
+- Part IV remains active; Part V is closed.
+- The post-Audit-023 normal-slice counter resets to 0. Chapter 092 may be drafted only after `PROGRESS.md` records Audit 023 and this checkpoint.
+- The immediate mystery target is the **specific shared anchor’s upstream origin/meaning**, not another generic handoff contract.
+- No automatic MUNI index access, B-17 search, anchor payload opening or service-index expansion follows from Chapter 091.
+- Prefer a distinct scene function after Chapter 091. If the next slice bears mystery evidence, its trigger must independently establish a direct relation to the specific case anchor/origin and must change the model rather than merely repeat namespace/schema confirmation.
+- Held gates remain held: T-04C person binding, anonymous transit/payment/address/life route, family originals, left-brow reuse/scoring, new sensors, A-2162-01／02 physical-event repeat checks and carrier subtype catalogues.
+- Do not connect Chapter 091 to 327, 「你看過了。」, 64-bit／8-prefix, ARK, reconstruction or civilization cycles without a new direct bridge.
